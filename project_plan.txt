@@ -21,8 +21,10 @@ The aim of this project is to assemble the genome of Enterococcus faecium. Then 
     3.3 Differential expression analysis (DESeq2, Htseq*)
       
   4 Tn-seq data analysis
-    4.1 Evaluate antibiotic resistance potential
-    4.2 Identify essential genes for growth in human serum based on the Tn-Seq data analysis.
+    4.1 Identify essential genes for growth in human serum based on the Tn-Seq data analysis.
+    
+  5 Overall analysis
+    5.1 Evaluate antibiotic resistance potential
 
 Tools marked with * denotes that they are rather time-consuming, which will probably need double check before executing. As for bottleneck, the Tn-seq analysis might be challenging, considering building the transposon mutant library, etc.
 
