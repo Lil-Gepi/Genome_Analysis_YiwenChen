@@ -63,7 +63,7 @@ genome_analyses/
 │ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.2.subreads.fastq.gz<br>
 │ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.3.subreads.fastq.gz<br>
 | ├──transcriptomics_data<br>
-│ │ ├──......
+│ │ ├──......<br>
 ├──00_FastQC<br>
 │ ├──code<br>
 │ ├──result<br>
