@@ -46,5 +46,31 @@ I will use both short-reads and long reads to assembly the whole genome of E. fa
 
 ---------------------------------------------------------------------------------
 5. How will you organize your data? (see “Project Organization”)<br><br>
+genome_analyses/
+├──raw_data  -><br>
+/proj/g2020008/nobackup/private/1_Zhang_2017/
+| ├──genomics_data
+│ │ ├──Illumina
+│ │ │ ├──E745-1.L500_SZAXPI015146-56_1_clean.fq.gz
+│ │ │ ├──E745-1.L500_SZAXPI015146-56_2_clean.fq.gz
+│ │ ├──Nanopore
+│ │ │ ├──E745_all.fasta.gz
+│ │ ├──PacBio
+│ │ │ ├──m131023_233432_42174_c100519312550000001823081209281335_s1_X0.1.subreads.fastq.gz
+│ │ │ ├──m131023_233432_42174_c100519312550000001823081209281335_s1_X0.2.subreads.fastq.gz
+│ │ │ ├──m131023_233432_42174_c100519312550000001823081209281335_s1_X0.3.subreads.fastq.gz
+│ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.1.subreads.fastq.gz
+│ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.2.subreads.fastq.gz
+│ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.3.subreads.fastq.gz
+| ├──transcriptomics_data
+
+
+
+
+
+
+
+
+
 
 
