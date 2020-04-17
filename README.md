@@ -63,14 +63,35 @@ genome_analyses/
 │ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.2.subreads.fastq.gz<br>
 │ │ │ ├──m131024_200535_42174_c100563672550000001823084212221342_s1_p0.3.subreads.fastq.gz<br>
 | ├──transcriptomics_data<br>
-
-
-
-
-
-
-
-
-
-
+│ │ ├──......
+├──00_FastQC<br>
+│ ├──code<br>
+│ ├──result<br>
+├──01_Trim_DNA<br>
+│ ├──code<br>
+│ ├──result<br>
+├──02_GenAssem_Canu_PacBio<br>
+│ ├──code<br>
+│ ├──result<br>
+├──03_GenAssem_Spades<br>
+│ ├──code<br>
+│ ├──result<br>
+├──04_Assess_Quast<br>
+│ ├──code<br>
+│ ├──result<br>
+├──05_Annotation_Prokka<br>
+│ ├──code<br>
+│ ├──result<br>
+├──06_RNA_mapping_BWA<br>
+│ ├──code<br>
+│ ├──result<br>
+├──07_RNA_readcount_HTSeq<br>
+│ ├──code<br>
+│ ├──result<br>
+├──08_Diff_Expression_DESeq2<br>
+│ ├──code<br>
+│ ├──result<br>
+├──09_Synteny_ACT<br>
+│ ├──code<br>
+│ ├──result<br>
 
