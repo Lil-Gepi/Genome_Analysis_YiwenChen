@@ -1,0 +1,127 @@
+Usage: java -jar $PILON_HOME/pilon.jar other-options...
+Pilon version 1.22 Wed Mar 15 16:38:30 2017 -0400
+Genome: /home/yich7866/02_GenAssem_Canu_PacBio/code/Canu_Output_PacBio/Enterococci.contigs.fasta
+Fixing snps, indels, gaps, local
+Input genome size: 3153598
+Scanning BAMs
+/home/yich7866/05_sam2bam/pillu2pac_aligned.bam: 3334323 reads, 0 filtered, 3226633 mapped, 3175683 proper, 38390 stray, FR 100% 466+/-15, max 510
+Processing tig00000001:1-2775628
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 66
+Total Reads: 2644971, Coverage: 66, minDepth: 7
+Confirmed 2775304 of 2775628 bases (99.99%)
+Corrected 1 snps; 0 ambiguous bases; corrected 95 small insertions totaling 95 bases, 2 small deletions totaling 2 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000001:2829-2886 0 -0 +0 NoSolution
+fix break: tig00000001:2201970-2202287 2202273 -43 +45 BreakFix
+# fix break: tig00000001:2452228-2452292 0 -0 +0 NoSolution
+# fix break: tig00000001:2775308-2775357 0 -0 +0 NoSolution
+tig00000001:1-2775628 log:
+Finished processing tig00000001:1-2775628
+Processing tig00000004:1-223944
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 75
+Total Reads: 245130, Coverage: 75, minDepth: 8
+Confirmed 223812 of 223944 bases (99.94%)
+Corrected 16 snps; 0 ambiguous bases; corrected 33 small insertions totaling 41 bases, 14 small deletions totaling 18 bases
+# Attempting to fix local continuity breaks
+fix break: tig00000004:947-1099 555 -778 +786 BreakFix
+# fix break: tig00000004:1332 0 -0 +0 NoSolution
+fix break: tig00000004:1692-1713 1331 -612 +605 BreakFix
+fix break: tig00000004:2063-2101 1665 -551 +548 BreakFix
+# fix break: tig00000004:4926-4966 0 -0 +0 NoSolution
+# fix break: tig00000004:6877-6916 0 -0 +0 NoSolution
+tig00000004:1-223944 log:
+Finished processing tig00000004:1-223944
+Processing tig00000006:1-17954
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 121
+Total Reads: 32216, Coverage: 121, minDepth: 12
+Confirmed 17456 of 17954 bases (97.23%)
+Corrected 4 snps; 0 ambiguous bases; corrected 10 small insertions totaling 10 bases, 5 small deletions totaling 5 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000006:808-872 0 -0 +0 NoSolution
+# fix break: tig00000006:1259-1300 0 -0 +0 NoSolution
+tig00000006:1-17954 log:
+Finished processing tig00000006:1-17954
+Processing tig00000007:1-40016
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 203
+Total Reads: 130122, Coverage: 203, minDepth: 20
+Confirmed 39523 of 40016 bases (98.77%)
+Corrected 0 snps; 0 ambiguous bases; corrected 1 small insertions totaling 1 bases, 0 small deletions totaling 0 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000007:1613-1633 0 -0 +0 NoSolution
+# fix break: tig00000007:25872-27176 0 -0 +0 NoSolution
+fix break: tig00000007:27985-28088 27756 -283 +283 BreakFix
+# fix break: tig00000007:28302-29205 0 -0 +0 NoSolution
+# fix break: tig00000007:36020-36038 0 -0 +0 NoSolution
+# fix break: tig00000007:36798-36816 0 -0 +0 NoSolution
+tig00000007:1-40016 log:
+Finished processing tig00000007:1-40016
+Processing tig00000008:1-15610
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 178
+Total Reads: 43950, Coverage: 178, minDepth: 18
+Confirmed 15277 of 15610 bases (97.87%)
+Corrected 0 snps; 0 ambiguous bases; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000008:8026-8400 0 -0 +0 NoSolution TandemRepeat 22
+# fix break: tig00000008:11978-11998 0 -0 +0 NoSolution
+# fix break: tig00000008:14287-14371 0 -0 +0 NoSolution
+tig00000008:1-15610 log:
+Finished processing tig00000008:1-15610
+Processing tig00000009:1-17106
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 65
+Total Reads: 16082, Coverage: 65, minDepth: 7
+Confirmed 15864 of 17106 bases (92.74%)
+Corrected 0 snps; 0 ambiguous bases; corrected 6 small insertions totaling 7 bases, 1 small deletions totaling 1 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000009:426-494 0 -0 +0 NoSolution
+# fix break: tig00000009:815-1101 0 -0 +0 NoSolution
+# fix break: tig00000009:1431-1509 0 -0 +0 NoSolution
+# fix break: tig00000009:1811-1878 0 -0 +0 NoSolution
+# fix break: tig00000009:2205-2818 0 -0 +0 NoSolution
+# fix break: tig00000009:3133-3285 0 -0 +0 NoSolution
+# fix break: tig00000009:3488-3549 0 -0 +0 NoSolution
+# fix break: tig00000009:11518-11580 0 -0 +0 NoSolution
+# fix break: tig00000009:14895-14925 0 -0 +0 NoSolution
+# fix break: tig00000009:15929-16052 0 -0 +0 NoSolution
+# fix break: tig00000009:16359-16386 0 -0 +0 NoSolution
+# fix break: tig00000009:16720-16769 0 -0 +0 NoSolution
+tig00000009:1-17106 log:
+Finished processing tig00000009:1-17106
+Processing tig00000010:1-28462
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 139
+Total Reads: 58132, Coverage: 139, minDepth: 14
+Confirmed 28413 of 28462 bases (99.83%)
+Corrected 0 snps; 0 ambiguous bases; corrected 14 small insertions totaling 14 bases, 5 small deletions totaling 6 bases
+tig00000010:1-28462 log:
+Finished processing tig00000010:1-28462
+Processing tig00000011:1-25091
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 140
+Total Reads: 52284, Coverage: 140, minDepth: 14
+Confirmed 25072 of 25091 bases (99.92%)
+Corrected 0 snps; 0 ambiguous bases; corrected 15 small insertions totaling 16 bases, 4 small deletions totaling 4 bases
+tig00000011:1-25091 log:
+Finished processing tig00000011:1-25091
+Processing tig00000013:1-9787
+frags /home/yich7866/05_sam2bam/pillu2pac_aligned.bam: coverage 108
+Total Reads: 15538, Coverage: 108, minDepth: 11
+Confirmed 9009 of 9787 bases (92.05%)
+Corrected 10 snps; 0 ambiguous bases; corrected 20 small insertions totaling 25 bases, 17 small deletions totaling 17 bases
+# Attempting to fix local continuity breaks
+# fix break: tig00000013:408-514 0 -0 +0 NoSolution
+# fix break: tig00000013:853-926 0 -0 +0 NoSolution
+fix break: tig00000013:1234-1267 1067 -505 +505 BreakFix
+fix break: tig00000013:1537-1590 1303 -691 +694 BreakFix
+fix break: tig00000013:1922-1937 1521 -730 +731 BreakFix
+# fix break: tig00000013:7511-7610 0 -0 +0 NoSolution
+tig00000013:1-9787 log:
+Finished processing tig00000013:1-9787
+Writing updated tig00000001_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000004_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000006_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000007_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000008_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000009_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000010_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000011_pilon to ../result/pilon_combined_genome.fasta
+Writing updated tig00000013_pilon to ../result/pilon_combined_genome.fasta
+Mean frags coverage: 70
+Mean total coverage: 70
