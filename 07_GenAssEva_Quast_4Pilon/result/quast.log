@@ -1,0 +1,62 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py /home/yich7866/06_Pilon/result/pilon_combined_genome.fasta -o ../result
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1127.el7.x86_64-x86_64-with-centos-7.8.2003-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-05-14 14:05:56
+
+Logging to /domus/h1/yich7866/07_GenAssEva_Quast/result/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /domus/h1/yich7866/07_GenAssEva_Quast/code
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/yich7866/06_Pilon/result/pilon_combined_genome.fasta ==> pilon_combined_genome
+
+2020-05-14 14:06:02
+Running Basic statistics processor...
+  Contig files: 
+    pilon_combined_genome
+  Calculating N50 and L50...
+    pilon_combined_genome, N50 = 2775723, L50 = 1, Total length = 3153758, GC % = 37.77, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/GC_content_plot.pdf
+  Drawing pilon_combined_genome GC content plot...
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/pilon_combined_genome_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-05-14 14:06:03
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-05-14 14:06:04
+RESULTS:
+  Text versions of total report are saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/report.html
+  PDF version (tables and plots) is saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/report.pdf
+  Icarus (contig browser) is saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/icarus.html
+  Log saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/quast.log
+
+Finished: 2020-05-14 14:06:04
+Elapsed time: 0:00:07.638611
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

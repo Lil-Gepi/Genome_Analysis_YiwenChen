@@ -1,0 +1,22 @@
+Assembly	Enterococci.contigs
+# contigs (>= 0 bp)	9
+# contigs (>= 1000 bp)	9
+# contigs (>= 5000 bp)	9
+# contigs (>= 10000 bp)	8
+# contigs (>= 25000 bp)	5
+# contigs (>= 50000 bp)	2
+Total length (>= 0 bp)	3153598
+Total length (>= 1000 bp)	3153598
+Total length (>= 5000 bp)	3153598
+Total length (>= 10000 bp)	3143811
+Total length (>= 25000 bp)	3093141
+Total length (>= 50000 bp)	2999572
+# contigs	9
+Largest contig	2775628
+Total length	3153598
+GC (%)	37.77
+N50	2775628
+N75	2775628
+L50	1
+L75	1
+# N's per 100 kbp	0.00
