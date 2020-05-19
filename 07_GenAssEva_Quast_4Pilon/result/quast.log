@@ -1,4 +1,4 @@
-/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py /home/yich7866/06_Pilon/result/pilon_combined_genome.fasta -o ../result
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py /home/yich7866/06_Pilon/result/pilon_combined_genome.fasta /home/yich7866/GCF_001750885.1_ASM175088v1_genomic.fna -o ../result --gene-finding
 
 Version: 4.5.4
 
@@ -7,56 +7,81 @@ System information:
   Python version: 2.7.6
   CPUs number: 20
 
-Started: 2020-05-14 14:05:56
+Started: 2020-05-16 16:35:16
 
-Logging to /domus/h1/yich7866/07_GenAssEva_Quast/result/quast.log
+Logging to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/quast.log
 NOTICE: Output directory already exists. Existing Nucmer alignments can be used
 NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
 
-CWD: /domus/h1/yich7866/07_GenAssEva_Quast/code
+CWD: /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/code
 Main parameters: 
   Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
 
 Contigs:
   Pre-processing...
-  /home/yich7866/06_Pilon/result/pilon_combined_genome.fasta ==> pilon_combined_genome
+  1  /home/yich7866/06_Pilon/result/pilon_combined_genome.fasta ==> pilon_combined_genome
+  2  /home/yich7866/GCF_001750885.1_ASM175088v1_genomic.fna ==> GCF_001750885.1_ASM175088v1_genomic
 
-2020-05-14 14:06:02
+2020-05-16 16:35:20
 Running Basic statistics processor...
   Contig files: 
-    pilon_combined_genome
+    1  pilon_combined_genome
+    2  GCF_001750885.1_ASM175088v1_genomic
   Calculating N50 and L50...
-    pilon_combined_genome, N50 = 2775723, L50 = 1, Total length = 3153758, GC % = 37.77, # N's per 100 kbp =  0.00
+    1  pilon_combined_genome, N50 = 2775723, L50 = 1, Total length = 3153758, GC % = 37.77, # N's per 100 kbp =  0.00
+    2  GCF_001750885.1_ASM175088v1_genomic, N50 = 2765010, L50 = 1, Total length = 3168410, GC % = 37.70, # N's per 100 kbp =  0.00
   Drawing Nx plot...
-    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/Nx_plot.pdf
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/basic_stats/Nx_plot.pdf
   Drawing cumulative plot...
-    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/cumulative_plot.pdf
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/basic_stats/cumulative_plot.pdf
   Drawing GC content plot...
-    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/GC_content_plot.pdf
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/basic_stats/GC_content_plot.pdf
   Drawing pilon_combined_genome GC content plot...
-    saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/basic_stats/pilon_combined_genome_GC_content_plot.pdf
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/basic_stats/pilon_combined_genome_GC_content_plot.pdf
+  Drawing GCF_001750885.1_ASM175088v1_genomic GC content plot...
+    saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/basic_stats/GCF_001750885.1_ASM175088v1_genomic_GC_content_plot.pdf
 Done.
 
-NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+2020-05-16 16:35:22
+Running GeneMarkS...
+  1  pilon_combined_genome
+    1  perl /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/genemark/linux_64/gmsn.pl \
+       --name pilon_combined_genome --clean --out /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/predicted_genes/tmp/tmpv8YkM2 \
+       /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/quast_corrected_input/pilon_combined_genome.fasta \
+       > /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/predicted_genes/pilon_combined_genome_genemark.stderr \
+       2> /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/predicted_genes/pilon_combined_genome_genemark.stderr
+  2  GCF_001750885.1_ASM175088v1_genomic
+    2  perl /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/genemark/linux_64/gmsn.pl \
+       --name GCF_001750885-1_ASM175088v1_genomic --clean --out /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/predicted_genes/tmp/tmpNo6rBl \
+       /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/quast_corrected_input/GCF_001750885-1_ASM175088v1_genomic.fna \
+       > /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/predicted_genes/GCF_001750885-1_ASM175088v1_genomic_genemark.stderr \
+       2> /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/predicted_genes/GCF_001750885-1_ASM175088v1_genomic_genemark.stderr
+       The tool returned non-zero. See ../result/predicted_genes/pilon_combined_genome_genemark.stderr for stderr.
+       The tool returned non-zero. See ../result/predicted_genes/GCF_001750885-1_ASM175088v1_genomic_genemark.stderr for stderr.
 
-2020-05-14 14:06:03
+ERROR!   1  Failed predicting genes in pilon_combined_genome. 
+
+ERROR!   2  Failed predicting genes in GCF_001750885.1_ASM175088v1_genomic. 
+Done.
+
+2020-05-16 16:35:23
 Creating large visual summaries...
 This may take a while: press Ctrl-C to skip this step..
   1 of 2: Creating Icarus viewers...
   2 of 2: Creating PDF with all tables and plots...
 Done
 
-2020-05-14 14:06:04
+2020-05-16 16:35:24
 RESULTS:
-  Text versions of total report are saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/report.txt, report.tsv, and report.tex
-  Text versions of transposed total report are saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
-  HTML version (interactive tables and plots) saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/report.html
-  PDF version (tables and plots) is saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/report.pdf
-  Icarus (contig browser) is saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/icarus.html
-  Log saved to /domus/h1/yich7866/07_GenAssEva_Quast/result/quast.log
+  Text versions of total report are saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/report.html
+  PDF version (tables and plots) is saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/report.pdf
+  Icarus (contig browser) is saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/icarus.html
+  Log saved to /domus/h1/yich7866/07_GenAssEva_Quast_4Pilon/result/quast.log
 
-Finished: 2020-05-14 14:06:04
-Elapsed time: 0:00:07.638611
-NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+Finished: 2020-05-16 16:35:24
+Elapsed time: 0:00:07.801205
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 2
 
 Thank you for using QUAST!

@@ -1,2 +1,3 @@
 Assembly	# contigs (>= 0 bp)	# contigs (>= 1000 bp)	# contigs (>= 5000 bp)	# contigs (>= 10000 bp)	# contigs (>= 25000 bp)	# contigs (>= 50000 bp)	Total length (>= 0 bp)	Total length (>= 1000 bp)	Total length (>= 5000 bp)	Total length (>= 10000 bp)	Total length (>= 25000 bp)	Total length (>= 50000 bp)	# contigs	Largest contig	Total length	GC (%)	N50	N75	L50	L75	# N's per 100 kbp
 contigs	52	16	13	10	9	8	3139915	3133879	3125776	3105991	3093608	3062274	18	986763	3135284	37.67	840748	266941	2	4	0.00
+GCF_001750885.1_ASM175088v1_genomic	7	7	7	6	5	4	3168410	3168410	3168410	3159100	3141846	3109423	7	2765010	3168410	37.70	2765010	2765010	1	1	0.00

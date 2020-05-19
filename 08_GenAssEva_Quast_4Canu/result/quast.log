@@ -1,4 +1,4 @@
-/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py /home/yich7866/02_GenAssem_Canu_PacBio/code/Canu_Output_PacBio/Enterococci.contigs.fasta -o ../result
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py /home/yich7866/02_GenAssem_Canu_PacBio/code/Canu_Output_PacBio/Enterococci.contigs.fasta /home/yich7866/GCF_001750885.1_ASM175088v1_genomic.fna -o ../result --gene-finding
 
 Version: 4.5.4
 
@@ -7,7 +7,7 @@ System information:
   Python version: 2.7.6
   CPUs number: 20
 
-Started: 2020-05-14 15:05:20
+Started: 2020-05-16 16:40:46
 
 Logging to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/quast.log
 NOTICE: Output directory already exists. Existing Nucmer alignments can be used
@@ -19,14 +19,17 @@ Main parameters:
 
 Contigs:
   Pre-processing...
-  /home/yich7866/02_GenAssem_Canu_PacBio/code/Canu_Output_PacBio/Enterococci.contigs.fasta ==> Enterococci.contigs
+  1  /home/yich7866/02_GenAssem_Canu_PacBio/code/Canu_Output_PacBio/Enterococci.contigs.fasta ==> Enterococci.contigs
+  2  /home/yich7866/GCF_001750885.1_ASM175088v1_genomic.fna ==> GCF_001750885.1_ASM175088v1_genomic
 
-2020-05-14 15:05:22
+2020-05-16 16:40:48
 Running Basic statistics processor...
   Contig files: 
-    Enterococci.contigs
+    1  Enterococci.contigs
+    2  GCF_001750885.1_ASM175088v1_genomic
   Calculating N50 and L50...
-    Enterococci.contigs, N50 = 2775628, L50 = 1, Total length = 3153598, GC % = 37.77, # N's per 100 kbp =  0.00
+    1  Enterococci.contigs, N50 = 2775628, L50 = 1, Total length = 3153598, GC % = 37.77, # N's per 100 kbp =  0.00
+    2  GCF_001750885.1_ASM175088v1_genomic, N50 = 2765010, L50 = 1, Total length = 3168410, GC % = 37.70, # N's per 100 kbp =  0.00
   Drawing Nx plot...
     saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/basic_stats/Nx_plot.pdf
   Drawing cumulative plot...
@@ -35,18 +38,40 @@ Running Basic statistics processor...
     saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/basic_stats/GC_content_plot.pdf
   Drawing Enterococci.contigs GC content plot...
     saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/basic_stats/Enterococci.contigs_GC_content_plot.pdf
+  Drawing GCF_001750885.1_ASM175088v1_genomic GC content plot...
+    saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/basic_stats/GCF_001750885.1_ASM175088v1_genomic_GC_content_plot.pdf
 Done.
 
-NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+2020-05-16 16:40:50
+Running GeneMarkS...
+  1  Enterococci.contigs
+    1  perl /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/genemark/linux_64/gmsn.pl \
+       --name Enterococci-contigs --clean --out /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/predicted_genes/tmp/tmpJgzN2D \
+       /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/quast_corrected_input/Enterococci-contigs.fasta \
+       > /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/predicted_genes/Enterococci-contigs_genemark.stderr \
+       2> /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/predicted_genes/Enterococci-contigs_genemark.stderr
+  2  GCF_001750885.1_ASM175088v1_genomic
+    2  perl /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/genemark/linux_64/gmsn.pl \
+       --name GCF_001750885-1_ASM175088v1_genomic --clean --out /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/predicted_genes/tmp/tmpRsDrur \
+       /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/quast_corrected_input/GCF_001750885-1_ASM175088v1_genomic.fna \
+       > /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/predicted_genes/GCF_001750885-1_ASM175088v1_genomic_genemark.stderr \
+       2> /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/predicted_genes/GCF_001750885-1_ASM175088v1_genomic_genemark.stderr
+       The tool returned non-zero. See ../result/predicted_genes/Enterococci-contigs_genemark.stderr for stderr.
+       The tool returned non-zero. See ../result/predicted_genes/GCF_001750885-1_ASM175088v1_genomic_genemark.stderr for stderr.
 
-2020-05-14 15:05:24
+ERROR!   1  Failed predicting genes in Enterococci.contigs. 
+
+ERROR!   2  Failed predicting genes in GCF_001750885.1_ASM175088v1_genomic. 
+Done.
+
+2020-05-16 16:40:50
 Creating large visual summaries...
 This may take a while: press Ctrl-C to skip this step..
   1 of 2: Creating Icarus viewers...
   2 of 2: Creating PDF with all tables and plots...
 Done
 
-2020-05-14 15:05:24
+2020-05-16 16:40:51
 RESULTS:
   Text versions of total report are saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/report.txt, report.tsv, and report.tex
   Text versions of transposed total report are saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
@@ -55,8 +80,8 @@ RESULTS:
   Icarus (contig browser) is saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/icarus.html
   Log saved to /domus/h1/yich7866/08_GenAssEva_Quast_4Canu/result/quast.log
 
-Finished: 2020-05-14 15:05:24
-Elapsed time: 0:00:04.144530
-NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+Finished: 2020-05-16 16:40:51
+Elapsed time: 0:00:05.507874
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 2
 
 Thank you for using QUAST!
