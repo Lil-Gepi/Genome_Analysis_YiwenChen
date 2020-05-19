@@ -1,0 +1,6 @@
+gnuplot 4.6 patchlevel 2
+Writing filtered delta file Nucmer_4Spades.filter
+Reading delta file ./Nucmer_4Spades.delta
+Writing plot files Nucmer_4Spades.fplot, Nucmer_4Spades.rplot
+Writing gnuplot script Nucmer_4Spades.gp
+Rendering plot Nucmer_4Spades.png

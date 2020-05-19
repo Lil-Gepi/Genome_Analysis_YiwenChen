@@ -1,0 +1,6 @@
+gnuplot 4.6 patchlevel 2
+Writing filtered delta file Nucmer_4Canu_combined.filter
+Reading delta file ./Nucmer_4Canu_combined.delta
+Writing plot files Nucmer_4Canu_combined.fplot, Nucmer_4Canu_combined.rplot
+Writing gnuplot script Nucmer_4Canu_combined.gp
+Rendering plot Nucmer_4Canu_combined.png
