@@ -1,0 +1,3304 @@
+locus_tag	ftype	gene	EC_number	product
+HDEHIPCA_00001	CDS	potB_1		Spermidine/putrescine transport system permease protein PotB
+HDEHIPCA_00002	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+HDEHIPCA_00003	CDS	puuR_1		HTH-type transcriptional regulator PuuR
+HDEHIPCA_00004	CDS	acuI_1	1.3.1.84	putative acrylyl-CoA reductase AcuI
+HDEHIPCA_00005	CDS	coaBC_1		Coenzyme A biosynthesis bifunctional protein CoaBC
+HDEHIPCA_00006	CDS	coaBC_2		Coenzyme A biosynthesis bifunctional protein CoaBC
+HDEHIPCA_00007	CDS	panT_1		Pantothenic acid transporter PanT
+HDEHIPCA_00008	CDS	yhfK_1	4.-.-.-	putative sugar epimerase YhfK
+HDEHIPCA_00009	CDS		1.3.1.103	2-haloacrylate reductase
+HDEHIPCA_00010	CDS		1.3.5.4	Fumarate reductase flavoprotein subunit
+	sig_peptide			putative signal peptide
+HDEHIPCA_00011	CDS			hypothetical protein
+HDEHIPCA_00012	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+HDEHIPCA_00013	CDS			hypothetical protein
+HDEHIPCA_00014	CDS			hypothetical protein
+HDEHIPCA_00015	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+HDEHIPCA_00016	CDS	yceM	1.-.-.-	Putative oxidoreductase YceM
+HDEHIPCA_00017	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+HDEHIPCA_00018	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+HDEHIPCA_00019	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+HDEHIPCA_00020	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+HDEHIPCA_00021	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+HDEHIPCA_00022	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+HDEHIPCA_00023	CDS	ywpJ_1	3.1.3.-	Phosphatase YwpJ
+HDEHIPCA_00024	CDS			hypothetical protein
+HDEHIPCA_00025	CDS			hypothetical protein
+HDEHIPCA_00026	CDS			hypothetical protein
+HDEHIPCA_00027	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00028	CDS			hypothetical protein
+HDEHIPCA_00029	CDS	pnuC		Nicotinamide riboside transporter PnuC
+HDEHIPCA_00030	CDS			hypothetical protein
+HDEHIPCA_00031	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+HDEHIPCA_00032	CDS			hypothetical protein
+HDEHIPCA_00033	CDS			hypothetical protein
+HDEHIPCA_00034	CDS	sugE		Quaternary ammonium compound-resistance protein SugE
+HDEHIPCA_00035	CDS	ecsA_1		ABC-type transporter ATP-binding protein EcsA
+HDEHIPCA_00036	CDS			hypothetical protein
+HDEHIPCA_00037	CDS	arcD1_1		Arginine/ornithine antiporter ArcD1
+HDEHIPCA_00038	CDS			Putative NrdI-like protein
+HDEHIPCA_00039	CDS			PTS system EIIBC component
+HDEHIPCA_00040	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+HDEHIPCA_00041	CDS			hypothetical protein
+HDEHIPCA_00042	CDS	pspB_1	3.1.3.3	Putative phosphoserine phosphatase 2
+HDEHIPCA_00043	CDS	yheS_1		putative ABC transporter ATP-binding protein YheS
+HDEHIPCA_00044	CDS	garK	2.7.1.165	Glycerate 2-kinase
+HDEHIPCA_00045	CDS	panE	1.1.1.169	2-dehydropantoate 2-reductase
+HDEHIPCA_00046	CDS			hypothetical protein
+HDEHIPCA_00047	CDS	yvbW		putative amino acid permease YvbW
+HDEHIPCA_00048	CDS			hypothetical protein
+HDEHIPCA_00049	CDS	nhaC_1		Na(+)/H(+) antiporter NhaC
+HDEHIPCA_00050	CDS	abgB	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+HDEHIPCA_00051	CDS	metQ_1		D-methionine-binding lipoprotein MetQ
+	sig_peptide			putative signal peptide
+HDEHIPCA_00052	CDS	metP_1		Methionine import system permease protein MetP
+HDEHIPCA_00053	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+HDEHIPCA_00054	CDS			hypothetical protein
+HDEHIPCA_00055	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+HDEHIPCA_00056	CDS	mgtA	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+HDEHIPCA_00057	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+HDEHIPCA_00058	CDS			hypothetical protein
+HDEHIPCA_00059	CDS	ltaS1_1		Lipoteichoic acid synthase 1
+HDEHIPCA_00060	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00061	CDS	gmuD_1	3.2.1.86	6-phospho-beta-glucosidase GmuD
+HDEHIPCA_00062	CDS	rbsR		Ribose operon repressor
+HDEHIPCA_00063	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00064	CDS			hypothetical protein
+HDEHIPCA_00065	CDS		2.7.1.113	Deoxyguanosine kinase
+HDEHIPCA_00066	CDS	DNPH1	3.2.2.-	2'-deoxynucleoside 5'-phosphate N-hydrolase 1
+HDEHIPCA_00067	CDS	yvdD		LOG family protein YvdD
+HDEHIPCA_00068	CDS			hypothetical protein
+HDEHIPCA_00069	CDS	fruA_1		PTS system fructose-specific EIIB'BC component
+HDEHIPCA_00070	CDS	mngR		Mannosyl-D-glycerate transport/metabolism system repressor MngR
+HDEHIPCA_00071	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+HDEHIPCA_00072	CDS	bglF_1		PTS system beta-glucoside-specific EIIBCA component
+HDEHIPCA_00073	CDS			hypothetical protein
+HDEHIPCA_00074	CDS	licT_1		Transcription antiterminator LicT
+HDEHIPCA_00075	CDS			hypothetical protein
+HDEHIPCA_00076	CDS			hypothetical protein
+HDEHIPCA_00077	CDS	ytcD		putative HTH-type transcriptional regulator YtcD
+HDEHIPCA_00078	CDS			hypothetical protein
+HDEHIPCA_00079	CDS			hypothetical protein
+HDEHIPCA_00080	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00081	CDS			hypothetical protein
+HDEHIPCA_00082	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00083	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00084	CDS		2.7.1.-	Putative lipid kinase
+HDEHIPCA_00085	CDS			hypothetical protein
+HDEHIPCA_00086	CDS	prsA_1	5.2.1.8	Foldase protein PrsA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00087	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00088	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+HDEHIPCA_00089	CDS			hypothetical protein
+HDEHIPCA_00090	CDS			hypothetical protein
+HDEHIPCA_00091	CDS			hypothetical protein
+HDEHIPCA_00092	CDS	hsdR	3.1.21.3	Type-1 restriction enzyme R protein
+HDEHIPCA_00093	CDS			hypothetical protein
+HDEHIPCA_00094	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+HDEHIPCA_00095	CDS			hypothetical protein
+HDEHIPCA_00096	CDS			hypothetical protein
+HDEHIPCA_00097	CDS			hypothetical protein
+HDEHIPCA_00098	CDS			hypothetical protein
+HDEHIPCA_00099	CDS			hypothetical protein
+HDEHIPCA_00100	CDS			hypothetical protein
+HDEHIPCA_00101	CDS			hypothetical protein
+HDEHIPCA_00102	CDS			hypothetical protein
+HDEHIPCA_00103	CDS	Int-Tn_1		Transposase from transposon Tn916
+HDEHIPCA_00104	CDS	sufB_1		FeS cluster assembly protein SufB
+HDEHIPCA_00105	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+HDEHIPCA_00106	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+HDEHIPCA_00107	CDS	sufB_2		FeS cluster assembly protein SufB
+HDEHIPCA_00108	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_00109	CDS	metQ_2		Methionine-binding lipoprotein MetQ
+	sig_peptide			putative signal peptide
+HDEHIPCA_00110	CDS	metP_2		Methionine import system permease protein MetP
+HDEHIPCA_00111	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+HDEHIPCA_00112	CDS	gcvH		Glycine cleavage system H protein
+HDEHIPCA_00113	CDS	mgsR		Regulatory protein MgsR
+HDEHIPCA_00114	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+HDEHIPCA_00115	CDS	cysL		HTH-type transcriptional regulator CysL
+HDEHIPCA_00116	CDS			hypothetical protein
+HDEHIPCA_00117	CDS			hypothetical protein
+HDEHIPCA_00118	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+HDEHIPCA_00119	CDS	yfdH	2.4.1.-	Prophage bactoprenol glucosyl transferase 
+HDEHIPCA_00120	CDS	topB_1	5.99.1.2	DNA topoisomerase 3
+HDEHIPCA_00121	CDS			hypothetical protein
+HDEHIPCA_00122	CDS			hypothetical protein
+HDEHIPCA_00123	CDS	yjhB_1		Putative metabolite transport protein YjhB
+HDEHIPCA_00124	CDS	vioD	4.2.1.145	Capreomycidine synthase
+HDEHIPCA_00125	CDS	arcD1_2		Arginine/ornithine antiporter ArcD1
+HDEHIPCA_00126	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+HDEHIPCA_00127	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HDEHIPCA_00128	CDS			hypothetical protein
+HDEHIPCA_00129	CDS			hypothetical protein
+HDEHIPCA_00130	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+HDEHIPCA_00131	CDS	prs2	2.7.6.1	Ribose-phosphate pyrophosphokinase 2
+HDEHIPCA_00132	CDS			hypothetical protein
+HDEHIPCA_00133	CDS	pepO	3.4.24.-	Neutral endopeptidase
+HDEHIPCA_00134	CDS	pelX	4.2.2.9	Pectate disaccharide-lyase
+	sig_peptide			putative signal peptide
+HDEHIPCA_00135	CDS	yecD_1	3.-.-.-	Isochorismatase family protein YecD
+HDEHIPCA_00136	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+HDEHIPCA_00137	CDS			hypothetical protein
+HDEHIPCA_00138	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+HDEHIPCA_00139	CDS			hypothetical protein
+HDEHIPCA_00140	CDS			TelA-like protein
+HDEHIPCA_00141	CDS	yhdG		putative amino acid permease YhdG
+HDEHIPCA_00142	CDS	glcU_1		putative glucose uptake protein GlcU
+HDEHIPCA_00143	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+HDEHIPCA_00144	CDS	graR		Response regulator protein GraR
+HDEHIPCA_00145	CDS			hypothetical protein
+HDEHIPCA_00146	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00147	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00148	CDS			hypothetical protein
+HDEHIPCA_00149	CDS			hypothetical protein
+HDEHIPCA_00150	CDS	ybjG	3.6.1.27	Putative undecaprenyl-diphosphatase YbjG
+HDEHIPCA_00151	CDS			hypothetical protein
+HDEHIPCA_00152	CDS	araQ_1		L-arabinose transport system permease protein AraQ
+HDEHIPCA_00153	CDS	lacF_1		Lactose transport system permease protein LacF
+HDEHIPCA_00154	CDS	araN_1		putative arabinose-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00155	CDS	ydbD	1.11.1.6	putative manganese catalase
+HDEHIPCA_00156	CDS			hypothetical protein
+HDEHIPCA_00157	CDS			hypothetical protein
+HDEHIPCA_00158	CDS	mazF	3.1.27.-	Endoribonuclease MazF
+HDEHIPCA_00159	CDS			hypothetical protein
+HDEHIPCA_00160	CDS			hypothetical protein
+HDEHIPCA_00161	CDS			hypothetical protein
+HDEHIPCA_00162	CDS			hypothetical protein
+HDEHIPCA_00163	CDS	acuR		Transcriptional regulator AcuR
+HDEHIPCA_00164	CDS	yecD_2	3.-.-.-	Isochorismatase family protein YecD
+HDEHIPCA_00165	CDS	rclA		putative pyridine nucleotide-disulfide oxidoreductase RclA
+HDEHIPCA_00166	CDS	ohrB_1		Organic hydroperoxide resistance protein OhrB
+HDEHIPCA_00167	CDS			hypothetical protein
+HDEHIPCA_00168	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+HDEHIPCA_00169	CDS	argR_1		Arginine repressor
+HDEHIPCA_00170	CDS			hypothetical protein
+HDEHIPCA_00171	CDS	ribZ_1		Riboflavin transporter RibZ
+HDEHIPCA_00172	CDS	thiO	1.4.3.19	Glycine oxidase
+HDEHIPCA_00173	CDS			hypothetical protein
+HDEHIPCA_00174	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00175	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+HDEHIPCA_00176	CDS			hypothetical protein
+HDEHIPCA_00177	CDS	ssaB_1		Manganese ABC transporter substrate-binding lipoprotein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00178	CDS	mntB_1		Manganese transport system membrane protein MntB
+HDEHIPCA_00179	CDS	znuC_1	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+HDEHIPCA_00180	CDS	yifK		putative transport protein YifK
+HDEHIPCA_00181	CDS			hypothetical protein
+HDEHIPCA_00182	CDS			hypothetical protein
+HDEHIPCA_00183	CDS	ywrO	1.6.99.-	General stress protein 14
+HDEHIPCA_00184	CDS	araC_1		Arabinose operon regulatory protein
+HDEHIPCA_00185	CDS	lacS		Lactose permease
+HDEHIPCA_00186	CDS	galM_1	5.1.3.3	Aldose 1-epimerase
+HDEHIPCA_00187	CDS	galK_1	2.7.1.6	Galactokinase
+HDEHIPCA_00188	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+HDEHIPCA_00189	CDS			hypothetical protein
+HDEHIPCA_00190	CDS			hypothetical protein
+HDEHIPCA_00191	CDS			hypothetical protein
+HDEHIPCA_00192	CDS			hypothetical protein
+HDEHIPCA_00193	CDS	npr_1	1.11.1.1	NADH peroxidase
+HDEHIPCA_00194	CDS	patA_1	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+HDEHIPCA_00195	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+HDEHIPCA_00196	CDS	yclM	2.7.2.4	Aspartokinase 3
+HDEHIPCA_00197	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+HDEHIPCA_00198	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HDEHIPCA_00199	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+HDEHIPCA_00200	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+HDEHIPCA_00201	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+HDEHIPCA_00202	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+HDEHIPCA_00203	CDS	efp		Elongation factor P
+HDEHIPCA_00204	CDS	cysM	2.5.1.47	Cysteine synthase
+HDEHIPCA_00205	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+HDEHIPCA_00206	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+HDEHIPCA_00207	CDS	bsaA		Glutathione peroxidase BsaA
+HDEHIPCA_00208	rRNA			5S ribosomal RNA
+HDEHIPCA_00209	rRNA			23S ribosomal RNA
+HDEHIPCA_00210	rRNA			16S ribosomal RNA
+HDEHIPCA_00211	CDS	spxA_1		Regulatory protein Spx
+HDEHIPCA_00212	CDS	spxA_2		Regulatory protein Spx
+HDEHIPCA_00213	CDS	yjcD	3.6.4.12	Putative ATP-dependent DNA helicase YjcD
+HDEHIPCA_00214	CDS			hypothetical protein
+HDEHIPCA_00215	CDS		2.7.1.113	Deoxyguanosine kinase
+HDEHIPCA_00216	CDS			hypothetical protein
+HDEHIPCA_00217	CDS	agrB	3.4.-.-	Accessory gene regulator protein B
+HDEHIPCA_00218	CDS			hypothetical protein
+HDEHIPCA_00219	CDS			hypothetical protein
+HDEHIPCA_00220	CDS	agrA_1		Accessory gene regulator A
+HDEHIPCA_00221	CDS	znuA_1		High-affinity zinc uptake system binding-protein ZnuA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00222	CDS	tqsA_1		AI-2 transport protein TqsA
+HDEHIPCA_00223	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+HDEHIPCA_00224	CDS			hypothetical protein
+HDEHIPCA_00225	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_00226	CDS	yecD_3	3.-.-.-	Isochorismatase family protein YecD
+HDEHIPCA_00227	CDS	degA_1		HTH-type transcriptional regulator DegA
+HDEHIPCA_00228	CDS	rbsK/rbiA		Bifunctional ribokinase/ribose-5-phosphate isomerase A
+HDEHIPCA_00229	CDS	rbsD	5.4.99.62	D-ribose pyranase
+HDEHIPCA_00230	CDS	bglF_2		PTS system beta-glucoside-specific EIIBCA component
+HDEHIPCA_00231	CDS			N-acetylmuramoyl-L-alanine amidase domain-containing protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00232	CDS	mro_1	5.1.3.3	Aldose 1-epimerase
+HDEHIPCA_00233	CDS	bceB_1		Bacitracin export permease protein BceB
+HDEHIPCA_00234	CDS	bceA_1		Bacitracin export ATP-binding protein BceA
+HDEHIPCA_00235	CDS			hypothetical protein
+HDEHIPCA_00236	CDS			hypothetical protein
+HDEHIPCA_00237	CDS			hypothetical protein
+HDEHIPCA_00238	CDS			hypothetical protein
+HDEHIPCA_00239	CDS			hypothetical protein
+HDEHIPCA_00240	CDS			hypothetical protein
+HDEHIPCA_00241	CDS	ydfK		putative membrane protein YdfK
+HDEHIPCA_00242	CDS	gltC_1		HTH-type transcriptional regulator GltC
+HDEHIPCA_00243	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+HDEHIPCA_00244	CDS	hssR		Heme response regulator HssR
+HDEHIPCA_00245	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+HDEHIPCA_00246	CDS			hypothetical protein
+HDEHIPCA_00247	CDS	bsdC	4.1.1.-	Phenolic acid decarboxylase subunit C
+HDEHIPCA_00248	CDS	ecdB	2.5.1.129	putative UbiX-like flavin prenyltransferase
+HDEHIPCA_00249	CDS			hypothetical protein
+HDEHIPCA_00250	CDS			hypothetical protein
+HDEHIPCA_00251	CDS			hypothetical protein
+HDEHIPCA_00252	CDS	emrB		Multidrug export protein EmrB
+HDEHIPCA_00253	CDS			hypothetical protein
+HDEHIPCA_00254	CDS			hypothetical protein
+HDEHIPCA_00255	CDS	padC	4.1.1.-	Phenolic acid decarboxylase PadC
+HDEHIPCA_00256	CDS	yjaB	2.3.1.-	putative N-acetyltransferase YjaB
+HDEHIPCA_00257	CDS			hypothetical protein
+HDEHIPCA_00258	CDS			hypothetical protein
+HDEHIPCA_00259	CDS			hypothetical protein
+HDEHIPCA_00260	CDS	mapP	3.1.3.90	Maltose 6'-phosphate phosphatase
+HDEHIPCA_00261	CDS	ptsG_1	2.7.1.199	PTS system glucose-specific EIICBA component
+HDEHIPCA_00262	CDS	malP	2.4.1.8	Maltose phosphorylase
+HDEHIPCA_00263	CDS	pgmB	5.4.2.6	Beta-phosphoglucomutase
+HDEHIPCA_00264	CDS	mro_2	5.1.3.3	Aldose 1-epimerase
+HDEHIPCA_00265	CDS	ccpA_1		Catabolite control protein A
+HDEHIPCA_00266	CDS	nhaC_2		Na(+)/H(+) antiporter NhaC
+HDEHIPCA_00267	CDS	nhaC_3		Na(+)/H(+) antiporter NhaC
+HDEHIPCA_00268	CDS	gadC_1		putative glutamate/gamma-aminobutyrate antiporter
+HDEHIPCA_00269	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+HDEHIPCA_00270	CDS	tyrS1	6.1.1.1	Tyrosine--tRNA ligase 1
+HDEHIPCA_00271	CDS			hypothetical protein
+HDEHIPCA_00272	CDS	betI		HTH-type transcriptional regulator BetI
+HDEHIPCA_00273	CDS	artM_1		Arginine transport ATP-binding protein ArtM
+HDEHIPCA_00274	CDS			hypothetical protein
+HDEHIPCA_00275	CDS	natA_1		ABC transporter ATP-binding protein NatA
+HDEHIPCA_00276	CDS			hypothetical protein
+HDEHIPCA_00277	CDS	anr		Transcriptional activator protein Anr
+HDEHIPCA_00278	CDS			hypothetical protein
+HDEHIPCA_00279	CDS	dhaL	2.7.-.-	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+HDEHIPCA_00280	CDS	dhaK	2.7.-.-	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+HDEHIPCA_00281	CDS	dhaM	3.5.1.-	Protein-lysine deacetylase
+HDEHIPCA_00282	CDS			hypothetical protein
+HDEHIPCA_00283	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00284	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+HDEHIPCA_00285	CDS			hypothetical protein
+HDEHIPCA_00286	CDS			hypothetical protein
+HDEHIPCA_00287	CDS	helD_1	3.6.4.12	DNA helicase IV
+HDEHIPCA_00288	CDS	cdr_1	1.8.1.14	Coenzyme A disulfide reductase
+HDEHIPCA_00289	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+HDEHIPCA_00290	CDS	ricR		Copper-sensing transcriptional repressor RicR
+HDEHIPCA_00291	CDS			hypothetical protein
+HDEHIPCA_00292	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+HDEHIPCA_00293	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+HDEHIPCA_00294	CDS	glpF		Glycerol uptake facilitator protein
+HDEHIPCA_00295	CDS	glpO	1.1.3.21	Alpha-glycerophosphate oxidase
+HDEHIPCA_00296	CDS	glpK	2.7.1.30	Glycerol kinase
+HDEHIPCA_00297	CDS			hypothetical protein
+HDEHIPCA_00298	CDS	npr_2	1.11.1.1	NADH peroxidase
+HDEHIPCA_00299	CDS	hchA	4.2.1.130	Molecular chaperone Hsp31 and glyoxalase 3
+HDEHIPCA_00300	CDS		1.-.-.-	putative oxidoreductase
+HDEHIPCA_00301	CDS			hypothetical protein
+HDEHIPCA_00302	CDS	malL_1	3.2.1.10	Oligo-1,6-glucosidase
+HDEHIPCA_00303	CDS	pbuG		Guanine/hypoxanthine permease PbuG
+HDEHIPCA_00304	CDS			hypothetical protein
+HDEHIPCA_00305	CDS			hypothetical protein
+HDEHIPCA_00306	CDS			hypothetical protein
+HDEHIPCA_00307	CDS			hypothetical protein
+HDEHIPCA_00308	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+HDEHIPCA_00309	CDS	hosA		Transcriptional regulator HosA
+HDEHIPCA_00310	CDS			hypothetical protein
+HDEHIPCA_00311	CDS	ulaB_1	2.7.1.194	Ascorbate-specific PTS system EIIB component
+HDEHIPCA_00312	CDS	cmtB_1	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+HDEHIPCA_00313	CDS	manR_1		Transcriptional regulator ManR
+HDEHIPCA_00314	CDS			hypothetical protein
+HDEHIPCA_00315	CDS	sstT		Serine/threonine transporter SstT
+HDEHIPCA_00316	CDS			hypothetical protein
+HDEHIPCA_00317	CDS			hypothetical protein
+HDEHIPCA_00318	CDS			hypothetical protein
+HDEHIPCA_00319	CDS			hypothetical protein
+HDEHIPCA_00320	CDS			hypothetical protein
+HDEHIPCA_00321	CDS	gmuE_1	2.7.1.4	Putative fructokinase
+HDEHIPCA_00322	CDS			hypothetical protein
+HDEHIPCA_00323	CDS			hypothetical protein
+HDEHIPCA_00324	CDS	manZ_1		PTS system mannose-specific EIID component
+HDEHIPCA_00325	CDS	agaC		N-acetylgalactosamine permease IIC component 1
+HDEHIPCA_00326	CDS	sorB_1	2.7.1.206	PTS system sorbose-specific EIIB component
+HDEHIPCA_00327	CDS	dgaR_1		Transcriptional regulatory protein DagR
+HDEHIPCA_00328	CDS			hypothetical protein
+HDEHIPCA_00329	CDS			hypothetical protein
+HDEHIPCA_00330	CDS			hypothetical protein
+HDEHIPCA_00331	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00332	CDS	pinR	3.1.22.-	Serine recombinase PinR
+HDEHIPCA_00333	CDS			hypothetical protein
+HDEHIPCA_00334	CDS			hypothetical protein
+HDEHIPCA_00335	CDS			hypothetical protein
+HDEHIPCA_00336	CDS			hypothetical protein
+HDEHIPCA_00337	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00338	CDS			hypothetical protein
+HDEHIPCA_00339	CDS			hypothetical protein
+HDEHIPCA_00340	CDS			hypothetical protein
+HDEHIPCA_00341	CDS			hypothetical protein
+HDEHIPCA_00342	CDS			hypothetical protein
+HDEHIPCA_00343	CDS			hypothetical protein
+HDEHIPCA_00344	CDS			hypothetical protein
+HDEHIPCA_00345	CDS			hypothetical protein
+HDEHIPCA_00346	CDS			hypothetical protein
+HDEHIPCA_00347	CDS	ymfD		Bacillibactin exporter
+	sig_peptide			putative signal peptide
+HDEHIPCA_00348	CDS	agaSK_1		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+HDEHIPCA_00349	CDS	melR		Melibiose operon regulatory protein
+HDEHIPCA_00350	CDS			hypothetical protein
+HDEHIPCA_00351	CDS			hypothetical protein
+HDEHIPCA_00352	CDS			hypothetical protein
+HDEHIPCA_00353	CDS			hypothetical protein
+HDEHIPCA_00354	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+HDEHIPCA_00355	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+HDEHIPCA_00356	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+HDEHIPCA_00357	CDS			Putative universal stress protein
+HDEHIPCA_00358	CDS	ytpP		Thioredoxin-like protein YtpP
+HDEHIPCA_00359	CDS	pepA	3.4.11.7	Glutamyl aminopeptidase
+HDEHIPCA_00360	CDS			hypothetical protein
+HDEHIPCA_00361	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+HDEHIPCA_00362	CDS		1.2.1.97	3-sulfolactaldehyde dehydrogenase
+HDEHIPCA_00363	CDS			hypothetical protein
+HDEHIPCA_00364	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+HDEHIPCA_00365	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+HDEHIPCA_00366	CDS		3.1.-.-	Putative esterase
+HDEHIPCA_00367	CDS			hypothetical protein
+HDEHIPCA_00368	CDS	rspR_1		HTH-type transcriptional repressor RspR
+HDEHIPCA_00369	CDS			hypothetical protein
+HDEHIPCA_00370	CDS	apc1	6.4.1.8	Acetophenone carboxylase alpha subunit
+HDEHIPCA_00371	CDS			hypothetical protein
+HDEHIPCA_00372	CDS	rplT		50S ribosomal protein L20
+HDEHIPCA_00373	CDS	rpmI		50S ribosomal protein L35
+HDEHIPCA_00374	CDS	infC		Translation initiation factor IF-3
+HDEHIPCA_00375	CDS	mfpA		Pentapeptide repeat protein MfpA
+HDEHIPCA_00376	CDS	corA_1		Cobalt/magnesium transport protein CorA
+HDEHIPCA_00377	CDS		2.7.1.113	Deoxyguanosine kinase
+HDEHIPCA_00378	CDS	galK_2	2.7.1.6	Galactokinase
+HDEHIPCA_00379	CDS	thrB	2.7.1.39	Homoserine kinase
+HDEHIPCA_00380	CDS		2.7.4.2	Phosphomevalonate kinase
+HDEHIPCA_00381	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+HDEHIPCA_00382	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+HDEHIPCA_00383	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+HDEHIPCA_00384	CDS	kduI1	5.3.1.17	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+HDEHIPCA_00385	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+HDEHIPCA_00386	CDS	kdgA		KHG/KDPG aldolase
+HDEHIPCA_00387	CDS	iclR		Transcriptional repressor IclR
+HDEHIPCA_00388	CDS	fucO	1.1.1.77	Lactaldehyde reductase
+HDEHIPCA_00389	CDS	rhaM	5.1.3.32	L-rhamnose mutarotase
+HDEHIPCA_00390	CDS	rhaD	4.1.2.19	Rhamnulose-1-phosphate aldolase
+HDEHIPCA_00391	CDS	rhaA	5.3.1.14	L-rhamnose isomerase
+HDEHIPCA_00392	CDS	rhaB	2.7.1.5	Rhamnulokinase
+HDEHIPCA_00393	CDS			hypothetical protein
+HDEHIPCA_00394	CDS			hypothetical protein
+HDEHIPCA_00395	CDS	adhE		Aldehyde-alcohol dehydrogenase
+HDEHIPCA_00396	CDS			hypothetical protein
+HDEHIPCA_00397	CDS			hypothetical protein
+HDEHIPCA_00398	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+HDEHIPCA_00399	CDS			hypothetical protein
+HDEHIPCA_00400	CDS		3.6.3.8	Calcium-transporting ATPase 1
+HDEHIPCA_00401	CDS	yoaB	3.6.3.8	Calcium-transporting ATPase 1
+HDEHIPCA_00402	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+HDEHIPCA_00403	CDS	opuCA_1	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+HDEHIPCA_00404	CDS	opuCB		Carnitine transport permease protein OpuCB
+HDEHIPCA_00405	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+	sig_peptide			putative signal peptide
+HDEHIPCA_00406	CDS	opuCD		Glycine betaine/carnitine/choline transport system permease protein OpuCD
+HDEHIPCA_00407	CDS			hypothetical protein
+HDEHIPCA_00408	CDS			hypothetical protein
+HDEHIPCA_00409	CDS			hypothetical protein
+HDEHIPCA_00410	CDS			hypothetical protein
+HDEHIPCA_00411	CDS			hypothetical protein
+HDEHIPCA_00412	CDS	smc_1		Chromosome partition protein Smc
+HDEHIPCA_00413	CDS			Zinc-type alcohol dehydrogenase-like protein
+HDEHIPCA_00414	CDS	rpsN2_1		Alternate 30S ribosomal protein S14
+HDEHIPCA_00415	CDS	ndoA	3.1.27.-	Endoribonuclease EndoA
+HDEHIPCA_00416	CDS	alr	5.1.1.1	Alanine racemase
+HDEHIPCA_00417	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+HDEHIPCA_00418	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+HDEHIPCA_00419	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+HDEHIPCA_00420	CDS	ddl_1	6.3.2.4	D-alanine--D-alanine ligase
+HDEHIPCA_00421	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+HDEHIPCA_00422	CDS			hypothetical protein
+HDEHIPCA_00423	CDS			hypothetical protein
+HDEHIPCA_00424	CDS		2.3.1.-	putative N-acetyltransferase
+HDEHIPCA_00425	CDS	ydjZ		TVP38/TMEM64 family inner membrane protein YdjZ
+HDEHIPCA_00426	CDS			hypothetical protein
+HDEHIPCA_00427	CDS			hypothetical protein
+HDEHIPCA_00428	CDS	udk	2.7.1.48	Uridine kinase
+HDEHIPCA_00429	CDS	yfnB_1	3.-.-.-	Putative HAD-hydrolase YfnB
+HDEHIPCA_00430	CDS	rsuA	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+HDEHIPCA_00431	CDS	ctc		General stress protein CTC
+HDEHIPCA_00432	CDS			hypothetical protein
+HDEHIPCA_00433	CDS	dinF		DNA damage-inducible protein F
+HDEHIPCA_00434	CDS	corC_1		Magnesium and cobalt efflux protein CorC
+HDEHIPCA_00435	CDS	kup		Low affinity potassium transport system protein kup
+HDEHIPCA_00436	CDS			hypothetical protein
+HDEHIPCA_00437	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+HDEHIPCA_00438	CDS	rpsO		30S ribosomal protein S15
+HDEHIPCA_00439	CDS	def_1	3.5.1.88	Peptide deformylase
+HDEHIPCA_00440	CDS	nadR		Transcription repressor NadR
+HDEHIPCA_00441	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+HDEHIPCA_00442	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+HDEHIPCA_00443	CDS			hypothetical protein
+HDEHIPCA_00444	CDS			hypothetical protein
+HDEHIPCA_00445	CDS	glnP_1		Glutamine transport system permease protein GlnP
+	sig_peptide			putative signal peptide
+HDEHIPCA_00446	CDS	artM_2		Arginine transport ATP-binding protein ArtM
+HDEHIPCA_00447	CDS	cycA		D-serine/D-alanine/glycine transporter
+HDEHIPCA_00448	CDS			hypothetical protein
+HDEHIPCA_00449	CDS	brnQ_1		Branched-chain amino acid transport system 2 carrier protein
+HDEHIPCA_00450	CDS			hypothetical protein
+HDEHIPCA_00451	CDS			hypothetical protein
+HDEHIPCA_00452	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+HDEHIPCA_00453	CDS	dhaS		HTH-type dhaKLM operon transcriptional activator DhaS
+HDEHIPCA_00454	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+HDEHIPCA_00455	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+HDEHIPCA_00456	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+HDEHIPCA_00457	CDS	treR		HTH-type transcriptional regulator TreR
+HDEHIPCA_00458	CDS	treB		PTS system trehalose-specific EIIBC component
+HDEHIPCA_00459	CDS	maf		Septum formation protein Maf
+HDEHIPCA_00460	CDS	mutL		DNA mismatch repair protein MutL
+HDEHIPCA_00461	CDS	mutS_1		DNA mismatch repair protein MutS
+HDEHIPCA_00462	CDS			hypothetical protein
+HDEHIPCA_00463	CDS			hypothetical protein
+HDEHIPCA_00464	CDS			Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+HDEHIPCA_00465	CDS			hypothetical protein
+HDEHIPCA_00466	CDS	nirC		Nitrite transporter NirC
+HDEHIPCA_00467	CDS	rpsD		30S ribosomal protein S4
+HDEHIPCA_00468	CDS	bioY2		Biotin transporter BioY2
+HDEHIPCA_00469	CDS	queT_1		Queuosine precursor transporter QueT
+HDEHIPCA_00470	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+HDEHIPCA_00471	CDS			hypothetical protein
+HDEHIPCA_00472	CDS			hypothetical protein
+HDEHIPCA_00473	CDS	yohK		Inner membrane protein YohK
+HDEHIPCA_00474	CDS	lrgA		Antiholin-like protein LrgA
+HDEHIPCA_00475	CDS	gla		Glycerol facilitator-aquaporin gla
+HDEHIPCA_00476	CDS			hypothetical protein
+HDEHIPCA_00477	CDS			Pesticidal crystal protein Cry22Aa
+HDEHIPCA_00478	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00479	CDS			hypothetical protein
+HDEHIPCA_00480	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HDEHIPCA_00481	CDS			hypothetical protein
+HDEHIPCA_00482	CDS			hypothetical protein
+HDEHIPCA_00483	CDS			hypothetical protein
+HDEHIPCA_00484	CDS			hypothetical protein
+HDEHIPCA_00485	CDS			hypothetical protein
+HDEHIPCA_00486	CDS	yclQ		putative ABC transporter solute-binding protein YclQ
+	sig_peptide			putative signal peptide
+HDEHIPCA_00487	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+HDEHIPCA_00488	CDS	hmuU		Hemin transport system permease protein HmuU
+HDEHIPCA_00489	CDS	feuB_1		Iron-uptake system permease protein FeuB
+HDEHIPCA_00490	CDS			hypothetical protein
+HDEHIPCA_00491	CDS	gshAB		Glutathione biosynthesis bifunctional protein GshAB
+HDEHIPCA_00492	CDS	ftsY		Signal recognition particle receptor FtsY
+HDEHIPCA_00493	CDS	yidA_1	3.1.3.23	Sugar phosphatase YidA
+HDEHIPCA_00494	CDS	smc_2		Chromosome partition protein Smc
+HDEHIPCA_00495	CDS	rnc	3.1.26.3	Ribonuclease 3
+HDEHIPCA_00496	CDS	appA		Oligopeptide-binding protein AppA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00497	CDS			Putative peptide transport permease protein
+HDEHIPCA_00498	CDS	gsiC		Glutathione transport system permease protein GsiC
+HDEHIPCA_00499	CDS	oppF_1		Oligopeptide transport ATP-binding protein OppF
+HDEHIPCA_00500	CDS	oppD_1		Oligopeptide transport ATP-binding protein OppD
+HDEHIPCA_00501	CDS			hypothetical protein
+HDEHIPCA_00502	CDS	acpP		Acyl carrier protein
+HDEHIPCA_00503	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+HDEHIPCA_00504	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+HDEHIPCA_00505	CDS			hypothetical protein
+HDEHIPCA_00506	CDS			hypothetical protein
+HDEHIPCA_00507	CDS	rpmB		50S ribosomal protein L28
+HDEHIPCA_00508	CDS			hypothetical protein
+HDEHIPCA_00509	CDS			hypothetical protein
+HDEHIPCA_00510	CDS			hypothetical protein
+HDEHIPCA_00511	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00512	CDS			hypothetical protein
+HDEHIPCA_00513	CDS			hypothetical protein
+HDEHIPCA_00514	CDS			hypothetical protein
+HDEHIPCA_00515	CDS	lrpC		HTH-type transcriptional regulator LrpC
+HDEHIPCA_00516	CDS			hypothetical protein
+HDEHIPCA_00517	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+HDEHIPCA_00518	CDS	ecfT		Energy-coupling factor transporter transmembrane protein EcfT
+HDEHIPCA_00519	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+HDEHIPCA_00520	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+HDEHIPCA_00521	CDS	rplQ		50S ribosomal protein L17
+HDEHIPCA_00522	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+HDEHIPCA_00523	CDS	rpsK		30S ribosomal protein S11
+HDEHIPCA_00524	CDS	rpsM		30S ribosomal protein S13
+HDEHIPCA_00525	CDS	rpmJ		50S ribosomal protein L36
+HDEHIPCA_00526	CDS	infA		Translation initiation factor IF-1
+HDEHIPCA_00527	CDS	adk	2.7.4.3	Adenylate kinase
+HDEHIPCA_00528	CDS	secY		Protein translocase subunit SecY
+HDEHIPCA_00529	CDS	rplO		50S ribosomal protein L15
+HDEHIPCA_00530	CDS	rpmD		50S ribosomal protein L30
+HDEHIPCA_00531	CDS	rpsE		30S ribosomal protein S5
+HDEHIPCA_00532	CDS	rplR		50S ribosomal protein L18
+HDEHIPCA_00533	CDS	rplF		50S ribosomal protein L6
+HDEHIPCA_00534	CDS	rpsH		30S ribosomal protein S8
+HDEHIPCA_00535	CDS	rpsN1		30S ribosomal protein S14
+HDEHIPCA_00536	CDS	rplE		50S ribosomal protein L5
+HDEHIPCA_00537	CDS	rplX		50S ribosomal protein L24
+HDEHIPCA_00538	CDS	rplN		50S ribosomal protein L14
+HDEHIPCA_00539	CDS	rpsQ		30S ribosomal protein S17
+HDEHIPCA_00540	CDS	rpmC		50S ribosomal protein L29
+HDEHIPCA_00541	CDS	rplP		50S ribosomal protein L16
+HDEHIPCA_00542	CDS	rpsC		30S ribosomal protein S3
+HDEHIPCA_00543	CDS	rplV		50S ribosomal protein L22
+HDEHIPCA_00544	CDS	rpsS		30S ribosomal protein S19
+HDEHIPCA_00545	CDS	rplB		50S ribosomal protein L2
+HDEHIPCA_00546	CDS	rplW		50S ribosomal protein L23
+HDEHIPCA_00547	CDS	rplD		50S ribosomal protein L4
+HDEHIPCA_00548	CDS	rplC		50S ribosomal protein L3
+HDEHIPCA_00549	CDS	rpsJ		30S ribosomal protein S10
+HDEHIPCA_00550	CDS	tuf_1		Elongation factor Tu
+HDEHIPCA_00551	CDS	fus		Elongation factor G
+HDEHIPCA_00552	CDS	rpsG		30S ribosomal protein S7
+HDEHIPCA_00553	CDS	rpsL		30S ribosomal protein S12
+HDEHIPCA_00554	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+HDEHIPCA_00555	CDS	hin		DNA-invertase hin
+HDEHIPCA_00556	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+HDEHIPCA_00557	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+HDEHIPCA_00558	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase 1
+HDEHIPCA_00559	CDS	deoB	5.4.2.7	Phosphopentomutase
+HDEHIPCA_00560	CDS			hypothetical protein
+HDEHIPCA_00561	CDS			hypothetical protein
+HDEHIPCA_00562	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+HDEHIPCA_00563	CDS	tmpC		Membrane lipoprotein TmpC
+	sig_peptide			putative signal peptide
+HDEHIPCA_00564	CDS	cdd	3.5.4.5	Cytidine deaminase
+HDEHIPCA_00565	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+HDEHIPCA_00566	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+HDEHIPCA_00567	CDS	degA_2		HTH-type transcriptional regulator DegA
+HDEHIPCA_00568	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+HDEHIPCA_00569	CDS	coaA	2.7.1.33	Pantothenate kinase
+HDEHIPCA_00570	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+HDEHIPCA_00571	CDS	ganB	3.2.1.89	Arabinogalactan endo-beta-1,4-galactanase
+	sig_peptide			putative signal peptide
+HDEHIPCA_00572	CDS	lacE_1		PTS system lactose-specific EIICB component
+HDEHIPCA_00573	CDS	lacF_2	2.7.1.207	PTS system lactose-specific EIIA component
+HDEHIPCA_00574	CDS	lacG_1	3.2.1.85	6-phospho-beta-galactosidase
+HDEHIPCA_00575	CDS	lacR_1		Lactose phosphotransferase system repressor
+HDEHIPCA_00576	CDS	yvdM_1	5.4.2.6	Beta-phosphoglucomutase
+HDEHIPCA_00577	CDS			hypothetical protein
+HDEHIPCA_00578	CDS			hypothetical protein
+HDEHIPCA_00579	CDS			hypothetical protein
+HDEHIPCA_00580	CDS			hypothetical protein
+HDEHIPCA_00581	CDS			hypothetical protein
+HDEHIPCA_00582	CDS			hypothetical protein
+HDEHIPCA_00583	CDS			hypothetical protein
+HDEHIPCA_00584	CDS			hypothetical protein
+HDEHIPCA_00585	CDS			hypothetical protein
+HDEHIPCA_00586	CDS			hypothetical protein
+HDEHIPCA_00587	CDS	zupT		Zinc transporter ZupT
+HDEHIPCA_00588	CDS	pox5	1.2.3.3	Pyruvate oxidase
+HDEHIPCA_00589	CDS			hypothetical protein
+HDEHIPCA_00590	CDS	ybiT_1		putative ABC transporter ATP-binding protein YbiT
+HDEHIPCA_00591	CDS			DegV domain-containing protein
+HDEHIPCA_00592	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+HDEHIPCA_00593	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+HDEHIPCA_00594	CDS	rplI		50S ribosomal protein L9
+HDEHIPCA_00595	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+HDEHIPCA_00596	CDS	rpsR		30S ribosomal protein S18
+HDEHIPCA_00597	CDS	ssb_1		Single-stranded DNA-binding protein
+HDEHIPCA_00598	CDS	rpsF		30S ribosomal protein S6
+HDEHIPCA_00599	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+HDEHIPCA_00600	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+HDEHIPCA_00601	CDS	recF		DNA replication and repair protein RecF
+HDEHIPCA_00602	CDS			hypothetical protein
+HDEHIPCA_00603	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+HDEHIPCA_00604	CDS	dnaA		Chromosomal replication initiator protein DnaA
+HDEHIPCA_00605	CDS	rpmH		50S ribosomal protein L34
+HDEHIPCA_00606	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+HDEHIPCA_00607	CDS	misCA		Membrane protein insertase MisCA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00608	CDS			hypothetical protein
+HDEHIPCA_00609	CDS			hypothetical protein
+HDEHIPCA_00610	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+HDEHIPCA_00611	CDS	mnmG_1		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+HDEHIPCA_00612	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+HDEHIPCA_00613	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+HDEHIPCA_00614	CDS	parB		putative chromosome-partitioning protein ParB
+HDEHIPCA_00615	CDS			hypothetical protein
+HDEHIPCA_00616	CDS	ychF		Ribosome-binding ATPase YchF
+HDEHIPCA_00617	CDS			hypothetical protein
+HDEHIPCA_00618	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+HDEHIPCA_00619	CDS	serS	6.1.1.11	Serine--tRNA ligase
+HDEHIPCA_00620	CDS	walK_1	2.7.13.3	Sensor protein kinase WalK
+HDEHIPCA_00621	CDS	srrA_1		Transcriptional regulatory protein SrrA
+HDEHIPCA_00622	rRNA			16S ribosomal RNA
+HDEHIPCA_00623	rRNA			23S ribosomal RNA
+HDEHIPCA_00624	rRNA			5S ribosomal RNA
+HDEHIPCA_00625	tRNA			tRNA-Val(tac)
+HDEHIPCA_00626	tRNA			tRNA-Lys(ttt)
+HDEHIPCA_00627	tRNA			tRNA-Leu(tag)
+HDEHIPCA_00628	tRNA			tRNA-Thr(tgt)
+HDEHIPCA_00629	tRNA			tRNA-Gly(gcc)
+HDEHIPCA_00630	tRNA			tRNA-Leu(taa)
+HDEHIPCA_00631	tRNA			tRNA-Arg(acg)
+HDEHIPCA_00632	tRNA			tRNA-Pro(tgg)
+HDEHIPCA_00633	tRNA			tRNA-Arg(acg)
+HDEHIPCA_00634	CDS	ctsR		Transcriptional regulator CtsR
+HDEHIPCA_00635	CDS	clpC		Negative regulator of genetic competence ClpC/MecB
+HDEHIPCA_00636	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+HDEHIPCA_00637	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+HDEHIPCA_00638	CDS	gor	1.8.1.7	Glutathione reductase
+HDEHIPCA_00639	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HDEHIPCA_00640	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+	sig_peptide			putative signal peptide
+HDEHIPCA_00641	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00642	CDS	yjlD	1.6.99.-	NADH dehydrogenase-like protein YjlD
+HDEHIPCA_00643	CDS			hypothetical protein
+HDEHIPCA_00644	CDS			hypothetical protein
+HDEHIPCA_00645	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+HDEHIPCA_00646	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00647	CDS			hypothetical protein
+HDEHIPCA_00648	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+HDEHIPCA_00649	CDS	yxdL_1		ABC transporter ATP-binding protein YxdL
+HDEHIPCA_00650	CDS	lsrC_1		Autoinducer 2 import system permease protein LsrC
+HDEHIPCA_00651	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00652	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+HDEHIPCA_00653	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+HDEHIPCA_00654	CDS	purR_1		HTH-type transcriptional repressor PurR
+HDEHIPCA_00655	CDS		2.4.1.329	Sucrose 6(F)-phosphate phosphorylase
+HDEHIPCA_00656	CDS	msmE		Multiple sugar-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00657	CDS	ycjO		Inner membrane ABC transporter permease protein YcjO
+HDEHIPCA_00658	CDS	ycjP		Inner membrane ABC transporter permease protein YcjP
+HDEHIPCA_00659	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+HDEHIPCA_00660	CDS		5.1.3.30	D-psicose 3-epimerase
+HDEHIPCA_00661	CDS	rifL	1.1.1.-	Putative UDP-kanosamine synthase oxidoreductase subunit
+HDEHIPCA_00662	CDS	kojP	2.4.1.230	Kojibiose phosphorylase
+HDEHIPCA_00663	CDS	glxK	2.7.1.31	Glycerate kinase
+HDEHIPCA_00664	CDS	yvdM_2	5.4.2.6	Beta-phosphoglucomutase
+HDEHIPCA_00665	CDS	msrA_1	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+HDEHIPCA_00666	CDS	comC		Type 4 prepilin-like proteins leader peptide-processing enzyme
+HDEHIPCA_00667	CDS	xylB_1	2.7.1.17	Xylulose kinase
+HDEHIPCA_00668	CDS	dps	1.16.-.-	DNA protection during starvation protein
+HDEHIPCA_00669	CDS	rplM		50S ribosomal protein L13
+HDEHIPCA_00670	CDS	rpsI		30S ribosomal protein S9
+HDEHIPCA_00671	CDS	xerD_1		Tyrosine recombinase XerD
+HDEHIPCA_00672	CDS	znuC_2	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+HDEHIPCA_00673	CDS			hypothetical protein
+HDEHIPCA_00674	CDS	mntB_2		Manganese transport system membrane protein MntB
+HDEHIPCA_00675	CDS	ssaB_2		Manganese ABC transporter substrate-binding lipoprotein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00676	CDS	mntR		Transcriptional regulator MntR
+HDEHIPCA_00677	CDS			hypothetical protein
+HDEHIPCA_00678	CDS			hypothetical protein
+HDEHIPCA_00679	CDS			hypothetical protein
+HDEHIPCA_00680	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+HDEHIPCA_00681	CDS			hypothetical protein
+HDEHIPCA_00682	CDS	irtA	3.6.3.-	Iron import ATP-binding/permease protein IrtA
+HDEHIPCA_00683	CDS	ndvA	3.6.3.42	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+HDEHIPCA_00684	CDS	rpsN2_2		Alternate 30S ribosomal protein S14
+HDEHIPCA_00685	CDS	rpmF_1		50S ribosomal protein L32
+HDEHIPCA_00686	CDS			hypothetical protein
+HDEHIPCA_00687	CDS	rpmGA_1		50S ribosomal protein L33 1
+HDEHIPCA_00688	CDS	yjiA		putative GTP-binding protein YjiA
+HDEHIPCA_00689	CDS			hypothetical protein
+HDEHIPCA_00690	CDS	znuA_2		High-affinity zinc uptake system binding-protein ZnuA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00691	CDS			hypothetical protein
+HDEHIPCA_00692	CDS			hypothetical protein
+HDEHIPCA_00693	CDS	yciC		Putative metal chaperone YciC
+HDEHIPCA_00694	CDS			hypothetical protein
+HDEHIPCA_00695	CDS			hypothetical protein
+HDEHIPCA_00696	CDS			hypothetical protein
+HDEHIPCA_00697	CDS			hypothetical protein
+HDEHIPCA_00698	CDS			hypothetical protein
+HDEHIPCA_00699	CDS	araC_2		Arabinose operon regulatory protein
+HDEHIPCA_00700	CDS			hypothetical protein
+HDEHIPCA_00701	CDS	bca		C protein alpha-antigen
+	sig_peptide			putative signal peptide
+HDEHIPCA_00702	CDS	noxE	1.6.99.3	NADH oxidase
+HDEHIPCA_00703	CDS		3.2.1.-	Autolysin
+	sig_peptide			putative signal peptide
+HDEHIPCA_00704	CDS			hypothetical protein
+HDEHIPCA_00705	CDS	ribZ_2		Riboflavin transporter RibZ
+HDEHIPCA_00706	CDS			hypothetical protein
+HDEHIPCA_00707	CDS			hypothetical protein
+HDEHIPCA_00708	CDS	pgdS	3.4.19.-	Gamma-DL-glutamyl hydrolase
+HDEHIPCA_00709	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00710	CDS			hypothetical protein
+HDEHIPCA_00711	CDS			hypothetical protein
+HDEHIPCA_00712	CDS			hypothetical protein
+HDEHIPCA_00713	CDS	ltrA_1		Group II intron-encoded protein LtrA
+HDEHIPCA_00714	CDS			hypothetical protein
+HDEHIPCA_00715	CDS			hypothetical protein
+HDEHIPCA_00716	CDS			hypothetical protein
+HDEHIPCA_00717	CDS	banIM	2.1.1.37	Modification methylase BanI
+HDEHIPCA_00718	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+HDEHIPCA_00719	CDS			hypothetical protein
+HDEHIPCA_00720	CDS	pezT	2.7.1.176	Toxin PezT
+HDEHIPCA_00721	CDS			hypothetical protein
+HDEHIPCA_00722	CDS	ltrA_2		Group II intron-encoded protein LtrA
+HDEHIPCA_00723	CDS	ftsK_1		DNA translocase FtsK
+HDEHIPCA_00724	CDS			hypothetical protein
+HDEHIPCA_00725	CDS			hypothetical protein
+HDEHIPCA_00726	CDS			hypothetical protein
+HDEHIPCA_00727	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00728	CDS			hypothetical protein
+HDEHIPCA_00729	CDS	rbbA		Ribosome-associated ATPase
+HDEHIPCA_00730	CDS			hypothetical protein
+HDEHIPCA_00731	CDS	arlR_1		Response regulator ArlR
+HDEHIPCA_00732	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+HDEHIPCA_00733	CDS	mutS_2		DNA mismatch repair protein MutS
+HDEHIPCA_00734	CDS			hypothetical protein
+HDEHIPCA_00735	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+HDEHIPCA_00736	CDS	yadH		Inner membrane transport permease YadH
+HDEHIPCA_00737	CDS	dus_1	1.3.1.-	putative tRNA-dihydrouridine synthase
+HDEHIPCA_00738	CDS			Zinc-type alcohol dehydrogenase-like protein
+HDEHIPCA_00739	CDS			hypothetical protein
+HDEHIPCA_00740	CDS	ygaZ_1		Inner membrane protein YgaZ
+HDEHIPCA_00741	CDS	xylB_2	2.7.1.17	Xylulose kinase
+HDEHIPCA_00742	CDS			hypothetical protein
+HDEHIPCA_00743	CDS	soxS		Regulatory protein SoxS
+HDEHIPCA_00744	CDS			hypothetical protein
+HDEHIPCA_00745	CDS	ywnA		Putative HTH-type transcriptional regulator YwnA
+HDEHIPCA_00746	CDS	qorB	1.6.5.2	Quinone oxidoreductase 2
+HDEHIPCA_00747	CDS			hypothetical protein
+HDEHIPCA_00748	CDS	ptsG_2	2.7.1.199	PTS system glucose-specific EIICBA component
+HDEHIPCA_00749	CDS	sacY		Levansucrase and sucrase synthesis operon antiterminator
+HDEHIPCA_00750	CDS	benM		HTH-type transcriptional regulator BenM
+HDEHIPCA_00751	CDS		2.3.1.-	Putative acetyltransferase
+HDEHIPCA_00752	CDS		1.-.-.-	putative oxidoreductase
+HDEHIPCA_00753	CDS		3.2.1.-	Autolysin
+	sig_peptide			putative signal peptide
+HDEHIPCA_00754	CDS			putative HTH-type transcriptional regulator/GBAA_1941/BAS1801
+HDEHIPCA_00755	CDS	yodC_1	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+HDEHIPCA_00756	CDS	yodC_2	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+HDEHIPCA_00757	CDS	ettA_1		Energy-dependent translational throttle protein EttA
+HDEHIPCA_00758	CDS			hypothetical protein
+HDEHIPCA_00759	CDS			hypothetical protein
+HDEHIPCA_00760	CDS	yfmO_1		Multidrug efflux protein YfmO
+HDEHIPCA_00761	CDS	yfmO_2		Multidrug efflux protein YfmO
+HDEHIPCA_00762	CDS			hypothetical protein
+HDEHIPCA_00763	CDS			hypothetical protein
+HDEHIPCA_00764	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+HDEHIPCA_00765	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+HDEHIPCA_00766	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+HDEHIPCA_00767	CDS	radA	3.6.4.-	DNA repair protein RadA
+HDEHIPCA_00768	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+	sig_peptide			putative signal peptide
+HDEHIPCA_00769	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+HDEHIPCA_00770	CDS	cysE	2.3.1.30	Serine acetyltransferase
+HDEHIPCA_00771	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+HDEHIPCA_00772	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+HDEHIPCA_00773	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+HDEHIPCA_00774	CDS			hypothetical protein
+HDEHIPCA_00775	CDS	sigH		RNA polymerase sigma-H factor
+HDEHIPCA_00776	CDS			hypothetical protein
+HDEHIPCA_00777	CDS		2.3.1.-	Acetyltransferase
+HDEHIPCA_00778	CDS	mscL		Large-conductance mechanosensitive channel
+HDEHIPCA_00779	CDS		3.4.24.-	putative zinc protease
+HDEHIPCA_00780	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+HDEHIPCA_00781	CDS			hypothetical protein
+HDEHIPCA_00782	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+HDEHIPCA_00783	CDS	cinA		Putative competence-damage inducible protein
+HDEHIPCA_00784	CDS	recA		Protein RecA
+HDEHIPCA_00785	CDS	rny_1	3.1.-.-	Ribonuclease Y
+HDEHIPCA_00786	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+HDEHIPCA_00787	CDS	mprF_1	2.3.2.3	Phosphatidylglycerol lysyltransferase
+HDEHIPCA_00788	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+HDEHIPCA_00789	CDS	znuA_3		High-affinity zinc uptake system binding-protein ZnuA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00790	CDS	znuC_3	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+HDEHIPCA_00791	CDS	znuB		High-affinity zinc uptake system membrane protein ZnuB
+HDEHIPCA_00792	CDS	purR_2		Pur operon repressor
+HDEHIPCA_00793	CDS	glmU		Bifunctional protein GlmU
+HDEHIPCA_00794	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+HDEHIPCA_00795	CDS	thiT		Thiamine transporter ThiT
+HDEHIPCA_00796	CDS			hypothetical protein
+HDEHIPCA_00797	CDS			hypothetical protein
+HDEHIPCA_00798	CDS			hypothetical protein
+HDEHIPCA_00799	CDS			hypothetical protein
+HDEHIPCA_00800	CDS			hypothetical protein
+HDEHIPCA_00801	CDS	gmk_1	2.7.4.8	Guanylate kinase
+HDEHIPCA_00802	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+HDEHIPCA_00803	CDS	priA	3.6.4.-	Primosomal protein N'
+HDEHIPCA_00804	CDS	def_2	3.5.1.88	Peptide deformylase
+HDEHIPCA_00805	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+HDEHIPCA_00806	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+HDEHIPCA_00807	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+HDEHIPCA_00808	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+HDEHIPCA_00809	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+HDEHIPCA_00810	CDS	rpe_1	5.1.3.1	Ribulose-phosphate 3-epimerase
+HDEHIPCA_00811	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+HDEHIPCA_00812	CDS	mreC		Cell shape-determining protein MreC
+	sig_peptide			putative signal peptide
+HDEHIPCA_00813	CDS			hypothetical protein
+HDEHIPCA_00814	CDS			Secreted 45 kDa protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00815	CDS	pepF1_1	3.4.24.-	Oligoendopeptidase F, plasmid
+HDEHIPCA_00816	CDS			hypothetical protein
+HDEHIPCA_00817	CDS			putative transcriptional regulatory protein
+HDEHIPCA_00818	CDS	ldtA	2.3.2.-	L,D-transpeptidase 1
+	sig_peptide			putative signal peptide
+HDEHIPCA_00819	CDS	ldh	1.1.1.27	L-lactate dehydrogenase
+HDEHIPCA_00820	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+HDEHIPCA_00821	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+HDEHIPCA_00822	CDS	murJ_1		Lipid II flippase MurJ
+HDEHIPCA_00823	CDS	hslR		Heat shock protein 15
+HDEHIPCA_00824	CDS	ftsL_1		Cell division protein FtsL
+HDEHIPCA_00825	CDS	yugI_1		General stress protein 13
+HDEHIPCA_00826	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+HDEHIPCA_00827	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+HDEHIPCA_00828	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+HDEHIPCA_00829	CDS	hslO		33 kDa chaperonin
+HDEHIPCA_00830	CDS	dus_2	1.3.1.-	putative tRNA-dihydrouridine synthase
+HDEHIPCA_00831	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+HDEHIPCA_00832	CDS			hypothetical protein
+HDEHIPCA_00833	rRNA			16S ribosomal RNA
+HDEHIPCA_00834	tRNA			tRNA-Ala(tgc)
+HDEHIPCA_00835	rRNA			23S ribosomal RNA
+HDEHIPCA_00836	rRNA			5S ribosomal RNA
+HDEHIPCA_00837	tRNA			tRNA-Val(tac)
+HDEHIPCA_00838	tRNA			tRNA-Lys(ttt)
+HDEHIPCA_00839	tRNA			tRNA-Leu(tag)
+HDEHIPCA_00840	tRNA			tRNA-Thr(tgt)
+HDEHIPCA_00841	tRNA			tRNA-Gly(gcc)
+HDEHIPCA_00842	tRNA			tRNA-Leu(taa)
+HDEHIPCA_00843	tRNA			tRNA-Arg(acg)
+HDEHIPCA_00844	tRNA			tRNA-Pro(tgg)
+HDEHIPCA_00845	tRNA			tRNA-Ala(tgc)
+HDEHIPCA_00846	tRNA			tRNA-Met(cat)
+HDEHIPCA_00847	tRNA			tRNA-Met(cat)
+HDEHIPCA_00848	tRNA			tRNA-Ser(tga)
+HDEHIPCA_00849	tRNA			tRNA-Met(cat)
+HDEHIPCA_00850	tRNA			tRNA-Asp(gtc)
+HDEHIPCA_00851	tRNA			tRNA-Gly(tcc)
+HDEHIPCA_00852	tRNA			tRNA-Ile(gat)
+HDEHIPCA_00853	tRNA			tRNA-Ser(gct)
+HDEHIPCA_00854	tRNA			tRNA-Glu(ttc)
+HDEHIPCA_00855	tRNA			tRNA-Ser(tga)
+HDEHIPCA_00856	tRNA			tRNA-Met(cat)
+HDEHIPCA_00857	tRNA			tRNA-Asp(gtc)
+HDEHIPCA_00858	tRNA			tRNA-Phe(gaa)
+HDEHIPCA_00859	tRNA			tRNA-Gly(tcc)
+HDEHIPCA_00860	tRNA			tRNA-Ile(gat)
+HDEHIPCA_00861	tRNA			tRNA-Glu(ttc)
+HDEHIPCA_00862	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+HDEHIPCA_00863	CDS			hypothetical protein
+HDEHIPCA_00864	CDS	bmr3		Multidrug resistance protein 3
+HDEHIPCA_00865	CDS	frmB	3.1.2.12	S-formylglutathione hydrolase FrmB
+HDEHIPCA_00866	CDS	tetR		Tetracycline repressor protein class H
+HDEHIPCA_00867	CDS			putative ABC transporter ATP-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00868	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_00869	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+HDEHIPCA_00870	CDS			hypothetical protein
+HDEHIPCA_00871	CDS	bcrC	3.6.1.27	Undecaprenyl-diphosphatase BcrC
+HDEHIPCA_00872	CDS		3.2.1.17	Muramidase-2
+	sig_peptide			putative signal peptide
+HDEHIPCA_00873	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+HDEHIPCA_00874	CDS	hcf136		Ycf48-like protein
+HDEHIPCA_00875	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_00876	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_00877	CDS			hypothetical protein
+HDEHIPCA_00878	CDS			hypothetical protein
+HDEHIPCA_00879	CDS			hypothetical protein
+HDEHIPCA_00880	CDS	sdrD		Serine-aspartate repeat-containing protein D
+HDEHIPCA_00881	CDS			hypothetical protein
+HDEHIPCA_00882	CDS			hypothetical protein
+HDEHIPCA_00883	CDS	celA_1	2.7.1.205	PTS system cellobiose-specific EIIB component
+	sig_peptide			putative signal peptide
+HDEHIPCA_00884	CDS	licR_1		putative licABCH operon regulator
+HDEHIPCA_00885	CDS	licA_1	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+HDEHIPCA_00886	CDS			hypothetical protein
+HDEHIPCA_00887	CDS	licC_1		Lichenan permease IIC component
+HDEHIPCA_00888	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+HDEHIPCA_00889	CDS			hypothetical protein
+HDEHIPCA_00890	CDS	murJ_2		Lipid II flippase MurJ
+HDEHIPCA_00891	CDS	rluB_1	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+HDEHIPCA_00892	CDS	yteP_1		putative multiple-sugar transport system permease YteP
+HDEHIPCA_00893	CDS	araQ_2		L-arabinose transport system permease protein AraQ
+HDEHIPCA_00894	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_00895	CDS			hypothetical protein
+HDEHIPCA_00896	CDS	ypdA_1	2.7.13.3	Sensor histidine kinase YpdA
+HDEHIPCA_00897	CDS			putative response regulatory protein
+HDEHIPCA_00898	CDS			hypothetical protein
+HDEHIPCA_00899	CDS	araR_1		Arabinose metabolism transcriptional repressor
+HDEHIPCA_00900	CDS			hypothetical protein
+HDEHIPCA_00901	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+HDEHIPCA_00902	CDS	gmuE_2	2.7.1.4	Putative fructokinase
+HDEHIPCA_00903	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+HDEHIPCA_00904	CDS	pbpF		Penicillin-binding protein 1F
+HDEHIPCA_00905	CDS			hypothetical protein
+HDEHIPCA_00906	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+HDEHIPCA_00907	CDS	nfo_1	3.1.21.2	endonuclease 4
+HDEHIPCA_00908	CDS	rhgT	3.1.1.-	Rhamnogalacturonan acetylesterase RhgT
+HDEHIPCA_00909	CDS	uxaC	5.3.1.12	Uronate isomerase
+HDEHIPCA_00910	CDS	uxaA	4.2.1.7	Altronate dehydratase
+HDEHIPCA_00911	CDS	uxaB	1.1.1.58	Altronate oxidoreductase
+HDEHIPCA_00912	CDS	exuR_1		putative HTH-type transcriptional repressor ExuR
+HDEHIPCA_00913	CDS	yesS		HTH-type transcriptional regulator YesS
+HDEHIPCA_00914	CDS	araQ_3		L-arabinose transport system permease protein AraQ
+HDEHIPCA_00915	CDS	yteP_2		putative multiple-sugar transport system permease YteP
+HDEHIPCA_00916	CDS			hypothetical protein
+HDEHIPCA_00917	CDS	lipO_1		Lipoprotein LipO
+	sig_peptide			putative signal peptide
+HDEHIPCA_00918	CDS	yteR	3.2.1.172	Unsaturated rhamnogalacturonyl hydrolase YteR
+HDEHIPCA_00919	CDS	pgl_1	3.2.1.15	Polygalacturonase
+HDEHIPCA_00920	CDS			hypothetical protein
+HDEHIPCA_00921	CDS	pemA	3.1.1.11	Pectinesterase A
+HDEHIPCA_00922	CDS			hypothetical protein
+HDEHIPCA_00923	CDS	xynB	3.2.1.37	Beta-xylosidase
+HDEHIPCA_00924	CDS	yjmB		putative symporter YjmB
+HDEHIPCA_00925	CDS	pehX	3.2.1.82	Exo-poly-alpha-D-galacturonosidase
+HDEHIPCA_00926	rRNA			16S ribosomal RNA
+HDEHIPCA_00927	rRNA			23S ribosomal RNA
+HDEHIPCA_00928	rRNA			5S ribosomal RNA
+HDEHIPCA_00929	CDS	ywpJ_2	3.1.3.-	Phosphatase YwpJ
+HDEHIPCA_00930	CDS	yhaO		putative metallophosphoesterase YhaO
+HDEHIPCA_00931	CDS			hypothetical protein
+HDEHIPCA_00932	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+HDEHIPCA_00933	CDS	prsA_2	5.2.1.8	Foldase protein PrsA
+	sig_peptide			putative signal peptide
+HDEHIPCA_00934	CDS			hypothetical protein
+HDEHIPCA_00935	CDS			putative HIT-like protein
+HDEHIPCA_00936	CDS	ecsA_2		ABC-type transporter ATP-binding protein EcsA
+HDEHIPCA_00937	CDS			hypothetical protein
+HDEHIPCA_00938	CDS			hypothetical protein
+HDEHIPCA_00939	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+HDEHIPCA_00940	CDS	adeC	3.5.4.2	Adenine deaminase
+HDEHIPCA_00941	CDS	comGA		ComG operon protein 1
+HDEHIPCA_00942	CDS	epsF		Type II secretion system protein F
+HDEHIPCA_00943	CDS	comGC		ComG operon protein 3
+HDEHIPCA_00944	CDS			hypothetical protein
+HDEHIPCA_00945	CDS			hypothetical protein
+HDEHIPCA_00946	CDS			hypothetical protein
+HDEHIPCA_00947	CDS			hypothetical protein
+HDEHIPCA_00948	CDS	prmC_1	2.1.1.297	Release factor glutamine methyltransferase
+HDEHIPCA_00949	CDS	ackA	2.7.2.1	Acetate kinase
+HDEHIPCA_00950	CDS	ybiT_2		putative ABC transporter ATP-binding protein YbiT
+HDEHIPCA_00951	CDS			hypothetical protein
+HDEHIPCA_00952	CDS			Putative universal stress protein
+HDEHIPCA_00953	CDS			hypothetical protein
+HDEHIPCA_00954	CDS			putative AAA domain-containing protein
+HDEHIPCA_00955	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+HDEHIPCA_00956	CDS			hypothetical protein
+HDEHIPCA_00957	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+HDEHIPCA_00958	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+HDEHIPCA_00959	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+HDEHIPCA_00960	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+HDEHIPCA_00961	CDS	cypC	1.11.2.4	Fatty-acid peroxygenase
+HDEHIPCA_00962	CDS	yhdN	1.1.1.-	General stress protein 69
+HDEHIPCA_00963	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+HDEHIPCA_00964	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+HDEHIPCA_00965	CDS			hypothetical protein
+HDEHIPCA_00966	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+HDEHIPCA_00967	CDS			hypothetical protein
+HDEHIPCA_00968	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+HDEHIPCA_00969	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+HDEHIPCA_00970	CDS	sbcD		Nuclease SbcCD subunit D
+HDEHIPCA_00971	CDS	sbcC		Nuclease SbcCD subunit C
+HDEHIPCA_00972	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+HDEHIPCA_00973	CDS	yfnB_2	3.-.-.-	Putative HAD-hydrolase YfnB
+HDEHIPCA_00974	CDS	spxA_3		Regulatory protein Spx
+HDEHIPCA_00975	CDS	mecA		Adapter protein MecA 1
+HDEHIPCA_00976	CDS	coiA		Competence protein CoiA
+HDEHIPCA_00977	CDS	pepF1_2	3.4.24.-	Oligoendopeptidase F, plasmid
+HDEHIPCA_00978	CDS			hypothetical protein
+HDEHIPCA_00979	CDS			hypothetical protein
+HDEHIPCA_00980	CDS	yjbK	3.6.1.-	Putative triphosphatase YjbK
+HDEHIPCA_00981	CDS	yjbM	2.7.6.5	GTP pyrophosphokinase YjbM
+HDEHIPCA_00982	CDS	ppnKA	2.7.1.23	NAD kinase 1
+HDEHIPCA_00983	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+HDEHIPCA_00984	CDS	mgtE		Magnesium transporter MgtE
+HDEHIPCA_00985	CDS			CutC-like protein
+HDEHIPCA_00986	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+HDEHIPCA_00987	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+HDEHIPCA_00988	CDS	pspB_2	3.1.3.3	Putative phosphoserine phosphatase 2
+HDEHIPCA_00989	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+HDEHIPCA_00990	CDS			hypothetical protein
+HDEHIPCA_00991	CDS	desR		Transcriptional regulatory protein DesR
+HDEHIPCA_00992	CDS	desK	2.7.13.3	Sensor histidine kinase DesK
+HDEHIPCA_00993	CDS	ybhF		putative ABC transporter ATP-binding protein YbhF
+HDEHIPCA_00994	CDS			hypothetical protein
+HDEHIPCA_00995	CDS			hypothetical protein
+HDEHIPCA_00996	CDS	ytlR	2.7.1.-	Putative lipid kinase YtlR
+HDEHIPCA_00997	CDS	queT_2		Queuosine precursor transporter QueT
+HDEHIPCA_00998	CDS			hypothetical protein
+HDEHIPCA_00999	CDS	rpmG2		50S ribosomal protein L33 2
+HDEHIPCA_01000	CDS	secE		Protein translocase subunit SecE
+HDEHIPCA_01001	CDS	nusG		Transcription termination/antitermination protein NusG
+HDEHIPCA_01002	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01003	CDS		1.13.12.4	Lactate 2-monooxygenase
+HDEHIPCA_01004	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+HDEHIPCA_01005	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+HDEHIPCA_01006	CDS	rplK		50S ribosomal protein L11
+HDEHIPCA_01007	CDS	rplA		50S ribosomal protein L1
+HDEHIPCA_01008	CDS	rplJ		50S ribosomal protein L10
+HDEHIPCA_01009	CDS	rplL		50S ribosomal protein L7/L12
+HDEHIPCA_01010	CDS			hypothetical protein
+HDEHIPCA_01011	CDS			putative transporter
+HDEHIPCA_01012	CDS			hypothetical protein
+HDEHIPCA_01013	CDS	ybiT_3		putative ABC transporter ATP-binding protein YbiT
+HDEHIPCA_01014	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase
+HDEHIPCA_01015	CDS			hypothetical protein
+HDEHIPCA_01016	CDS	tqsA_2		AI-2 transport protein TqsA
+HDEHIPCA_01017	CDS	nrdF	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit beta
+HDEHIPCA_01018	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+HDEHIPCA_01019	CDS	nrdH		Glutaredoxin-like protein NrdH
+HDEHIPCA_01020	CDS			hypothetical protein
+HDEHIPCA_01021	CDS	feoB		Fe(2+) transporter FeoB
+HDEHIPCA_01022	CDS			hypothetical protein
+HDEHIPCA_01023	CDS			hypothetical protein
+HDEHIPCA_01024	CDS	opuAA	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+HDEHIPCA_01025	CDS	gbuB		Glycine betaine/carnitine transport permease protein GbuB
+HDEHIPCA_01026	CDS	pisA		Bacteriocin piscicolin-126
+HDEHIPCA_01027	CDS			hypothetical protein
+HDEHIPCA_01028	CDS			hypothetical protein
+HDEHIPCA_01029	CDS			hypothetical protein
+HDEHIPCA_01030	CDS			hypothetical protein
+HDEHIPCA_01031	tRNA			tRNA-Lys(ctt)
+HDEHIPCA_01032	CDS			hypothetical protein
+HDEHIPCA_01033	CDS			DegV domain-containing protein
+HDEHIPCA_01034	CDS	walR_1		Transcriptional regulatory protein WalR
+HDEHIPCA_01035	CDS	walK_2	2.7.13.3	Sensor histidine kinase WalK
+HDEHIPCA_01036	CDS			hypothetical protein
+HDEHIPCA_01037	CDS	yycI		Two-component system WalR/WalK regulatory protein YycI
+HDEHIPCA_01038	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+HDEHIPCA_01039	CDS			hypothetical protein
+HDEHIPCA_01040	CDS	gmuC_1		PTS system oligo-beta-mannoside-specific EIIC component
+HDEHIPCA_01041	CDS			hypothetical protein
+HDEHIPCA_01042	CDS	groS		10 kDa chaperonin
+HDEHIPCA_01043	CDS	groL		60 kDa chaperonin
+HDEHIPCA_01044	CDS	xerD_2		Tyrosine recombinase XerD
+HDEHIPCA_01045	CDS			hypothetical protein
+HDEHIPCA_01046	CDS			hypothetical protein
+HDEHIPCA_01047	CDS			hypothetical protein
+HDEHIPCA_01048	CDS			hypothetical protein
+HDEHIPCA_01049	CDS			hypothetical protein
+HDEHIPCA_01050	CDS			hypothetical protein
+HDEHIPCA_01051	CDS			hypothetical protein
+HDEHIPCA_01052	CDS			hypothetical protein
+HDEHIPCA_01053	CDS			hypothetical protein
+HDEHIPCA_01054	CDS			hypothetical protein
+HDEHIPCA_01055	CDS			hypothetical protein
+HDEHIPCA_01056	CDS			hypothetical protein
+HDEHIPCA_01057	CDS			hypothetical protein
+HDEHIPCA_01058	CDS			hypothetical protein
+HDEHIPCA_01059	CDS			hypothetical protein
+HDEHIPCA_01060	CDS			hypothetical protein
+HDEHIPCA_01061	CDS			hypothetical protein
+HDEHIPCA_01062	CDS			hypothetical protein
+HDEHIPCA_01063	CDS			hypothetical protein
+HDEHIPCA_01064	CDS			hypothetical protein
+HDEHIPCA_01065	CDS			hypothetical protein
+HDEHIPCA_01066	CDS			hypothetical protein
+HDEHIPCA_01067	CDS			hypothetical protein
+HDEHIPCA_01068	CDS			hypothetical protein
+HDEHIPCA_01069	CDS			hypothetical protein
+HDEHIPCA_01070	CDS			hypothetical protein
+HDEHIPCA_01071	CDS			hypothetical protein
+HDEHIPCA_01072	CDS			hypothetical protein
+HDEHIPCA_01073	CDS			hypothetical protein
+HDEHIPCA_01074	CDS			hypothetical protein
+HDEHIPCA_01075	CDS			hypothetical protein
+HDEHIPCA_01076	CDS			hypothetical protein
+HDEHIPCA_01077	CDS	cas2_1	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+HDEHIPCA_01078	CDS			hypothetical protein
+HDEHIPCA_01079	CDS			hypothetical protein
+HDEHIPCA_01080	CDS			hypothetical protein
+HDEHIPCA_01081	CDS			hypothetical protein
+HDEHIPCA_01082	CDS			hypothetical protein
+HDEHIPCA_01083	CDS			hypothetical protein
+HDEHIPCA_01084	CDS			hypothetical protein
+HDEHIPCA_01085	CDS			hypothetical protein
+HDEHIPCA_01086	CDS			hypothetical protein
+HDEHIPCA_01087	CDS			hypothetical protein
+HDEHIPCA_01088	CDS			hypothetical protein
+HDEHIPCA_01089	CDS			hypothetical protein
+HDEHIPCA_01090	CDS			hypothetical protein
+HDEHIPCA_01091	CDS			hypothetical protein
+HDEHIPCA_01092	CDS			hypothetical protein
+HDEHIPCA_01093	CDS			hypothetical protein
+HDEHIPCA_01094	CDS			hypothetical protein
+HDEHIPCA_01095	CDS			hypothetical protein
+HDEHIPCA_01096	CDS			hypothetical protein
+HDEHIPCA_01097	CDS			hypothetical protein
+HDEHIPCA_01098	CDS			hypothetical protein
+HDEHIPCA_01099	CDS			hypothetical protein
+HDEHIPCA_01100	CDS			hypothetical protein
+HDEHIPCA_01101	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+HDEHIPCA_01102	CDS			hypothetical protein
+HDEHIPCA_01103	CDS			hypothetical protein
+HDEHIPCA_01104	CDS			hypothetical protein
+HDEHIPCA_01105	CDS			hypothetical protein
+HDEHIPCA_01106	CDS			hypothetical protein
+HDEHIPCA_01107	CDS			hypothetical protein
+HDEHIPCA_01108	CDS			hypothetical protein
+HDEHIPCA_01109	CDS	lytA_1	3.5.1.28	Autolysin
+	sig_peptide			putative signal peptide
+HDEHIPCA_01110	tRNA			tRNA-Met(cat)
+HDEHIPCA_01111	CDS			hypothetical protein
+HDEHIPCA_01112	CDS			hypothetical protein
+HDEHIPCA_01113	CDS			hypothetical protein
+HDEHIPCA_01114	CDS			hypothetical protein
+HDEHIPCA_01115	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01116	CDS			hypothetical protein
+HDEHIPCA_01117	CDS			hypothetical protein
+HDEHIPCA_01118	CDS	pepS	3.4.11.-	Aminopeptidase PepS
+HDEHIPCA_01119	CDS			hypothetical protein
+HDEHIPCA_01120	CDS			Flavodoxin
+HDEHIPCA_01121	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+HDEHIPCA_01122	CDS			hypothetical protein
+HDEHIPCA_01123	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+HDEHIPCA_01124	CDS	wbbL	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+HDEHIPCA_01125	CDS			hypothetical protein
+HDEHIPCA_01126	CDS	epsH	2.4.-.-	Putative glycosyltransferase EpsH
+HDEHIPCA_01127	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+HDEHIPCA_01128	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+HDEHIPCA_01129	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+HDEHIPCA_01130	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+HDEHIPCA_01131	CDS			hypothetical protein
+HDEHIPCA_01132	CDS			hypothetical protein
+HDEHIPCA_01133	CDS	tagG		Teichoic acid translocation permease protein TagG
+HDEHIPCA_01134	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+HDEHIPCA_01135	CDS	rsmA_1	2.1.1.-	Ribosomal RNA small subunit methyltransferase A
+HDEHIPCA_01136	CDS	kfoC		Chondroitin synthase
+HDEHIPCA_01137	CDS			hypothetical protein
+HDEHIPCA_01138	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+HDEHIPCA_01139	CDS	wbbD	2.4.1.303	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+HDEHIPCA_01140	CDS			hypothetical protein
+HDEHIPCA_01141	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+HDEHIPCA_01142	CDS	rmd	1.1.1.281	GDP-6-deoxy-D-mannose reductase
+HDEHIPCA_01143	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+HDEHIPCA_01144	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+HDEHIPCA_01145	CDS			hypothetical protein
+HDEHIPCA_01146	CDS	pglH_1	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+HDEHIPCA_01147	CDS			hypothetical protein
+HDEHIPCA_01148	CDS	wbgU_1	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+HDEHIPCA_01149	CDS			hypothetical protein
+HDEHIPCA_01150	CDS	pbpX_1		Putative penicillin-binding protein PbpX
+HDEHIPCA_01151	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+HDEHIPCA_01152	CDS	greA		Transcription elongation factor GreA
+HDEHIPCA_01153	CDS			hypothetical protein
+HDEHIPCA_01154	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+HDEHIPCA_01155	CDS	vraR		Response regulator protein VraR
+HDEHIPCA_01156	CDS	ktrA		Ktr system potassium uptake protein A
+HDEHIPCA_01157	CDS			hypothetical protein
+HDEHIPCA_01158	CDS			hypothetical protein
+HDEHIPCA_01159	CDS			hypothetical protein
+HDEHIPCA_01160	CDS			hypothetical protein
+HDEHIPCA_01161	CDS	ghrB	1.1.1.79	Glyoxylate/hydroxypyruvate reductase B
+HDEHIPCA_01162	CDS			hypothetical protein
+HDEHIPCA_01163	CDS	czcD		Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+HDEHIPCA_01164	CDS			hypothetical protein
+HDEHIPCA_01165	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn]
+HDEHIPCA_01166	CDS	cspD		Cold shock protein CspD
+HDEHIPCA_01167	CDS	lytR_1		Transcriptional regulator LytR
+HDEHIPCA_01168	CDS	crtK-2		Tryptophan-rich protein TspO
+HDEHIPCA_01169	CDS	gbpA		GlcNAc-binding protein A
+	sig_peptide			putative signal peptide
+HDEHIPCA_01170	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+HDEHIPCA_01171	CDS	recX		Regulatory protein RecX
+HDEHIPCA_01172	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+HDEHIPCA_01173	CDS			hypothetical protein
+HDEHIPCA_01174	CDS		2.3.1.-	Acetyltransferase
+HDEHIPCA_01175	CDS	tqsA_3		AI-2 transport protein TqsA
+HDEHIPCA_01176	CDS	corC_2		Magnesium and cobalt efflux protein CorC
+HDEHIPCA_01177	CDS	prfC		Peptide chain release factor 3
+HDEHIPCA_01178	CDS			hypothetical protein
+HDEHIPCA_01179	CDS			hypothetical protein
+HDEHIPCA_01180	CDS	clpE		ATP-dependent Clp protease ATP-binding subunit ClpE
+HDEHIPCA_01181	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+HDEHIPCA_01182	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+HDEHIPCA_01183	CDS	dgs	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+HDEHIPCA_01184	CDS		2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+HDEHIPCA_01185	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+HDEHIPCA_01186	CDS			hypothetical protein
+HDEHIPCA_01187	CDS	uvrC_1		UvrABC system protein C
+HDEHIPCA_01188	CDS	marR		Multiple antibiotic resistance protein MarR
+HDEHIPCA_01189	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+HDEHIPCA_01190	CDS	acpA_1		Acyl carrier protein
+HDEHIPCA_01191	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+HDEHIPCA_01192	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HDEHIPCA_01193	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+HDEHIPCA_01194	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+HDEHIPCA_01195	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+HDEHIPCA_01196	CDS	cfiB_1	6.4.1.7	2-oxoglutarate carboxylase small subunit
+HDEHIPCA_01197	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+HDEHIPCA_01198	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+HDEHIPCA_01199	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+HDEHIPCA_01200	CDS	der_1		GTPase Der
+HDEHIPCA_01201	CDS			RNA-binding protein
+HDEHIPCA_01202	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+HDEHIPCA_01203	CDS			hypothetical protein
+HDEHIPCA_01204	CDS	rsfS		Ribosomal silencing factor RsfS
+HDEHIPCA_01205	CDS		2.1.1.156	Glycine/sarcosine N-methyltransferase
+HDEHIPCA_01206	CDS			hypothetical protein
+HDEHIPCA_01207	CDS			putative transcriptional regulatory protein
+HDEHIPCA_01208	CDS			hypothetical protein
+HDEHIPCA_01209	CDS			hypothetical protein
+HDEHIPCA_01210	CDS	helD_2	3.6.4.12	DNA helicase IV
+HDEHIPCA_01211	CDS	ziaA	3.6.3.5	Zinc-transporting ATPase
+HDEHIPCA_01212	CDS		5.3.2.-	putative tautomerase.1
+HDEHIPCA_01213	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+HDEHIPCA_01214	CDS	ybbH_1		putative HTH-type transcriptional regulator YbbH
+HDEHIPCA_01215	CDS	penA		Penicillin-binding protein 2B
+HDEHIPCA_01216	CDS			hypothetical protein
+HDEHIPCA_01217	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+HDEHIPCA_01218	CDS	pbuO		Guanine/hypoxanthine permease PbuO
+HDEHIPCA_01219	CDS			hypothetical protein
+HDEHIPCA_01220	CDS	yjhB_2		Putative metabolite transport protein YjhB
+HDEHIPCA_01221	CDS			hypothetical protein
+HDEHIPCA_01222	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+HDEHIPCA_01223	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+HDEHIPCA_01224	CDS	pyk	2.7.1.40	Pyruvate kinase
+HDEHIPCA_01225	CDS	gltC_2		HTH-type transcriptional regulator GltC
+HDEHIPCA_01226	CDS			hypothetical protein
+HDEHIPCA_01227	CDS	rpmF_2		50S ribosomal protein L32
+HDEHIPCA_01228	CDS	gnd	1.1.1.44	6-phosphogluconate dehydrogenase, decarboxylating
+HDEHIPCA_01229	CDS	arlR_2		Response regulator ArlR
+HDEHIPCA_01230	CDS	arlS	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+HDEHIPCA_01231	rRNA			16S ribosomal RNA
+HDEHIPCA_01232	tRNA			tRNA-Ala(tgc)
+HDEHIPCA_01233	rRNA			23S ribosomal RNA
+HDEHIPCA_01234	rRNA			5S ribosomal RNA
+HDEHIPCA_01235	tRNA			tRNA-Asn(gtt)
+HDEHIPCA_01236	tRNA			tRNA-Ser(gga)
+HDEHIPCA_01237	tRNA			tRNA-Glu(ttc)
+HDEHIPCA_01238	tRNA			tRNA-Val(tac)
+HDEHIPCA_01239	tRNA			tRNA-Asp(gtc)
+HDEHIPCA_01240	tRNA			tRNA-Phe(gaa)
+HDEHIPCA_01241	tRNA			tRNA-Tyr(gta)
+HDEHIPCA_01242	tRNA			tRNA-Trp(cca)
+HDEHIPCA_01243	tRNA			tRNA-His(gtg)
+HDEHIPCA_01244	tRNA			tRNA-Gln(ttg)
+HDEHIPCA_01245	tRNA			tRNA-Cys(gca)
+HDEHIPCA_01246	tRNA			tRNA-Leu(caa)
+HDEHIPCA_01247	tRNA			tRNA-His(gtg)
+HDEHIPCA_01248	tRNA			tRNA-Gln(ttg)
+HDEHIPCA_01249	tRNA			tRNA-Leu(caa)
+HDEHIPCA_01250	CDS	licT_2		Transcription antiterminator LicT
+HDEHIPCA_01251	CDS		3.5.1.-	Carbohydrate deacetylase
+HDEHIPCA_01252	CDS	nagE		PTS system N-acetylglucosamine-specific EIICBA component
+HDEHIPCA_01253	CDS	malH	3.2.1.122	Maltose-6'-phosphate glucosidase MalH
+HDEHIPCA_01254	CDS	ptsG_3	2.7.1.199	PTS system glucose-specific EIICBA component
+HDEHIPCA_01255	CDS	licC_2		Lichenan permease IIC component
+HDEHIPCA_01256	CDS			hypothetical protein
+HDEHIPCA_01257	CDS			hypothetical protein
+HDEHIPCA_01258	CDS			hypothetical protein
+HDEHIPCA_01259	CDS	srlR		Glucitol operon repressor
+HDEHIPCA_01260	CDS	ulaG	3.1.1.-	putative L-ascorbate-6-phosphate lactonase UlaG
+HDEHIPCA_01261	CDS	cmtB_2	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+HDEHIPCA_01262	CDS	ulaA_1		Ascorbate-specific PTS system EIIC component
+HDEHIPCA_01263	CDS	ulaB_2	2.7.1.194	Ascorbate-specific PTS system EIIB component
+HDEHIPCA_01264	CDS	ulaD	4.1.1.85	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+HDEHIPCA_01265	CDS	ulaE	5.1.3.22	L-ribulose-5-phosphate 3-epimerase UlaE
+HDEHIPCA_01266	CDS	araD	5.1.3.4	L-ribulose-5-phosphate 4-epimerase AraD
+HDEHIPCA_01267	CDS			hypothetical protein
+HDEHIPCA_01268	CDS			hypothetical protein
+HDEHIPCA_01269	CDS			hypothetical protein
+HDEHIPCA_01270	CDS			hypothetical protein
+HDEHIPCA_01271	CDS	mtlR_1		Transcriptional regulator MtlR
+HDEHIPCA_01272	CDS			hypothetical protein
+HDEHIPCA_01273	CDS			hypothetical protein
+HDEHIPCA_01274	CDS			hypothetical protein
+HDEHIPCA_01275	CDS			hypothetical protein
+HDEHIPCA_01276	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01277	CDS			hypothetical protein
+HDEHIPCA_01278	CDS		3.1.1.-	Deacetylase
+HDEHIPCA_01279	CDS	dgaE	4.3.1.29	D-glucosaminate-6-phosphate ammonia lyase
+HDEHIPCA_01280	CDS	dgaF	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+HDEHIPCA_01281	CDS	manP		PTS system mannose-specific EIIBCA component
+HDEHIPCA_01282	CDS	manR_2		Transcriptional regulator ManR
+HDEHIPCA_01283	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+HDEHIPCA_01284	CDS	luxA	1.14.14.3	Alkanal monooxygenase alpha chain
+HDEHIPCA_01285	CDS			putative HTH-type transcriptional regulator
+HDEHIPCA_01286	CDS			hypothetical protein
+HDEHIPCA_01287	CDS	lacC_1	2.7.1.144	Tagatose-6-phosphate kinase
+HDEHIPCA_01288	CDS	lacR_2		Lactose phosphotransferase system repressor
+HDEHIPCA_01289	CDS	gatA_1	2.7.1.200	PTS system galactitol-specific EIIA component
+HDEHIPCA_01290	CDS	gatB_1	2.7.1.200	PTS system galactitol-specific EIIB component
+HDEHIPCA_01291	CDS	gatC_1		PTS system galactitol-specific EIIC component
+HDEHIPCA_01292	CDS			hypothetical protein
+HDEHIPCA_01293	CDS	mtnB	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+HDEHIPCA_01294	CDS	mhqD	3.1.-.-	Putative hydrolase MhqD
+HDEHIPCA_01295	CDS	mhqA	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+HDEHIPCA_01296	CDS	gmuR		HTH-type transcriptional regulator GmuR
+HDEHIPCA_01297	CDS	gmuC_2		PTS system oligo-beta-mannoside-specific EIIC component
+HDEHIPCA_01298	CDS	gmuD_2	3.2.1.86	6-phospho-beta-glucosidase GmuD
+HDEHIPCA_01299	CDS			Putative universal stress protein
+HDEHIPCA_01300	CDS			hypothetical protein
+HDEHIPCA_01301	CDS			hypothetical protein
+HDEHIPCA_01302	CDS	spxA_4		Regulatory protein Spx
+HDEHIPCA_01303	CDS			hypothetical protein
+HDEHIPCA_01304	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+HDEHIPCA_01305	CDS	clsA_1	2.7.8.-	Major cardiolipin synthase ClsA
+HDEHIPCA_01306	CDS		3.6.3.8	Calcium-transporting ATPase
+HDEHIPCA_01307	CDS	ubiE_1	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+HDEHIPCA_01308	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+HDEHIPCA_01309	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+HDEHIPCA_01310	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+HDEHIPCA_01311	CDS			hypothetical protein
+HDEHIPCA_01312	CDS			hypothetical protein
+HDEHIPCA_01313	CDS	yvgN	1.1.1.-	Glyoxal reductase
+HDEHIPCA_01314	CDS			hypothetical protein
+HDEHIPCA_01315	CDS			hypothetical protein
+HDEHIPCA_01316	CDS	tuf_2		Elongation factor Tu
+HDEHIPCA_01317	CDS	mprF_2	2.3.2.3	Phosphatidylglycerol lysyltransferase
+HDEHIPCA_01318	CDS	xylF	3.7.1.9	2-hydroxymuconate semialdehyde hydrolase
+HDEHIPCA_01319	CDS			hypothetical protein
+HDEHIPCA_01320	CDS			hypothetical protein
+HDEHIPCA_01321	CDS	ctpE_1	3.6.3.-	putative cation-transporting ATPase E
+HDEHIPCA_01322	CDS	dnaG	2.7.7.-	DNA primase
+HDEHIPCA_01323	CDS	sigA		RNA polymerase sigma factor SigA
+HDEHIPCA_01324	CDS			hypothetical protein
+HDEHIPCA_01325	CDS	mapZ		Mid-cell-anchored protein Z
+HDEHIPCA_01326	CDS	cvfB		Conserved virulence factor B
+HDEHIPCA_01327	CDS	fur		Ferric uptake regulation protein
+HDEHIPCA_01328	CDS			hypothetical protein
+HDEHIPCA_01329	CDS	xerD_3		Tyrosine recombinase XerD
+HDEHIPCA_01330	CDS			hypothetical protein
+HDEHIPCA_01331	CDS	scpA		Segregation and condensation protein A
+HDEHIPCA_01332	CDS	scpB		Segregation and condensation protein B
+HDEHIPCA_01333	CDS	rluB_2	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+HDEHIPCA_01334	CDS	fmnP		Riboflavin transporter FmnP
+HDEHIPCA_01335	CDS			hypothetical protein
+HDEHIPCA_01336	CDS		3.4.13.-	Putative dipeptidase
+HDEHIPCA_01337	CDS			hypothetical protein
+HDEHIPCA_01338	CDS			hypothetical protein
+HDEHIPCA_01339	CDS			hypothetical protein
+HDEHIPCA_01340	CDS	recQ_1	3.6.4.12	ATP-dependent DNA helicase RecQ
+HDEHIPCA_01341	CDS	sle1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase sle1
+HDEHIPCA_01342	CDS	cmk	2.7.4.25	Cytidylate kinase
+HDEHIPCA_01343	CDS	ypfD		30S ribosomal protein S1 
+HDEHIPCA_01344	CDS	der_2		GTPase Der
+HDEHIPCA_01345	CDS	hupA		DNA-binding protein HU 1
+HDEHIPCA_01346	CDS			hypothetical protein
+HDEHIPCA_01347	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+HDEHIPCA_01348	CDS			hypothetical protein
+HDEHIPCA_01349	CDS			hypothetical protein
+HDEHIPCA_01350	CDS			hypothetical protein
+HDEHIPCA_01351	CDS	cca	2.7.7.72	CCA-adding enzyme
+HDEHIPCA_01352	CDS			hypothetical protein
+HDEHIPCA_01353	CDS			hypothetical protein
+HDEHIPCA_01354	CDS	nhaK		Sodium, potassium, lithium and rubidium/H(+) antiporter
+HDEHIPCA_01355	CDS	ettA_2		Energy-dependent translational throttle protein EttA
+HDEHIPCA_01356	CDS	thyA	2.1.1.45	Thymidylate synthase
+HDEHIPCA_01357	CDS	folA_1	1.5.1.3	Dihydrofolate reductase
+HDEHIPCA_01358	CDS			hypothetical protein
+HDEHIPCA_01359	CDS			DegV domain-containing protein
+HDEHIPCA_01360	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+HDEHIPCA_01361	CDS			hypothetical protein
+HDEHIPCA_01362	CDS	msrA_2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+HDEHIPCA_01363	CDS			hypothetical protein
+HDEHIPCA_01364	CDS	sipV	3.4.21.89	Signal peptidase I V
+HDEHIPCA_01365	CDS	folT_1		Folate transporter FolT
+HDEHIPCA_01366	CDS			hypothetical protein
+HDEHIPCA_01367	CDS	rbgA		Ribosome biogenesis GTPase A
+HDEHIPCA_01368	CDS	rnhB	3.1.26.4	Ribonuclease HII
+HDEHIPCA_01369	CDS	dprA		DNA processing protein DprA
+HDEHIPCA_01370	CDS	topA	5.99.1.2	DNA topoisomerase 1
+HDEHIPCA_01371	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+HDEHIPCA_01372	CDS	xerC_1		Tyrosine recombinase XerC
+HDEHIPCA_01373	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+HDEHIPCA_01374	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+HDEHIPCA_01375	CDS	codY		GTP-sensing transcriptional pleiotropic repressor CodY
+HDEHIPCA_01376	CDS	galM_2	5.1.3.3	Aldose 1-epimerase
+HDEHIPCA_01377	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+HDEHIPCA_01378	CDS			hypothetical protein
+HDEHIPCA_01379	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+HDEHIPCA_01380	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+HDEHIPCA_01381	CDS	pflB	2.3.1.54	Formate acetyltransferase
+HDEHIPCA_01382	CDS	pflA	1.97.1.4	Pyruvate formate-lyase-activating enzyme
+HDEHIPCA_01383	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+HDEHIPCA_01384	CDS			hypothetical protein
+HDEHIPCA_01385	CDS			hypothetical protein
+HDEHIPCA_01386	CDS			hypothetical protein
+HDEHIPCA_01387	CDS			hypothetical protein
+HDEHIPCA_01388	CDS		3.1.1.2	Arylesterase
+HDEHIPCA_01389	CDS	exuR_2		putative HTH-type transcriptional repressor ExuR
+HDEHIPCA_01390	CDS			hypothetical protein
+HDEHIPCA_01391	CDS			hypothetical protein
+HDEHIPCA_01392	CDS			hypothetical protein
+HDEHIPCA_01393	CDS	opuBB		Choline transport system permease protein OpuBB
+HDEHIPCA_01394	CDS	opuCA_2	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+HDEHIPCA_01395	CDS			hypothetical protein
+HDEHIPCA_01396	CDS	garB	1.8.1.16	Glutathione amide reductase
+HDEHIPCA_01397	CDS	ribX		Riboflavin transport system permease protein RibX
+HDEHIPCA_01398	CDS	thiY		Formylaminopyrimidine-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01399	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+HDEHIPCA_01400	CDS	dtd3_1	3.1.1.96	D-aminoacyl-tRNA deacylase
+HDEHIPCA_01401	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01402	CDS	smc_3		Chromosome partition protein Smc
+HDEHIPCA_01403	CDS			hypothetical protein
+HDEHIPCA_01404	CDS	fosX		Fosfomycin resistance protein FosX
+HDEHIPCA_01405	CDS			hypothetical protein
+HDEHIPCA_01406	CDS			hypothetical protein
+HDEHIPCA_01407	CDS			hypothetical protein
+HDEHIPCA_01408	CDS			hypothetical protein
+HDEHIPCA_01409	tRNA			tRNA-Leu(gag)
+HDEHIPCA_01410	CDS			hypothetical protein
+HDEHIPCA_01411	CDS	alaA	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+HDEHIPCA_01412	CDS			hypothetical protein
+HDEHIPCA_01413	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+HDEHIPCA_01414	CDS			hypothetical protein
+HDEHIPCA_01415	CDS	fldH_1	1.1.1.-	Phenyllactate dehydrogenase
+HDEHIPCA_01416	CDS	dcuR		Transcriptional regulatory protein DcuR
+HDEHIPCA_01417	CDS	dcuS_1	2.7.13.3	Sensor histidine kinase DcuS
+HDEHIPCA_01418	CDS	dcuS_2	2.7.13.3	Sensor histidine kinase DcuS
+HDEHIPCA_01419	CDS	yuaF		putative membrane protein YuaF
+HDEHIPCA_01420	CDS	yqiK		Inner membrane protein YqiK
+HDEHIPCA_01421	CDS			hypothetical protein
+HDEHIPCA_01422	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01423	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+HDEHIPCA_01424	CDS			hypothetical protein
+HDEHIPCA_01425	CDS	yodJ	3.4.-.-	Putative carboxypeptidase YodJ
+HDEHIPCA_01426	CDS	lytG	3.2.1.-	Exo-glucosaminidase LytG
+HDEHIPCA_01427	CDS			hypothetical protein
+HDEHIPCA_01428	CDS	yesO		Putative ABC transporter substrate-binding protein YesO
+	sig_peptide			putative signal peptide
+HDEHIPCA_01429	CDS	lacF_3		Lactose transport system permease protein LacF
+HDEHIPCA_01430	CDS	araQ_4		L-arabinose transport system permease protein AraQ
+HDEHIPCA_01431	CDS			hypothetical protein
+HDEHIPCA_01432	CDS	yteT	1.-.-.-	Putative oxidoreductase YteT
+HDEHIPCA_01433	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+HDEHIPCA_01434	CDS	pucK		Uric acid permease PucK
+HDEHIPCA_01435	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+HDEHIPCA_01436	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+HDEHIPCA_01437	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+HDEHIPCA_01438	CDS			hypothetical protein
+HDEHIPCA_01439	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HDEHIPCA_01440	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+HDEHIPCA_01441	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+HDEHIPCA_01442	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+HDEHIPCA_01443	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+HDEHIPCA_01444	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+HDEHIPCA_01445	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+HDEHIPCA_01446	CDS	purH		Bifunctional purine biosynthesis protein PurH
+HDEHIPCA_01447	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+HDEHIPCA_01448	CDS	ydhF	1.-.-.-	Oxidoreductase YdhF
+HDEHIPCA_01449	CDS			putative response regulatory protein
+HDEHIPCA_01450	CDS	yehU_1	2.7.13.3	Sensor histidine kinase YehU
+HDEHIPCA_01451	CDS	ytfQ		ABC transporter periplasmic-binding protein YtfQ
+	sig_peptide			putative signal peptide
+HDEHIPCA_01452	CDS	chvE		Multiple sugar-binding periplasmic receptor ChvE
+	sig_peptide			putative signal peptide
+HDEHIPCA_01453	CDS	xylG	3.6.3.17	Xylose import ATP-binding protein XylG
+HDEHIPCA_01454	CDS	xylH		Xylose transport system permease protein XylH
+HDEHIPCA_01455	CDS	guaC	1.7.1.7	GMP reductase
+HDEHIPCA_01456	CDS	norG		HTH-type transcriptional regulator NorG
+HDEHIPCA_01457	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+HDEHIPCA_01458	CDS	pdhB	1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta
+HDEHIPCA_01459	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+HDEHIPCA_01460	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+HDEHIPCA_01461	CDS			hypothetical protein
+HDEHIPCA_01462	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+HDEHIPCA_01463	CDS	typA		GTP-binding protein TypA/BipA
+HDEHIPCA_01464	CDS	recQ_2	3.6.4.12	ATP-dependent DNA helicase RecQ
+HDEHIPCA_01465	CDS			hypothetical protein
+HDEHIPCA_01466	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+HDEHIPCA_01467	CDS	cfiB_2	6.4.1.7	2-oxoglutarate carboxylase small subunit
+HDEHIPCA_01468	CDS			hypothetical protein
+HDEHIPCA_01469	CDS			hypothetical protein
+HDEHIPCA_01470	CDS			hypothetical protein
+HDEHIPCA_01471	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+HDEHIPCA_01472	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+HDEHIPCA_01473	CDS	lon	3.4.21.53	Lon protease
+HDEHIPCA_01474	CDS	comEA		ComE operon protein 1
+HDEHIPCA_01475	CDS			hypothetical protein
+HDEHIPCA_01476	CDS			hypothetical protein
+HDEHIPCA_01477	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+HDEHIPCA_01478	CDS	comEC		ComE operon protein 3
+HDEHIPCA_01479	CDS			hypothetical protein
+HDEHIPCA_01480	CDS	rpsT		30S ribosomal protein S20
+HDEHIPCA_01481	CDS			hypothetical protein
+HDEHIPCA_01482	CDS			hypothetical protein
+HDEHIPCA_01483	CDS	zosA	3.6.3.-	Zinc-transporting ATPase
+HDEHIPCA_01484	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+HDEHIPCA_01485	CDS	pspB_3	3.1.3.3	Putative phosphoserine phosphatase 2
+HDEHIPCA_01486	CDS		3.-.-.-	putative metallo-hydrolase
+HDEHIPCA_01487	CDS	dinG_1	3.6.4.12	putative ATP-dependent helicase DinG 
+HDEHIPCA_01488	CDS			hypothetical protein
+HDEHIPCA_01489	CDS			hypothetical protein
+HDEHIPCA_01490	CDS	mrp		Iron-sulfur cluster carrier protein
+HDEHIPCA_01491	CDS			hypothetical protein
+HDEHIPCA_01492	tRNA			tRNA-Leu(cag)
+HDEHIPCA_01493	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01494	CDS			Putative universal stress protein
+HDEHIPCA_01495	CDS			hypothetical protein
+HDEHIPCA_01496	CDS			hypothetical protein
+HDEHIPCA_01497	CDS			hypothetical protein
+HDEHIPCA_01498	CDS			hypothetical protein
+HDEHIPCA_01499	CDS			hypothetical protein
+HDEHIPCA_01500	CDS			hypothetical protein
+HDEHIPCA_01501	CDS			hypothetical protein
+HDEHIPCA_01502	tRNA			tRNA-Gln(ctg)
+HDEHIPCA_01503	CDS			hypothetical protein
+HDEHIPCA_01504	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01505	CDS			hypothetical protein
+HDEHIPCA_01506	CDS			hypothetical protein
+HDEHIPCA_01507	CDS			hypothetical protein
+HDEHIPCA_01508	CDS	dtpT_1		Di-/tripeptide transporter
+HDEHIPCA_01509	CDS	dtpT_2		Di-/tripeptide transporter
+HDEHIPCA_01510	CDS			hypothetical protein
+HDEHIPCA_01511	CDS	addB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+HDEHIPCA_01512	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+HDEHIPCA_01513	CDS	yodB		HTH-type transcriptional regulator YodB
+HDEHIPCA_01514	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+HDEHIPCA_01515	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+HDEHIPCA_01516	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+HDEHIPCA_01517	CDS	glnQ_1	3.6.3.-	Glutamine transport ATP-binding protein GlnQ
+HDEHIPCA_01518	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+HDEHIPCA_01519	CDS	glnM_1		putative glutamine ABC transporter permease protein GlnM
+HDEHIPCA_01520	CDS	glnP_2		putative glutamine ABC transporter permease protein GlnP
+HDEHIPCA_01521	CDS	murI	5.1.1.3	Glutamate racemase
+HDEHIPCA_01522	CDS	rph	2.7.7.56	Ribonuclease PH
+HDEHIPCA_01523	CDS		3.1.4.-	Putative metallophosphoesterase MG207 
+HDEHIPCA_01524	CDS	ykuL		CBS domain-containing protein YkuL
+HDEHIPCA_01525	CDS	ykuT		putative MscS family protein YkuT
+HDEHIPCA_01526	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+HDEHIPCA_01527	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+HDEHIPCA_01528	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+HDEHIPCA_01529	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+	sig_peptide			putative signal peptide
+HDEHIPCA_01530	CDS			hypothetical protein
+HDEHIPCA_01531	CDS			hypothetical protein
+HDEHIPCA_01532	CDS		3.1.1.23	Thermostable monoacylglycerol lipase
+	sig_peptide			putative signal peptide
+HDEHIPCA_01533	CDS	gap_1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+HDEHIPCA_01534	CDS	obg	3.6.5.-	GTPase Obg
+HDEHIPCA_01535	CDS			hypothetical protein
+HDEHIPCA_01536	CDS	rnz	3.1.26.11	Ribonuclease Z
+HDEHIPCA_01537	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HDEHIPCA_01538	CDS			hypothetical protein
+HDEHIPCA_01539	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+HDEHIPCA_01540	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+HDEHIPCA_01541	CDS			hypothetical protein
+HDEHIPCA_01542	CDS	lexA	3.4.21.88	LexA repressor
+HDEHIPCA_01543	CDS			hypothetical protein
+HDEHIPCA_01544	CDS	tkt	2.2.1.1	Transketolase
+HDEHIPCA_01545	CDS			hypothetical protein
+HDEHIPCA_01546	CDS		3.2.1.-	Autolysin
+	sig_peptide			putative signal peptide
+HDEHIPCA_01547	CDS	cysK	2.5.1.47	Cysteine synthase
+HDEHIPCA_01548	CDS	perR		Peroxide operon regulator
+HDEHIPCA_01549	CDS	nox_1	1.6.99.3	NADH oxidase
+HDEHIPCA_01550	CDS			hypothetical protein
+HDEHIPCA_01551	CDS			hypothetical protein
+HDEHIPCA_01552	CDS	tetA		Tetracycline resistance protein, class C
+HDEHIPCA_01553	CDS	dnaD		DNA replication protein DnaD
+HDEHIPCA_01554	CDS	nth	4.2.99.18	Endonuclease III
+HDEHIPCA_01555	CDS			hypothetical protein
+HDEHIPCA_01556	CDS			hypothetical protein
+HDEHIPCA_01557	CDS	ponA_1		Penicillin-binding protein 1A
+HDEHIPCA_01558	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+HDEHIPCA_01559	CDS			hypothetical protein
+HDEHIPCA_01560	CDS	gpsB		Cell cycle protein GpsB
+HDEHIPCA_01561	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+HDEHIPCA_01562	CDS	ypwA	3.4.17.19	Carboxypeptidase 1
+HDEHIPCA_01563	CDS			hypothetical protein
+HDEHIPCA_01564	CDS			hypothetical protein
+HDEHIPCA_01565	CDS		2.3.1.-	Putative pyridoxal phosphate-dependent acyltransferase
+HDEHIPCA_01566	CDS			putative epimerase/dehydratase
+HDEHIPCA_01567	CDS	steT_1		Serine/threonine exchanger SteT
+HDEHIPCA_01568	CDS			hypothetical protein
+HDEHIPCA_01569	CDS			hypothetical protein
+HDEHIPCA_01570	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+HDEHIPCA_01571	CDS		2.3.1.-	Acetyltransferase
+HDEHIPCA_01572	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+HDEHIPCA_01573	CDS	panT_2		Pantothenate transporter PanT
+HDEHIPCA_01574	CDS	fieF		Ferrous-iron efflux pump FieF
+HDEHIPCA_01575	CDS	rnhA		14.7 kDa ribonuclease H-like protein
+HDEHIPCA_01576	CDS			hypothetical protein
+HDEHIPCA_01577	CDS	csp		Cold shock-like protein
+HDEHIPCA_01578	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+HDEHIPCA_01579	CDS			hypothetical protein
+HDEHIPCA_01580	CDS			hypothetical protein
+HDEHIPCA_01581	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+HDEHIPCA_01582	CDS	rluD_3	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+HDEHIPCA_01583	CDS	pyrR		Bifunctional protein pyrR
+HDEHIPCA_01584	CDS	pyrP		Uracil permease
+HDEHIPCA_01585	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+HDEHIPCA_01586	CDS	pyrC	3.5.2.3	Dihydroorotase
+HDEHIPCA_01587	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+HDEHIPCA_01588	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+HDEHIPCA_01589	CDS	pyrK_1		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HDEHIPCA_01590	CDS	pyrK_2		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HDEHIPCA_01591	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+HDEHIPCA_01592	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+HDEHIPCA_01593	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+HDEHIPCA_01594	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+HDEHIPCA_01595	CDS	cah	4.2.1.1	Carbonic anhydrase
+HDEHIPCA_01596	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+HDEHIPCA_01597	CDS			hypothetical protein
+HDEHIPCA_01598	CDS			hypothetical protein
+HDEHIPCA_01599	CDS			hypothetical protein
+HDEHIPCA_01600	CDS			hypothetical protein
+HDEHIPCA_01601	CDS	lsrC_2		Autoinducer 2 import system permease protein LsrC
+HDEHIPCA_01602	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+HDEHIPCA_01603	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+HDEHIPCA_01604	CDS	msrR_1		Regulatory protein MsrR
+HDEHIPCA_01605	CDS			hypothetical protein
+HDEHIPCA_01606	CDS	topB_2	5.99.1.2	DNA topoisomerase 3
+HDEHIPCA_01607	CDS			hypothetical protein
+HDEHIPCA_01608	CDS			hypothetical protein
+HDEHIPCA_01609	CDS	doc		Toxin Doc
+HDEHIPCA_01610	CDS	ldhB	1.1.1.27	L-lactate dehydrogenase 2
+HDEHIPCA_01611	CDS			hypothetical protein
+HDEHIPCA_01612	CDS	chbR		HTH-type transcriptional regulator ChbR
+HDEHIPCA_01613	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01614	CDS			hypothetical protein
+HDEHIPCA_01615	CDS	ulaA_2		Ascorbate-specific PTS system EIIC component
+HDEHIPCA_01616	CDS			hypothetical protein
+HDEHIPCA_01617	CDS	ulaC	2.7.1.194	Ascorbate-specific PTS system EIIA component
+HDEHIPCA_01618	CDS			hypothetical protein
+HDEHIPCA_01619	CDS	yhhX	1.-.-.-	putative oxidoreductase YhhX
+HDEHIPCA_01620	CDS	ybbH_2		putative HTH-type transcriptional regulator YbbH
+HDEHIPCA_01621	CDS			hypothetical protein
+HDEHIPCA_01622	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01623	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01624	CDS			hypothetical protein
+HDEHIPCA_01625	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01626	CDS			hypothetical protein
+HDEHIPCA_01627	CDS			hypothetical protein
+HDEHIPCA_01628	CDS	hrtA_1	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+HDEHIPCA_01629	CDS			putative ABC transporter permease
+HDEHIPCA_01630	CDS	mprA		Response regulator MprA
+HDEHIPCA_01631	CDS	srrB	2.7.13.3	Sensor protein SrrB
+HDEHIPCA_01632	CDS	ysnF		Stress response protein YsnF
+HDEHIPCA_01633	CDS	xerS_1		Tyrosine recombinase XerS
+HDEHIPCA_01634	CDS	fcbA1	6.2.1.33	4-chlorobenzoate--CoA ligase
+HDEHIPCA_01635	CDS	pdxK	2.7.1.35	Pyridoxine kinase
+HDEHIPCA_01636	CDS	hmpT		Thiamine precursor transporter HmpT
+	sig_peptide			putative signal peptide
+HDEHIPCA_01637	CDS			hypothetical protein
+HDEHIPCA_01638	CDS	malL_2	3.2.1.10	Oligo-1,6-glucosidase
+HDEHIPCA_01639	CDS			hypothetical protein
+HDEHIPCA_01640	CDS			hypothetical protein
+HDEHIPCA_01641	CDS			DegV domain-containing protein
+HDEHIPCA_01642	CDS	murJ_3		Lipid II flippase MurJ
+HDEHIPCA_01643	CDS			hypothetical protein
+HDEHIPCA_01644	CDS	ygaZ_2		Inner membrane protein YgaZ
+HDEHIPCA_01645	CDS	zitB		Zinc transporter ZitB
+HDEHIPCA_01646	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01647	CDS			hypothetical protein
+HDEHIPCA_01648	CDS			hypothetical protein
+HDEHIPCA_01649	CDS			hypothetical protein
+HDEHIPCA_01650	CDS			hypothetical protein
+HDEHIPCA_01651	CDS			hypothetical protein
+HDEHIPCA_01652	CDS	nupC		Nucleoside permease NupC
+HDEHIPCA_01653	CDS	gmk_2	2.7.4.8	Guanylate kinase
+HDEHIPCA_01654	CDS			hypothetical protein
+HDEHIPCA_01655	CDS			hypothetical protein
+HDEHIPCA_01656	CDS			hypothetical protein
+HDEHIPCA_01657	CDS	yecS_1		L-cystine transport system permease protein YecS
+HDEHIPCA_01658	CDS	yckB		putative ABC transporter extracellular-binding protein YckB
+	sig_peptide			putative signal peptide
+HDEHIPCA_01659	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+HDEHIPCA_01660	CDS	pyrDA	1.3.98.1	Dihydroorotate dehydrogenase A (fumarate)
+HDEHIPCA_01661	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01662	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+HDEHIPCA_01663	CDS			hypothetical protein
+HDEHIPCA_01664	CDS	malG		Maltose transport system permease protein MalG
+HDEHIPCA_01665	CDS	malF		Maltose transport system permease protein MalF
+HDEHIPCA_01666	CDS	mdxE		Maltodextrin-binding protein MdxE
+	sig_peptide			putative signal peptide
+HDEHIPCA_01667	CDS	bbmA	3.2.1.-	Intracellular maltogenic amylase
+HDEHIPCA_01668	CDS			hypothetical protein
+HDEHIPCA_01669	CDS			hypothetical protein
+HDEHIPCA_01670	CDS	ohrA		Organic hydroperoxide resistance protein OhrA
+HDEHIPCA_01671	CDS	ohrR		Organic hydroperoxide resistance transcriptional regulator
+HDEHIPCA_01672	CDS			hypothetical protein
+HDEHIPCA_01673	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01674	CDS			hypothetical protein
+HDEHIPCA_01675	CDS	uxuA_1	4.2.1.8	Mannonate dehydratase
+HDEHIPCA_01676	CDS	por_1	1.1.1.-	Polyol:NADP oxidoreductase
+HDEHIPCA_01677	CDS	rspR_2		HTH-type transcriptional repressor RspR
+HDEHIPCA_01678	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+HDEHIPCA_01679	CDS	ahpF	1.6.99.3	NADH dehydrogenase
+HDEHIPCA_01680	CDS			hypothetical protein
+HDEHIPCA_01681	CDS			hypothetical protein
+HDEHIPCA_01682	CDS	napA		Na(+)/H(+) antiporter
+HDEHIPCA_01683	CDS	pbp		Beta-lactam-inducible penicillin-binding protein
+HDEHIPCA_01684	CDS	msrR_2		Regulatory protein MsrR
+HDEHIPCA_01685	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+HDEHIPCA_01686	CDS			hypothetical protein
+HDEHIPCA_01687	CDS			hypothetical protein
+HDEHIPCA_01688	CDS	nanE_1	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+HDEHIPCA_01689	CDS			hypothetical protein
+HDEHIPCA_01690	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+HDEHIPCA_01691	CDS			hypothetical protein
+HDEHIPCA_01692	CDS	glsA	3.5.1.2	Glutaminase
+HDEHIPCA_01693	CDS	gadC_2		Glutamate/gamma-aminobutyrate antiporter
+HDEHIPCA_01694	CDS	amt		Ammonia channel
+HDEHIPCA_01695	CDS			hypothetical protein
+HDEHIPCA_01696	CDS			hypothetical protein
+HDEHIPCA_01697	CDS			Stress response regulator gls24 
+HDEHIPCA_01698	CDS			hypothetical protein
+HDEHIPCA_01699	CDS			hypothetical protein
+HDEHIPCA_01700	CDS			hypothetical protein
+HDEHIPCA_01701	CDS			hypothetical protein
+HDEHIPCA_01702	CDS			hypothetical protein
+HDEHIPCA_01703	CDS			hypothetical protein
+HDEHIPCA_01704	CDS			hypothetical protein
+HDEHIPCA_01705	CDS			Stress response regulator gls24 
+HDEHIPCA_01706	CDS			hypothetical protein
+HDEHIPCA_01707	CDS			hypothetical protein
+HDEHIPCA_01708	CDS	yghA	1.-.-.-	putative oxidoreductase YghA
+HDEHIPCA_01709	CDS	corA_2		Cobalt/magnesium transport protein CorA
+HDEHIPCA_01710	CDS			hypothetical protein
+HDEHIPCA_01711	CDS	gspA_1		General stress protein A
+HDEHIPCA_01712	CDS	gspA_2		General stress protein A
+HDEHIPCA_01713	CDS	yidA_2	3.1.3.23	Sugar phosphatase YidA
+HDEHIPCA_01714	CDS			hypothetical protein
+HDEHIPCA_01715	tRNA			tRNA-Met(cat)
+HDEHIPCA_01716	CDS			hypothetical protein
+HDEHIPCA_01717	CDS			hypothetical protein
+HDEHIPCA_01718	CDS			hypothetical protein
+HDEHIPCA_01719	CDS			hypothetical protein
+HDEHIPCA_01720	CDS			hypothetical protein
+HDEHIPCA_01721	CDS	cspL		Cold shock protein 2
+HDEHIPCA_01722	CDS			hypothetical protein
+HDEHIPCA_01723	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+HDEHIPCA_01724	CDS	uxuA_2	4.2.1.8	Mannonate dehydratase
+HDEHIPCA_01725	CDS	manX_1	2.7.1.191	PTS system mannose-specific EIIAB component
+HDEHIPCA_01726	CDS			hypothetical protein
+HDEHIPCA_01727	CDS			hypothetical protein
+HDEHIPCA_01728	CDS	sorB_2	2.7.1.206	PTS system sorbose-specific EIIB component
+HDEHIPCA_01729	CDS	manZ_2		PTS system mannose-specific EIID component
+HDEHIPCA_01730	CDS	sorA_1		PTS system sorbose-specific EIIC component
+HDEHIPCA_01731	CDS	ybdH	1.1.-.-	putative oxidoreductase YbdH
+HDEHIPCA_01732	CDS			hypothetical protein
+HDEHIPCA_01733	CDS	fldH_2	1.1.1.-	Phenyllactate dehydrogenase
+HDEHIPCA_01734	CDS		1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+HDEHIPCA_01735	CDS	murR_1		HTH-type transcriptional regulator MurR
+HDEHIPCA_01736	CDS			hypothetical protein
+HDEHIPCA_01737	CDS	aes_1	3.1.1.-	Acetyl esterase
+HDEHIPCA_01738	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01739	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+HDEHIPCA_01740	CDS	spxA_5		Regulatory protein Spx
+HDEHIPCA_01741	CDS			hypothetical protein
+HDEHIPCA_01742	CDS			hypothetical protein
+HDEHIPCA_01743	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01744	CDS			hypothetical protein
+HDEHIPCA_01745	CDS	prsA_3	5.2.1.8	Foldase protein PrsA
+	sig_peptide			putative signal peptide
+HDEHIPCA_01746	CDS	fsaA	4.1.2.-	Fructose-6-phosphate aldolase 1
+HDEHIPCA_01747	CDS	srlB	2.7.1.198	PTS system glucitol/sorbitol-specific EIIA component
+HDEHIPCA_01748	CDS			hypothetical protein
+HDEHIPCA_01749	CDS	srlE	2.7.1.198	PTS system glucitol/sorbitol-specific EIIB component
+HDEHIPCA_01750	CDS	srlA		PTS system glucitol/sorbitol-specific EIIC component
+HDEHIPCA_01751	CDS			hypothetical protein
+HDEHIPCA_01752	CDS	licR_2		putative licABCH operon regulator
+HDEHIPCA_01753	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HDEHIPCA_01754	CDS			hypothetical protein
+HDEHIPCA_01755	CDS			hypothetical protein
+HDEHIPCA_01756	CDS			18 kDa heat shock protein
+HDEHIPCA_01757	CDS			hypothetical protein
+HDEHIPCA_01758	CDS			hypothetical protein
+HDEHIPCA_01759	CDS	xerC_2		Tyrosine recombinase XerC
+HDEHIPCA_01760	CDS	lepA	3.6.5.-	Elongation factor 4
+HDEHIPCA_01761	CDS			hypothetical protein
+HDEHIPCA_01762	CDS			hypothetical protein
+HDEHIPCA_01763	CDS			hypothetical protein
+HDEHIPCA_01764	CDS	clpB		Chaperone protein ClpB
+HDEHIPCA_01765	CDS			hypothetical protein
+HDEHIPCA_01766	CDS			hypothetical protein
+HDEHIPCA_01767	CDS	dagK_1	2.7.1.107	Diacylglycerol kinase
+HDEHIPCA_01768	CDS	pepT	3.4.11.4	Peptidase T
+HDEHIPCA_01769	CDS			GTP cyclohydrolase 1 type 2 
+HDEHIPCA_01770	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+HDEHIPCA_01771	CDS			hypothetical protein
+HDEHIPCA_01772	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01773	CDS	dnaI		Primosomal protein DnaI
+HDEHIPCA_01774	CDS	dnaB		Replication initiation and membrane attachment protein
+HDEHIPCA_01775	CDS	nrdR		Transcriptional repressor NrdR
+HDEHIPCA_01776	CDS			hypothetical protein
+HDEHIPCA_01777	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+HDEHIPCA_01778	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+HDEHIPCA_01779	CDS	polA	2.7.7.7	DNA polymerase I
+HDEHIPCA_01780	CDS	ybhL		Inner membrane protein YbhL
+HDEHIPCA_01781	CDS	phaJ	4.2.1.119	(R)-specific enoyl-CoA hydratase
+HDEHIPCA_01782	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+HDEHIPCA_01783	CDS			hypothetical protein
+HDEHIPCA_01784	CDS			Protein SprT-like protein
+HDEHIPCA_01785	CDS	rpsA		30S ribosomal protein S1
+HDEHIPCA_01786	CDS	pphA	3.1.3.16	Serine/threonine-protein phosphatase 1
+HDEHIPCA_01787	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+HDEHIPCA_01788	CDS			hypothetical protein
+HDEHIPCA_01789	CDS			hypothetical protein
+HDEHIPCA_01790	CDS	tcyP		L-cystine uptake protein TcyP
+HDEHIPCA_01791	CDS			hypothetical protein
+HDEHIPCA_01792	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+HDEHIPCA_01793	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+HDEHIPCA_01794	CDS			hypothetical protein
+HDEHIPCA_01795	CDS			hypothetical protein
+HDEHIPCA_01796	CDS			hypothetical protein
+HDEHIPCA_01797	CDS			hypothetical protein
+HDEHIPCA_01798	CDS			hypothetical protein
+HDEHIPCA_01799	CDS	lacG_2		Lactose transport system permease protein LacG
+HDEHIPCA_01800	CDS	lacF_4		Lactose transport system permease protein LacF
+HDEHIPCA_01801	CDS	lacE_2		Lactose-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01802	CDS			putative response regulatory protein
+HDEHIPCA_01803	CDS	araC_3		Arabinose operon regulatory protein
+HDEHIPCA_01804	CDS	yehU_2	2.7.13.3	Sensor histidine kinase YehU
+HDEHIPCA_01805	CDS	pheA	4.2.1.51	Prephenate dehydratase
+HDEHIPCA_01806	CDS	aroK	2.7.1.71	Shikimate kinase
+HDEHIPCA_01807	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+HDEHIPCA_01808	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+HDEHIPCA_01809	CDS	aroC	4.2.3.5	Chorismate synthase
+HDEHIPCA_01810	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+HDEHIPCA_01811	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+HDEHIPCA_01812	CDS	lacM	3.2.1.23	Beta-galactosidase small subunit
+HDEHIPCA_01813	CDS	lacL	3.2.1.23	Beta-galactosidase large subunit
+HDEHIPCA_01814	CDS	agaSK_2		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+HDEHIPCA_01815	CDS	lacR_3		HTH-type transcriptional regulator LacR
+HDEHIPCA_01816	CDS	aes_2	3.1.1.-	Acetyl esterase
+HDEHIPCA_01817	CDS			hypothetical protein
+HDEHIPCA_01818	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+HDEHIPCA_01819	CDS	dagK_2	2.7.1.107	Diacylglycerol kinase
+HDEHIPCA_01820	CDS	gatB_2	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+HDEHIPCA_01821	CDS	gatA_2	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+HDEHIPCA_01822	CDS	gatC_2	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+HDEHIPCA_01823	CDS	ligA_1	6.5.1.2	DNA ligase
+HDEHIPCA_01824	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+HDEHIPCA_01825	CDS	clcA		H(+)/Cl(-) exchange transporter ClcA
+HDEHIPCA_01826	CDS	fruA_2		PTS system fructose-specific EIIABC component
+HDEHIPCA_01827	CDS	lacC_2	2.7.1.144	Tagatose-6-phosphate kinase
+HDEHIPCA_01828	CDS	glcR_1		HTH-type transcriptional repressor GlcR
+HDEHIPCA_01829	CDS			hypothetical protein
+HDEHIPCA_01830	CDS			hypothetical protein
+HDEHIPCA_01831	CDS			hypothetical protein
+HDEHIPCA_01832	CDS	engB		putative GTP-binding protein EngB
+HDEHIPCA_01833	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+HDEHIPCA_01834	CDS	tig	5.2.1.8	Trigger factor
+HDEHIPCA_01835	CDS			hypothetical protein
+HDEHIPCA_01836	CDS			hypothetical protein
+HDEHIPCA_01837	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+	sig_peptide			putative signal peptide
+HDEHIPCA_01838	CDS			hypothetical protein
+HDEHIPCA_01839	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+HDEHIPCA_01840	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+HDEHIPCA_01841	CDS	cdaR_1		CdaA regulatory protein CdaR
+HDEHIPCA_01842	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+HDEHIPCA_01843	CDS	por_2	1.2.7.1	Pyruvate synthase
+HDEHIPCA_01844	CDS			hypothetical protein
+HDEHIPCA_01845	CDS			hypothetical protein
+HDEHIPCA_01846	CDS			hypothetical protein
+HDEHIPCA_01847	CDS			hypothetical protein
+HDEHIPCA_01848	CDS			hypothetical protein
+HDEHIPCA_01849	CDS			hypothetical protein
+HDEHIPCA_01850	CDS			hypothetical protein
+HDEHIPCA_01851	CDS			hypothetical protein
+HDEHIPCA_01852	CDS			hypothetical protein
+HDEHIPCA_01853	CDS	whiA		Putative sporulation transcription regulator WhiA
+HDEHIPCA_01854	CDS			Putative gluconeogenesis factor
+HDEHIPCA_01855	CDS	yvcJ		Nucleotide-binding protein YvcJ
+HDEHIPCA_01856	CDS		5.1.1.13	Aspartate racemase
+HDEHIPCA_01857	CDS		6.3.1.12	D-aspartate ligase
+HDEHIPCA_01858	CDS	uvrA		UvrABC system protein A
+HDEHIPCA_01859	CDS	uvrB		UvrABC system protein B
+HDEHIPCA_01860	CDS	glnM_2		putative glutamine ABC transporter permease protein GlnM
+	sig_peptide			putative signal peptide
+HDEHIPCA_01861	CDS	artM_3		Arginine transport ATP-binding protein ArtM
+HDEHIPCA_01862	CDS	cdaR_2		Carbohydrate diacid regulator
+HDEHIPCA_01863	CDS	dnaJ		Chaperone protein DnaJ
+HDEHIPCA_01864	CDS	dnaK		Chaperone protein DnaK
+HDEHIPCA_01865	CDS	grpE		Protein GrpE
+HDEHIPCA_01866	CDS	hrcA		Heat-inducible transcription repressor HrcA
+HDEHIPCA_01867	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+HDEHIPCA_01868	CDS			hypothetical protein
+HDEHIPCA_01869	CDS	ydeA	3.2.-.-	putative protease YdeA
+HDEHIPCA_01870	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01871	CDS	mccF		Microcin C7 self-immunity protein MccF
+HDEHIPCA_01872	CDS	proX_1		Prolyl-tRNA editing protein ProX
+HDEHIPCA_01873	CDS	fra		Intracellular iron chaperone frataxin
+HDEHIPCA_01874	CDS			hypothetical protein
+HDEHIPCA_01875	CDS	glcU_2		Glucose uptake protein GlcU
+HDEHIPCA_01876	CDS	gdhIV	1.1.1.47	Glucose 1-dehydrogenase 4
+HDEHIPCA_01877	CDS	ribF		Riboflavin biosynthesis protein RibF
+HDEHIPCA_01878	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+HDEHIPCA_01879	CDS	xpkA_1	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+HDEHIPCA_01880	CDS	xpkA_2	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+HDEHIPCA_01881	CDS	xpkA_3	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+HDEHIPCA_01882	CDS	rbfA		Ribosome-binding factor A
+HDEHIPCA_01883	CDS	infB		Translation initiation factor IF-2
+HDEHIPCA_01884	CDS	rplGA		putative ribosomal protein YlxQ
+HDEHIPCA_01885	CDS			hypothetical protein
+HDEHIPCA_01886	CDS	nusA		Transcription termination/antitermination protein NusA
+HDEHIPCA_01887	CDS	rimP		Ribosome maturation factor RimP
+HDEHIPCA_01888	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+HDEHIPCA_01889	CDS	proS	6.1.1.15	Proline--tRNA ligase
+HDEHIPCA_01890	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+HDEHIPCA_01891	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+HDEHIPCA_01892	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+HDEHIPCA_01893	CDS	frr		Ribosome-recycling factor
+HDEHIPCA_01894	CDS	pyrH	2.7.4.22	Uridylate kinase
+HDEHIPCA_01895	CDS	tsf		Elongation factor Ts
+HDEHIPCA_01896	CDS	rpsB		30S ribosomal protein S2
+HDEHIPCA_01897	CDS	argR_2		Arginine repressor
+HDEHIPCA_01898	CDS	phnW	2.6.1.37	2-aminoethylphosphonate--pyruvate transaminase
+HDEHIPCA_01899	CDS	phnX_1	3.11.1.1	Phosphonoacetaldehyde hydrolase
+HDEHIPCA_01900	CDS	phnX_2	3.11.1.1	Phosphonoacetaldehyde hydrolase
+HDEHIPCA_01901	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+HDEHIPCA_01902	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+HDEHIPCA_01903	CDS	arcB	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+HDEHIPCA_01904	CDS	arcA	3.5.3.6	Arginine deiminase
+HDEHIPCA_01905	CDS	ntcA		Global nitrogen regulator
+HDEHIPCA_01906	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+HDEHIPCA_01907	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+HDEHIPCA_01908	CDS	rimI_2	2.3.1.255	N-alpha-acetyltransferase RimI
+HDEHIPCA_01909	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+HDEHIPCA_01910	CDS	exuR_3		putative HTH-type transcriptional repressor ExuR
+HDEHIPCA_01911	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+HDEHIPCA_01912	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+HDEHIPCA_01913	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01914	CDS			hypothetical protein
+HDEHIPCA_01915	CDS			hypothetical protein
+HDEHIPCA_01916	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+HDEHIPCA_01917	CDS	glcK	2.7.1.2	Glucokinase
+HDEHIPCA_01918	CDS			hypothetical protein
+HDEHIPCA_01919	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+HDEHIPCA_01920	CDS	ygfA	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+HDEHIPCA_01921	CDS	feuC		Iron-uptake system permease protein FeuC
+HDEHIPCA_01922	CDS	feuB_2		Iron-uptake system permease protein FeuB
+	sig_peptide			putative signal peptide
+HDEHIPCA_01923	CDS	fepC		Ferric enterobactin transport ATP-binding protein FepC
+HDEHIPCA_01924	CDS	yfiY		putative siderophore-binding lipoprotein YfiY
+	sig_peptide			putative signal peptide
+HDEHIPCA_01925	CDS	folA_2	1.5.1.3	Dihydrofolate reductase
+HDEHIPCA_01926	CDS	rpmGA_2		50S ribosomal protein L33 1
+HDEHIPCA_01927	CDS			hypothetical protein
+HDEHIPCA_01928	CDS	asnB	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+HDEHIPCA_01929	CDS			hypothetical protein
+HDEHIPCA_01930	CDS	cbh_1	3.5.1.24	Choloylglycine hydrolase
+HDEHIPCA_01931	CDS			hypothetical protein
+HDEHIPCA_01932	CDS	cbh_2	3.5.1.24	Choloylglycine hydrolase
+HDEHIPCA_01933	CDS			hypothetical protein
+HDEHIPCA_01934	CDS			hypothetical protein
+HDEHIPCA_01935	CDS	lytA_2	3.5.1.28	Autolysin
+	sig_peptide			putative signal peptide
+HDEHIPCA_01936	CDS			hypothetical protein
+HDEHIPCA_01937	CDS			hypothetical protein
+HDEHIPCA_01938	CDS			hypothetical protein
+HDEHIPCA_01939	CDS			hypothetical protein
+HDEHIPCA_01940	CDS			hypothetical protein
+HDEHIPCA_01941	CDS			hypothetical protein
+HDEHIPCA_01942	CDS			hypothetical protein
+HDEHIPCA_01943	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+HDEHIPCA_01944	CDS			hypothetical protein
+HDEHIPCA_01945	CDS	smc_4		Chromosome partition protein Smc
+HDEHIPCA_01946	CDS			hypothetical protein
+HDEHIPCA_01947	CDS			hypothetical protein
+HDEHIPCA_01948	CDS			hypothetical protein
+HDEHIPCA_01949	CDS			hypothetical protein
+HDEHIPCA_01950	CDS			hypothetical protein
+HDEHIPCA_01951	CDS			hypothetical protein
+HDEHIPCA_01952	CDS			hypothetical protein
+HDEHIPCA_01953	CDS			hypothetical protein
+HDEHIPCA_01954	CDS			hypothetical protein
+HDEHIPCA_01955	CDS			hypothetical protein
+HDEHIPCA_01956	CDS			hypothetical protein
+HDEHIPCA_01957	CDS			hypothetical protein
+HDEHIPCA_01958	CDS			hypothetical protein
+HDEHIPCA_01959	CDS			hypothetical protein
+HDEHIPCA_01960	CDS			hypothetical protein
+HDEHIPCA_01961	CDS			hypothetical protein
+HDEHIPCA_01962	CDS			hypothetical protein
+HDEHIPCA_01963	CDS			hypothetical protein
+HDEHIPCA_01964	CDS			hypothetical protein
+HDEHIPCA_01965	CDS			hypothetical protein
+HDEHIPCA_01966	CDS			hypothetical protein
+HDEHIPCA_01967	CDS			hypothetical protein
+HDEHIPCA_01968	CDS			hypothetical protein
+HDEHIPCA_01969	CDS			hypothetical protein
+HDEHIPCA_01970	CDS			hypothetical protein
+HDEHIPCA_01971	CDS			hypothetical protein
+HDEHIPCA_01972	CDS			hypothetical protein
+HDEHIPCA_01973	CDS			hypothetical protein
+HDEHIPCA_01974	CDS			hypothetical protein
+HDEHIPCA_01975	CDS			hypothetical protein
+HDEHIPCA_01976	CDS			hypothetical protein
+HDEHIPCA_01977	CDS			hypothetical protein
+HDEHIPCA_01978	CDS			hypothetical protein
+HDEHIPCA_01979	CDS			hypothetical protein
+HDEHIPCA_01980	CDS			hypothetical protein
+HDEHIPCA_01981	CDS			hypothetical protein
+HDEHIPCA_01982	CDS	xre		HTH-type transcriptional regulator Xre
+HDEHIPCA_01983	CDS	immA	3.4.-.-	Metallopeptidase ImmA
+HDEHIPCA_01984	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01985	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_01986	CDS	intQ_1		Putative defective protein IntQ
+HDEHIPCA_01987	tRNA			tRNA-Ser(cga)
+HDEHIPCA_01988	CDS			hypothetical protein
+HDEHIPCA_01989	CDS			hypothetical protein
+HDEHIPCA_01990	CDS			hypothetical protein
+HDEHIPCA_01991	CDS			hypothetical protein
+HDEHIPCA_01992	CDS			hypothetical protein
+HDEHIPCA_01993	CDS			hypothetical protein
+HDEHIPCA_01994	CDS			hypothetical protein
+HDEHIPCA_01995	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+HDEHIPCA_01996	CDS			hypothetical protein
+HDEHIPCA_01997	CDS			hypothetical protein
+HDEHIPCA_01998	CDS			hypothetical protein
+HDEHIPCA_01999	CDS			hypothetical protein
+HDEHIPCA_02000	CDS			hypothetical protein
+HDEHIPCA_02001	CDS			hypothetical protein
+HDEHIPCA_02002	CDS			hypothetical protein
+HDEHIPCA_02003	CDS			hypothetical protein
+HDEHIPCA_02004	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+HDEHIPCA_02005	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+HDEHIPCA_02006	CDS	mnmG_2		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+HDEHIPCA_02007	CDS	ybaK_1	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+HDEHIPCA_02008	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+HDEHIPCA_02009	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+HDEHIPCA_02010	CDS	ltaS1_2		Lipoteichoic acid synthase 1
+HDEHIPCA_02011	CDS			hypothetical protein
+HDEHIPCA_02012	CDS			hypothetical protein
+HDEHIPCA_02013	CDS	phoR_3	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+HDEHIPCA_02014	CDS	srrA_2		Transcriptional regulatory protein SrrA
+HDEHIPCA_02015	CDS			hypothetical protein
+HDEHIPCA_02016	CDS		3.1.3.-	Putative phosphatase
+HDEHIPCA_02017	tmRNA	ssrA		transfer-messenger RNA, SsrA
+HDEHIPCA_02018	CDS			hypothetical protein
+HDEHIPCA_02019	CDS			hypothetical protein
+HDEHIPCA_02020	tRNA			tRNA-Met(cat)
+HDEHIPCA_02021	CDS			hypothetical protein
+HDEHIPCA_02022	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02023	CDS			hypothetical protein
+HDEHIPCA_02024	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+HDEHIPCA_02025	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+HDEHIPCA_02026	CDS	alsS	2.2.1.6	Acetolactate synthase
+HDEHIPCA_02027	CDS			hypothetical protein
+HDEHIPCA_02028	CDS			hypothetical protein
+HDEHIPCA_02029	CDS	araQ_5		L-arabinose transport system permease protein AraQ
+HDEHIPCA_02030	CDS			hypothetical protein
+HDEHIPCA_02031	CDS			hypothetical protein
+HDEHIPCA_02032	CDS	catM		HTH-type transcriptional regulator CatM
+HDEHIPCA_02033	CDS	adhR		HTH-type transcriptional regulator AdhR
+HDEHIPCA_02034	CDS	yjhB_3		Putative metabolite transport protein YjhB
+HDEHIPCA_02035	CDS			hypothetical protein
+HDEHIPCA_02036	CDS			hypothetical protein
+HDEHIPCA_02037	CDS			hypothetical protein
+HDEHIPCA_02038	CDS			hypothetical protein
+HDEHIPCA_02039	CDS			Fimbrial subunit type 1
+HDEHIPCA_02040	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02041	CDS			hypothetical protein
+HDEHIPCA_02042	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02043	CDS			hypothetical protein
+HDEHIPCA_02044	CDS			hypothetical protein
+HDEHIPCA_02045	CDS	xerC_3		Tyrosine recombinase XerC
+HDEHIPCA_02046	CDS			hypothetical protein
+HDEHIPCA_02047	CDS			hypothetical protein
+HDEHIPCA_02048	CDS			hypothetical protein
+HDEHIPCA_02049	CDS			hypothetical protein
+HDEHIPCA_02050	CDS			hypothetical protein
+HDEHIPCA_02051	CDS			hypothetical protein
+HDEHIPCA_02052	CDS			hypothetical protein
+HDEHIPCA_02053	CDS			hypothetical protein
+HDEHIPCA_02054	CDS	sacA	3.2.1.26	Sucrose-6-phosphate hydrolase
+HDEHIPCA_02055	CDS	sorF	2.7.1.206	PTS system sorbose-specific EIIA component
+HDEHIPCA_02056	CDS	manX_2	2.7.1.191	PTS system mannose-specific EIIAB component
+HDEHIPCA_02057	CDS	manZ_3		PTS system mannose-specific EIID component
+HDEHIPCA_02058	CDS	sorC_1		PTS system sorbose-specific EIIC component
+HDEHIPCA_02059	CDS	dgaR_2		Transcriptional regulatory protein DagR
+HDEHIPCA_02060	CDS	gmuE_3	2.7.1.4	Putative fructokinase
+HDEHIPCA_02061	CDS	crr_1	2.7.1.199	PTS system glucose-specific EIIA component
+HDEHIPCA_02062	CDS	treP_1		PTS system trehalose-specific EIIBC component
+HDEHIPCA_02063	CDS	bfrA	3.2.1.26	Beta-fructosidase
+HDEHIPCA_02064	CDS	degA_3		HTH-type transcriptional regulator DegA
+HDEHIPCA_02065	CDS			hypothetical protein
+HDEHIPCA_02066	CDS			hypothetical protein
+HDEHIPCA_02067	CDS			hypothetical protein
+HDEHIPCA_02068	CDS			hypothetical protein
+HDEHIPCA_02069	CDS			hypothetical protein
+HDEHIPCA_02070	CDS			hypothetical protein
+HDEHIPCA_02071	CDS			Insertion sequence IS5376 putative ATP-binding protein
+HDEHIPCA_02072	CDS			hypothetical protein
+HDEHIPCA_02073	CDS	iap_1	3.4.-.-	putative endopeptidase p60
+HDEHIPCA_02074	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02075	CDS			hypothetical protein
+HDEHIPCA_02076	CDS			hypothetical protein
+HDEHIPCA_02077	CDS			hypothetical protein
+HDEHIPCA_02078	CDS			hypothetical protein
+HDEHIPCA_02079	CDS			hypothetical protein
+HDEHIPCA_02080	CDS			hypothetical protein
+HDEHIPCA_02081	CDS	ltrA_3		Group II intron-encoded protein LtrA
+HDEHIPCA_02082	CDS			hypothetical protein
+HDEHIPCA_02083	CDS			hypothetical protein
+HDEHIPCA_02084	CDS			hypothetical protein
+HDEHIPCA_02085	CDS	hpaIIM	2.1.1.37	Modification methylase HpaII
+HDEHIPCA_02086	CDS			hypothetical protein
+HDEHIPCA_02087	CDS	ltrA_4		Group II intron-encoded protein LtrA
+HDEHIPCA_02088	CDS	ftsK_2		DNA translocase FtsK
+HDEHIPCA_02089	CDS			hypothetical protein
+HDEHIPCA_02090	CDS			hypothetical protein
+HDEHIPCA_02091	CDS			hypothetical protein
+HDEHIPCA_02092	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02093	CDS			hypothetical protein
+HDEHIPCA_02094	CDS	rplS		50S ribosomal protein L19
+HDEHIPCA_02095	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+HDEHIPCA_02096	CDS	rimM		Ribosome maturation factor RimM
+HDEHIPCA_02097	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02098	CDS			hypothetical protein
+HDEHIPCA_02099	CDS	rpsP		30S ribosomal protein S16
+HDEHIPCA_02100	CDS	chrR	1.6.5.2	Chromate reductase
+HDEHIPCA_02101	CDS	folA_3	1.5.1.3	Dihydrofolate reductase
+HDEHIPCA_02102	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+HDEHIPCA_02103	CDS	ffh		Signal recognition particle protein
+HDEHIPCA_02104	CDS			hypothetical protein
+HDEHIPCA_02105	CDS			hypothetical protein
+HDEHIPCA_02106	CDS	phoP		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+HDEHIPCA_02107	CDS	phoR_4	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+HDEHIPCA_02108	CDS	ctpE_2	3.6.3.-	putative cation-transporting ATPase E
+HDEHIPCA_02109	CDS			hypothetical protein
+HDEHIPCA_02110	CDS			hypothetical protein
+HDEHIPCA_02111	CDS	pstS1_1		Phosphate-binding protein PstS 1
+	sig_peptide			putative signal peptide
+HDEHIPCA_02112	CDS			hypothetical protein
+HDEHIPCA_02113	CDS			hypothetical protein
+HDEHIPCA_02114	CDS			hypothetical protein
+HDEHIPCA_02115	CDS			hypothetical protein
+HDEHIPCA_02116	CDS			hypothetical protein
+HDEHIPCA_02117	CDS	cbh_3	3.5.1.24	Choloylglycine hydrolase
+HDEHIPCA_02118	CDS			hypothetical protein
+HDEHIPCA_02119	CDS			hypothetical protein
+HDEHIPCA_02120	CDS			hypothetical protein
+HDEHIPCA_02121	CDS			hypothetical protein
+HDEHIPCA_02122	CDS			hypothetical protein
+HDEHIPCA_02123	CDS			hypothetical protein
+HDEHIPCA_02124	CDS			hypothetical protein
+HDEHIPCA_02125	CDS			hypothetical protein
+HDEHIPCA_02126	CDS	lytA_3	3.5.1.28	Autolysin
+HDEHIPCA_02127	CDS			hypothetical protein
+HDEHIPCA_02128	CDS			hypothetical protein
+HDEHIPCA_02129	CDS			hypothetical protein
+HDEHIPCA_02130	CDS			hypothetical protein
+HDEHIPCA_02131	CDS			hypothetical protein
+HDEHIPCA_02132	CDS			hypothetical protein
+HDEHIPCA_02133	CDS			hypothetical protein
+HDEHIPCA_02134	CDS			hypothetical protein
+HDEHIPCA_02135	CDS	copB	3.6.3.54	Copper-exporting P-type ATPase B
+HDEHIPCA_02136	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+HDEHIPCA_02137	CDS	copZ		Copper chaperone CopZ
+HDEHIPCA_02138	CDS	copY		Transcriptional repressor CopY
+HDEHIPCA_02139	CDS			hypothetical protein
+HDEHIPCA_02140	CDS			hypothetical protein
+HDEHIPCA_02141	CDS	ycaM		Inner membrane transporter YcaM
+HDEHIPCA_02142	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+HDEHIPCA_02143	CDS	yccF		Inner membrane protein YccF
+HDEHIPCA_02144	CDS			hypothetical protein
+HDEHIPCA_02145	CDS	axe2	3.1.1.72	Acetylxylan esterase
+HDEHIPCA_02146	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+HDEHIPCA_02147	CDS		2.6.1.1	Aspartate aminotransferase
+HDEHIPCA_02148	CDS			hypothetical protein
+HDEHIPCA_02149	CDS	dinG_2	3.6.4.12	putative ATP-dependent helicase DinG 
+HDEHIPCA_02150	CDS	cspLA_1		Cold shock-like protein CspLA
+HDEHIPCA_02151	CDS			hypothetical protein
+HDEHIPCA_02152	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02153	CDS			hypothetical protein
+HDEHIPCA_02154	CDS			hypothetical protein
+HDEHIPCA_02155	CDS	dacA	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+	sig_peptide			putative signal peptide
+HDEHIPCA_02156	CDS			hypothetical protein
+HDEHIPCA_02157	CDS	eriC		Chloride/fluoride channel protein
+HDEHIPCA_02158	CDS			hypothetical protein
+HDEHIPCA_02159	CDS	rny_2	3.1.-.-	Ribonuclease Y
+HDEHIPCA_02160	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+HDEHIPCA_02161	CDS	acyP	3.6.1.7	Acylphosphatase
+HDEHIPCA_02162	CDS	yidC		Membrane protein insertase YidC
+HDEHIPCA_02163	CDS	lacD2	4.1.2.40	Tagatose 1,6-diphosphate aldolase 2
+HDEHIPCA_02164	CDS	mngA		PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+HDEHIPCA_02165	CDS	fruA_3		PTS system fructose-specific EIIABC component
+HDEHIPCA_02166	CDS	pfkB	2.7.1.11	ATP-dependent 6-phosphofructokinase isozyme 2
+HDEHIPCA_02167	CDS	glvR		HTH-type transcriptional regulator GlvR
+HDEHIPCA_02168	CDS	ugd	1.1.1.22	UDP-glucose 6-dehydrogenase
+HDEHIPCA_02169	CDS	wbgU_2	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+HDEHIPCA_02170	CDS			hypothetical protein
+HDEHIPCA_02171	CDS			hypothetical protein
+HDEHIPCA_02172	CDS			hypothetical protein
+HDEHIPCA_02173	CDS	pglH_2	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+HDEHIPCA_02174	CDS	epsJ_3	2.4.-.-	putative glycosyltransferase EpsJ
+HDEHIPCA_02175	CDS	epsJ_4	2.4.-.-	putative glycosyltransferase EpsJ
+HDEHIPCA_02176	CDS	pimA	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+HDEHIPCA_02177	CDS	pglA	2.4.1.290	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+HDEHIPCA_02178	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+HDEHIPCA_02179	CDS	epsN	2.6.1.-	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+HDEHIPCA_02180	CDS	gph_3	3.1.3.18	Phosphoglycolate phosphatase
+HDEHIPCA_02181	CDS	ddl_2	6.3.2.4	D-alanine--D-alanine ligase
+HDEHIPCA_02182	CDS	pglF	4.2.1.135	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+HDEHIPCA_02183	CDS	ywqE	3.1.3.48	Tyrosine-protein phosphatase YwqE
+HDEHIPCA_02184	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+HDEHIPCA_02185	CDS	ywqC		putative capsular polysaccharide biosynthesis protein YwqC
+HDEHIPCA_02186	CDS	lytR_2		Transcriptional regulator LytR
+	sig_peptide			putative signal peptide
+HDEHIPCA_02187	CDS			hypothetical protein
+HDEHIPCA_02188	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+HDEHIPCA_02189	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+HDEHIPCA_02190	CDS	recO		DNA repair protein RecO
+HDEHIPCA_02191	CDS	era		GTPase Era
+HDEHIPCA_02192	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+HDEHIPCA_02193	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+HDEHIPCA_02194	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+HDEHIPCA_02195	CDS			PhoH-like protein
+HDEHIPCA_02196	CDS	brnQ_2		Branched-chain amino acid transport system 2 carrier protein
+HDEHIPCA_02197	CDS			hypothetical protein
+HDEHIPCA_02198	CDS	rpsU		30S ribosomal protein S21
+HDEHIPCA_02199	CDS	zur		Zinc-specific metallo-regulatory protein
+HDEHIPCA_02200	CDS	yqfL	2.7.11.32	Putative pyruvate, phosphate dikinase regulatory protein
+HDEHIPCA_02201	CDS	czrA		HTH-type transcriptional repressor CzrA
+HDEHIPCA_02202	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+HDEHIPCA_02203	CDS	trxB	1.8.1.9	Thioredoxin reductase
+HDEHIPCA_02204	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+HDEHIPCA_02205	CDS	licH	3.2.1.86	putative 6-phospho-beta-glucosidase
+HDEHIPCA_02206	CDS	murR_2		HTH-type transcriptional regulator MurR
+HDEHIPCA_02207	CDS	bglF_3		PTS system beta-glucoside-specific EIIBCA component
+HDEHIPCA_02208	CDS	licT_3		Transcription antiterminator LicT
+HDEHIPCA_02209	CDS	yheH	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+HDEHIPCA_02210	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+HDEHIPCA_02211	CDS			hypothetical protein
+HDEHIPCA_02212	CDS	mntH		Divalent metal cation transporter MntH
+HDEHIPCA_02213	CDS			hypothetical protein
+HDEHIPCA_02214	CDS			hypothetical protein
+HDEHIPCA_02215	CDS	nfo_2	3.1.21.2	putative endonuclease 4
+HDEHIPCA_02216	CDS	ponA_2		Penicillin-binding protein 1A/1B
+HDEHIPCA_02217	CDS	ccpA_2		Catabolite control protein A
+HDEHIPCA_02218	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+HDEHIPCA_02219	CDS			hypothetical protein
+HDEHIPCA_02220	CDS			hypothetical protein
+HDEHIPCA_02221	CDS	gtaB_1	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+	sig_peptide			putative signal peptide
+HDEHIPCA_02222	CDS	gpsA_1	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+HDEHIPCA_02223	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+HDEHIPCA_02224	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+HDEHIPCA_02225	CDS			hypothetical protein
+HDEHIPCA_02226	CDS			hypothetical protein
+HDEHIPCA_02227	CDS			hypothetical protein
+HDEHIPCA_02228	CDS	smc_5		Chromosome partition protein Smc
+HDEHIPCA_02229	CDS			hypothetical protein
+HDEHIPCA_02230	CDS			hypothetical protein
+HDEHIPCA_02231	CDS	phoU		Phosphate-specific transport system accessory protein PhoU 
+HDEHIPCA_02232	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+HDEHIPCA_02233	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+HDEHIPCA_02234	CDS	pstA		Phosphate transport system permease protein PstA
+HDEHIPCA_02235	CDS	pstC1		Phosphate transport system permease protein PstC 1
+HDEHIPCA_02236	CDS	pstS1_2		Phosphate-binding protein PstS 1
+HDEHIPCA_02237	CDS	clsA_2	2.7.8.-	Major cardiolipin synthase ClsA
+HDEHIPCA_02238	CDS	ftsX		Cell division protein FtsX
+HDEHIPCA_02239	CDS	ftsE		Cell division ATP-binding protein FtsE
+HDEHIPCA_02240	CDS	prfB		Peptide chain release factor 2
+HDEHIPCA_02241	CDS	secA		Protein translocase subunit SecA
+HDEHIPCA_02242	CDS	hpf		Ribosome hibernation promotion factor
+HDEHIPCA_02243	CDS			hypothetical protein
+HDEHIPCA_02244	CDS	comFA	3.6.4.12	ComF operon protein 1
+HDEHIPCA_02245	CDS	celA_2	2.7.1.205	PTS system cellobiose-specific EIIB component
+	sig_peptide			putative signal peptide
+HDEHIPCA_02246	CDS			hypothetical protein
+HDEHIPCA_02247	CDS	yigZ		IMPACT family member YigZ
+HDEHIPCA_02248	CDS	yvoA_1		HTH-type transcriptional repressor YvoA
+HDEHIPCA_02249	CDS			hypothetical protein
+HDEHIPCA_02250	tRNA			tRNA-Gln(ttg)
+HDEHIPCA_02251	tRNA			tRNA-Tyr(gta)
+HDEHIPCA_02252	CDS			hypothetical protein
+HDEHIPCA_02253	CDS	bglK	2.7.1.85	Beta-glucoside kinase
+HDEHIPCA_02254	CDS	yvbK	2.3.1.-	putative N-acetyltransferase YvbK
+HDEHIPCA_02255	CDS			Putative membrane protein insertion efficiency factor
+HDEHIPCA_02256	CDS			hypothetical protein
+HDEHIPCA_02257	CDS	murA1_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+HDEHIPCA_02258	CDS			hypothetical protein
+HDEHIPCA_02259	CDS	atpC		ATP synthase epsilon chain
+HDEHIPCA_02260	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+HDEHIPCA_02261	CDS	atpG		ATP synthase gamma chain
+HDEHIPCA_02262	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+HDEHIPCA_02263	CDS	atpH		ATP synthase subunit delta
+HDEHIPCA_02264	CDS	atpF		ATP synthase subunit b
+HDEHIPCA_02265	CDS	atpE_1		ATP synthase subunit c
+HDEHIPCA_02266	CDS	atpB		ATP synthase subunit a
+HDEHIPCA_02267	CDS	smpB		SsrA-binding protein
+HDEHIPCA_02268	CDS	rnr	3.1.13.1	Ribonuclease R
+HDEHIPCA_02269	CDS	est	3.1.1.1	Carboxylesterase
+HDEHIPCA_02270	CDS	secG		putative protein-export membrane protein SecG
+	sig_peptide			putative signal peptide
+HDEHIPCA_02271	CDS			hypothetical protein
+HDEHIPCA_02272	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+HDEHIPCA_02273	CDS	rihB	3.2.2.8	Pyrimidine-specific ribonucleoside hydrolase RihB
+HDEHIPCA_02274	CDS			hypothetical protein
+HDEHIPCA_02275	CDS	dapE	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+HDEHIPCA_02276	CDS			hypothetical protein
+HDEHIPCA_02277	CDS			hypothetical protein
+HDEHIPCA_02278	CDS			hypothetical protein
+HDEHIPCA_02279	CDS	eno	4.2.1.11	Enolase
+HDEHIPCA_02280	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+HDEHIPCA_02281	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+HDEHIPCA_02282	CDS	gap_2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+HDEHIPCA_02283	CDS	cggR		Central glycolytic genes regulator
+HDEHIPCA_02284	CDS	rpoN1		RNA polymerase sigma-54 factor 1
+HDEHIPCA_02285	tRNA			tRNA-Arg(ccg)
+HDEHIPCA_02286	CDS	pgdA	3.5.1.104	Peptidoglycan-N-acetylglucosamine deacetylase
+	sig_peptide			putative signal peptide
+HDEHIPCA_02287	CDS	rsiV		Anti-sigma-V factor RsiV
+HDEHIPCA_02288	CDS	sigV		RNA polymerase sigma factor SigV
+HDEHIPCA_02289	CDS	rpoE		putative DNA-directed RNA polymerase subunit delta
+HDEHIPCA_02290	CDS	ywiB		putative beta-barrel protein YwiB
+HDEHIPCA_02291	CDS	lipL	2.3.1.204	Octanoyl-[GcvH]:protein N-octanoyltransferase
+HDEHIPCA_02292	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+HDEHIPCA_02293	CDS	yidA_3	3.1.3.23	Sugar phosphatase YidA
+HDEHIPCA_02294	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+HDEHIPCA_02295	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+HDEHIPCA_02296	CDS	yddE	5.1.-.-	putative isomerase YddE
+HDEHIPCA_02297	CDS	lhpI	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+HDEHIPCA_02298	CDS	gabR		HTH-type transcriptional regulatory protein GabR
+HDEHIPCA_02299	CDS	ntpJ_1		Potassium/sodium uptake protein NtpJ
+HDEHIPCA_02300	CDS	ntpD		V-type sodium ATPase subunit D
+HDEHIPCA_02301	CDS	ntpB		V-type sodium ATPase subunit B
+HDEHIPCA_02302	CDS	ntpA	3.6.3.15	V-type sodium ATPase catalytic subunit A
+HDEHIPCA_02303	CDS	ntpG		V-type sodium ATPase subunit G
+HDEHIPCA_02304	CDS	ntpC		V-type sodium ATPase subunit C
+HDEHIPCA_02305	CDS	atpE_2		V-type proton ATPase subunit E
+HDEHIPCA_02306	CDS	ntpK		V-type sodium ATPase subunit K
+HDEHIPCA_02307	CDS			hypothetical protein
+HDEHIPCA_02308	CDS			hypothetical protein
+HDEHIPCA_02309	CDS	puuD	3.5.1.94	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+HDEHIPCA_02310	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+HDEHIPCA_02311	CDS			hypothetical protein
+HDEHIPCA_02312	CDS	natA_2		ABC transporter ATP-binding protein NatA
+HDEHIPCA_02313	CDS	uvrC_2		UvrABC system protein C
+HDEHIPCA_02314	CDS	trxA_1		Thioredoxin
+HDEHIPCA_02315	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+HDEHIPCA_02316	CDS			hypothetical protein
+HDEHIPCA_02317	CDS	zapA		Cell division protein ZapA
+HDEHIPCA_02318	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+HDEHIPCA_02319	CDS	cwlC	3.5.1.28	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+HDEHIPCA_02320	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+HDEHIPCA_02321	CDS	hrtA_2	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+HDEHIPCA_02322	CDS			putative ABC transporter permease
+HDEHIPCA_02323	CDS	nox_2	1.6.99.3	NADH oxidase
+HDEHIPCA_02324	CDS			hypothetical protein
+HDEHIPCA_02325	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02326	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02327	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02328	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02329	CDS	hmo	1.1.3.46	4-hydroxymandelate oxidase
+HDEHIPCA_02330	CDS			hypothetical protein
+HDEHIPCA_02331	CDS	mleS	4.1.1.101	Malolactic enzyme
+HDEHIPCA_02332	CDS	citS		Citrate-sodium symporter
+HDEHIPCA_02333	CDS			hypothetical protein
+HDEHIPCA_02334	CDS			hypothetical protein
+HDEHIPCA_02335	CDS			hypothetical protein
+HDEHIPCA_02336	CDS			hypothetical protein
+HDEHIPCA_02337	CDS			hypothetical protein
+HDEHIPCA_02338	CDS			hypothetical protein
+HDEHIPCA_02339	CDS			hypothetical protein
+HDEHIPCA_02340	CDS			hypothetical protein
+HDEHIPCA_02341	CDS			hypothetical protein
+HDEHIPCA_02342	CDS			hypothetical protein
+HDEHIPCA_02343	CDS			hypothetical protein
+HDEHIPCA_02344	CDS			hypothetical protein
+HDEHIPCA_02345	CDS			hypothetical protein
+HDEHIPCA_02346	CDS			hypothetical protein
+HDEHIPCA_02347	CDS			hypothetical protein
+HDEHIPCA_02348	CDS			hypothetical protein
+HDEHIPCA_02349	CDS			hypothetical protein
+HDEHIPCA_02350	CDS			hypothetical protein
+HDEHIPCA_02351	CDS			hypothetical protein
+HDEHIPCA_02352	CDS			hypothetical protein
+HDEHIPCA_02353	CDS			hypothetical protein
+HDEHIPCA_02354	CDS	Int-Tn_2		Transposase from transposon Tn916
+HDEHIPCA_02355	CDS			hypothetical protein
+HDEHIPCA_02356	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+HDEHIPCA_02357	CDS			hypothetical protein
+HDEHIPCA_02358	CDS	endA	3.1.30.-	DNA-entry nuclease
+HDEHIPCA_02359	tRNA			tRNA-Gly(ccc)
+HDEHIPCA_02360	CDS			hypothetical protein
+HDEHIPCA_02361	CDS			hypothetical protein
+HDEHIPCA_02362	CDS			hypothetical protein
+HDEHIPCA_02363	CDS	natA_3		ABC transporter ATP-binding protein NatA
+HDEHIPCA_02364	CDS	agrA_2		Accessory gene regulator A
+HDEHIPCA_02365	CDS			Putative two-component membrane permease complex subunit SMU_746c
+HDEHIPCA_02366	CDS			Putative two-component membrane permease complex subunit SMU_747c
+HDEHIPCA_02367	CDS	trxA_2		Thioredoxin
+HDEHIPCA_02368	CDS	rex_1		Redox-sensing transcriptional repressor Rex
+HDEHIPCA_02369	CDS	yheS_2		putative ABC transporter ATP-binding protein YheS
+HDEHIPCA_02370	CDS	ugl_1	3.2.1.180	Unsaturated chondroitin disaccharide hydrolase
+HDEHIPCA_02371	CDS			hypothetical protein
+HDEHIPCA_02372	CDS	ugl_2	3.2.1.179	Unsaturated glucuronyl hydrolase
+HDEHIPCA_02373	CDS	lacG_3		Lactose transport system permease protein LacG
+HDEHIPCA_02374	CDS	lacF_5		Lactose transport system permease protein LacF
+HDEHIPCA_02375	CDS	araN_2		putative arabinose-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02376	CDS	adaA	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+HDEHIPCA_02377	CDS	cdr_2	1.8.1.14	Coenzyme A disulfide reductase
+HDEHIPCA_02378	CDS			hypothetical protein
+HDEHIPCA_02379	CDS	hflX		GTPase HflX
+HDEHIPCA_02380	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+HDEHIPCA_02381	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+HDEHIPCA_02382	CDS			hypothetical protein
+HDEHIPCA_02383	CDS	clpP_1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+HDEHIPCA_02384	CDS		2.3.1.-	Putative acetyltransferase
+HDEHIPCA_02385	CDS			hypothetical protein
+HDEHIPCA_02386	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_02387	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_02388	CDS			hypothetical protein
+HDEHIPCA_02389	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+HDEHIPCA_02390	CDS	cspLA_2		Cold shock-like protein CspLA
+HDEHIPCA_02391	CDS			hypothetical protein
+HDEHIPCA_02392	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+HDEHIPCA_02393	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+HDEHIPCA_02394	CDS	valS	6.1.1.9	Valine--tRNA ligase
+HDEHIPCA_02395	CDS	rex_2		Redox-sensing transcriptional repressor Rex
+HDEHIPCA_02396	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+HDEHIPCA_02397	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+HDEHIPCA_02398	CDS	ezrA		Septation ring formation regulator EzrA
+HDEHIPCA_02399	CDS			hypothetical protein
+HDEHIPCA_02400	CDS	yhaX		Stress response protein YhaX
+HDEHIPCA_02401	CDS			hypothetical protein
+HDEHIPCA_02402	CDS	ansA	3.5.1.1	L-asparaginase
+HDEHIPCA_02403	CDS			hypothetical protein
+HDEHIPCA_02404	CDS			hypothetical protein
+HDEHIPCA_02405	CDS	pepC	3.4.22.40	Aminopeptidase C
+HDEHIPCA_02406	CDS			hypothetical protein
+HDEHIPCA_02407	tRNA			tRNA-Asn(gtt)
+HDEHIPCA_02408	tRNA			tRNA-Thr(ggt)
+HDEHIPCA_02409	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+HDEHIPCA_02410	CDS			hypothetical protein
+HDEHIPCA_02411	CDS			hypothetical protein
+HDEHIPCA_02412	CDS			hypothetical protein
+HDEHIPCA_02413	tRNA			tRNA-Asn(gtt)
+HDEHIPCA_02414	rRNA			5S ribosomal RNA
+HDEHIPCA_02415	rRNA			23S ribosomal RNA
+HDEHIPCA_02416	rRNA			16S ribosomal RNA
+HDEHIPCA_02417	CDS			hypothetical protein
+HDEHIPCA_02418	CDS	yugI_2		General stress protein 13
+HDEHIPCA_02419	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+HDEHIPCA_02420	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+HDEHIPCA_02421	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+HDEHIPCA_02422	CDS			hypothetical protein
+HDEHIPCA_02423	CDS			hypothetical protein
+HDEHIPCA_02424	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+HDEHIPCA_02425	CDS			hypothetical protein
+HDEHIPCA_02426	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+HDEHIPCA_02427	CDS			hypothetical protein
+HDEHIPCA_02428	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+HDEHIPCA_02429	CDS	lrp		Leucine-rich protein
+HDEHIPCA_02430	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02431	CDS	rsmF	2.1.1.-	Ribosomal RNA small subunit methyltransferase F
+HDEHIPCA_02432	CDS			hypothetical protein
+HDEHIPCA_02433	CDS			hypothetical protein
+HDEHIPCA_02434	CDS			hypothetical protein
+HDEHIPCA_02435	CDS			hypothetical protein
+HDEHIPCA_02436	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+HDEHIPCA_02437	CDS		3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+HDEHIPCA_02438	CDS			hypothetical protein
+HDEHIPCA_02439	CDS	ybaK_2	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+HDEHIPCA_02440	CDS	rnj2	3.1.-.-	Ribonuclease J 2
+HDEHIPCA_02441	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02442	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+HDEHIPCA_02443	CDS			hypothetical protein
+HDEHIPCA_02444	CDS	iadA	3.4.19.-	Isoaspartyl dipeptidase
+HDEHIPCA_02445	CDS			hypothetical protein
+HDEHIPCA_02446	CDS			hypothetical protein
+HDEHIPCA_02447	CDS			hypothetical protein
+HDEHIPCA_02448	CDS	gtaB_2	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+	sig_peptide			putative signal peptide
+HDEHIPCA_02449	CDS			hypothetical protein
+HDEHIPCA_02450	CDS	gpsA_2	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+HDEHIPCA_02451	CDS	frlB_1	3.5.-.-	Fructosamine deglycase FrlB
+HDEHIPCA_02452	CDS	nodM	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+HDEHIPCA_02453	CDS	manZ_4		PTS system mannose-specific EIID component
+HDEHIPCA_02454	CDS	sorA_2		PTS system sorbose-specific EIIC component
+HDEHIPCA_02455	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+HDEHIPCA_02456	CDS	manX_3	2.7.1.191	PTS system mannose-specific EIIAB component
+HDEHIPCA_02457	CDS	dgaR_3		Transcriptional regulatory protein DagR
+HDEHIPCA_02458	CDS			hypothetical protein
+HDEHIPCA_02459	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_02460	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_02461	CDS	folT_2		Folate transporter FolT
+HDEHIPCA_02462	CDS	mgsA	4.2.3.3	Methylglyoxal synthase
+HDEHIPCA_02463	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+HDEHIPCA_02464	CDS	niaX		Niacin transporter NiaX
+HDEHIPCA_02465	CDS	rsmA_2	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+HDEHIPCA_02466	CDS	rnmV	3.1.26.8	Ribonuclease M5
+HDEHIPCA_02467	CDS	dtd3_2	3.1.1.96	D-aminoacyl-tRNA deacylase
+HDEHIPCA_02468	CDS	steT_2		Serine/threonine exchanger SteT
+HDEHIPCA_02469	CDS			hypothetical protein
+HDEHIPCA_02470	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+HDEHIPCA_02471	CDS			hypothetical protein
+HDEHIPCA_02472	CDS			Bifunctional NMN adenylyltransferase/Nudix hydrolase
+HDEHIPCA_02473	CDS			hypothetical protein
+HDEHIPCA_02474	CDS	oppF_2		Oligopeptide transport ATP-binding protein OppF
+HDEHIPCA_02475	CDS	oppD_2		Oligopeptide transport ATP-binding protein OppD
+HDEHIPCA_02476	CDS	dppC		Dipeptide transport system permease protein DppC
+HDEHIPCA_02477	CDS	oppB		Oligopeptide transport system permease protein OppB
+HDEHIPCA_02478	CDS			hypothetical protein
+HDEHIPCA_02479	CDS	dppE		Dipeptide-binding protein DppE
+	sig_peptide			putative signal peptide
+HDEHIPCA_02480	CDS			hypothetical protein
+HDEHIPCA_02481	CDS	gldA	1.1.1.6	Glycerol dehydrogenase
+HDEHIPCA_02482	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+HDEHIPCA_02483	CDS	spoIIIE		DNA translocase SpoIIIE
+HDEHIPCA_02484	CDS	bglC	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglC
+HDEHIPCA_02485	CDS	fliY		L-cystine-binding protein FliY
+	sig_peptide			putative signal peptide
+HDEHIPCA_02486	CDS	glnQ_2		Glutamine transport ATP-binding protein GlnQ
+HDEHIPCA_02487	CDS	yecS_2		L-cystine transport system permease protein YecS
+HDEHIPCA_02488	CDS	proX_2		Prolyl-tRNA editing protein ProX
+HDEHIPCA_02489	CDS	cna		Collagen adhesin
+	sig_peptide			putative signal peptide
+HDEHIPCA_02490	CDS	lciA		Lactococcin-A immunity protein
+HDEHIPCA_02491	CDS			hypothetical protein
+HDEHIPCA_02492	CDS			hypothetical protein
+HDEHIPCA_02493	tRNA			tRNA-Thr(cgt)
+HDEHIPCA_02494	CDS			hypothetical protein
+HDEHIPCA_02495	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+HDEHIPCA_02496	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+HDEHIPCA_02497	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+HDEHIPCA_02498	CDS			hypothetical protein
+HDEHIPCA_02499	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+HDEHIPCA_02500	CDS	prmC_2	2.1.1.297	Release factor glutamine methyltransferase
+HDEHIPCA_02501	CDS	prfA		Peptide chain release factor 1
+HDEHIPCA_02502	CDS	tdk	2.7.1.21	Thymidine kinase
+HDEHIPCA_02503	CDS			hypothetical protein
+HDEHIPCA_02504	CDS			hypothetical protein
+HDEHIPCA_02505	CDS	ubiE_2	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+HDEHIPCA_02506	CDS	spsB	3.4.21.89	Signal peptidase IB
+HDEHIPCA_02507	CDS			hypothetical protein
+HDEHIPCA_02508	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02509	CDS			hypothetical protein
+HDEHIPCA_02510	CDS	ntpJ_2		Potassium/sodium uptake protein NtpJ
+HDEHIPCA_02511	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+HDEHIPCA_02512	CDS	cobQ		Cobyric acid synthase
+HDEHIPCA_02513	CDS	mtlD	1.1.1.17	Mannitol-1-phosphate 5-dehydrogenase
+HDEHIPCA_02514	CDS	mtlF_1	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+HDEHIPCA_02515	CDS	mtlA_1		PTS system mannitol-specific EIICB component
+HDEHIPCA_02516	CDS	natA_4		ABC transporter ATP-binding protein NatA
+HDEHIPCA_02517	CDS			hypothetical protein
+HDEHIPCA_02518	CDS	mtlF_2	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+HDEHIPCA_02519	CDS	mtlR_2		Transcriptional regulator MtlR
+HDEHIPCA_02520	CDS	mtlA_2		PTS system mannitol-specific EIICB component
+HDEHIPCA_02521	CDS	mtlA_3		PTS system mannitol-specific EIICB component
+HDEHIPCA_02522	CDS	gmuF	5.3.1.8	putative mannose-6-phosphate isomerase GmuF
+HDEHIPCA_02523	CDS	ampH	3.4.-.-	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+HDEHIPCA_02524	CDS	catE	1.13.11.2	Catechol-2,3-dioxygenase
+HDEHIPCA_02525	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_02526	CDS			hypothetical protein
+HDEHIPCA_02527	CDS			putative ABC transporter ATP-binding protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02528	CDS			hypothetical protein
+HDEHIPCA_02529	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+HDEHIPCA_02530	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+HDEHIPCA_02531	CDS	tqsA_4		AI-2 transport protein TqsA
+HDEHIPCA_02532	CDS			hypothetical protein
+HDEHIPCA_02533	CDS	pgl_2	3.1.1.31	6-phosphogluconolactonase
+HDEHIPCA_02534	CDS			hypothetical protein
+HDEHIPCA_02535	CDS			hypothetical protein
+HDEHIPCA_02536	CDS	ltaS1_3		Lipoteichoic acid synthase 1
+HDEHIPCA_02537	CDS		1.1.1.81	Hydroxypyruvate reductase
+HDEHIPCA_02538	CDS	araA	5.3.1.4	L-arabinose isomerase
+HDEHIPCA_02539	CDS	sgbE	5.1.3.4	L-ribulose-5-phosphate 4-epimerase SgbE
+HDEHIPCA_02540	CDS	araB	2.7.1.16	Ribulokinase
+HDEHIPCA_02541	CDS	csbC		putative metabolite transport protein CsbC
+HDEHIPCA_02542	CDS	araR_2		Arabinose metabolism transcriptional repressor
+HDEHIPCA_02543	CDS		3.2.1.55	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+HDEHIPCA_02544	CDS	abfA_1	3.2.1.55	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+HDEHIPCA_02545	CDS			hypothetical protein
+HDEHIPCA_02546	CDS	araQ_6		L-arabinose transport system permease protein AraQ
+HDEHIPCA_02547	CDS	lacF_6		Lactose transport system permease protein LacF
+HDEHIPCA_02548	CDS	ugpB		sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+	sig_peptide			putative signal peptide
+HDEHIPCA_02549	CDS	abfA_2	3.2.1.55	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+HDEHIPCA_02550	CDS			hypothetical protein
+HDEHIPCA_02551	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+HDEHIPCA_02552	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+HDEHIPCA_02553	CDS			hypothetical protein
+HDEHIPCA_02554	CDS	mta		HTH-type transcriptional activator mta
+HDEHIPCA_02555	CDS	ccpB		Catabolite control protein B
+HDEHIPCA_02556	CDS			hypothetical protein
+HDEHIPCA_02557	CDS			hypothetical protein
+HDEHIPCA_02558	CDS			hypothetical protein
+HDEHIPCA_02559	CDS			hypothetical protein
+HDEHIPCA_02560	CDS			hypothetical protein
+HDEHIPCA_02561	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02562	CDS			hypothetical protein
+HDEHIPCA_02563	CDS			hypothetical protein
+HDEHIPCA_02564	CDS			hypothetical protein
+HDEHIPCA_02565	CDS			hypothetical protein
+HDEHIPCA_02566	tRNA			tRNA-Met(cat)
+HDEHIPCA_02567	CDS	lytA_4	3.5.1.28	Autolysin
+	sig_peptide			putative signal peptide
+HDEHIPCA_02568	CDS			hypothetical protein
+HDEHIPCA_02569	CDS			hypothetical protein
+HDEHIPCA_02570	CDS			hypothetical protein
+HDEHIPCA_02571	CDS			hypothetical protein
+HDEHIPCA_02572	CDS			hypothetical protein
+HDEHIPCA_02573	CDS			hypothetical protein
+HDEHIPCA_02574	CDS			hypothetical protein
+HDEHIPCA_02575	CDS			hypothetical protein
+HDEHIPCA_02576	CDS	smc_6		Chromosome partition protein Smc
+HDEHIPCA_02577	CDS			hypothetical protein
+HDEHIPCA_02578	CDS			hypothetical protein
+HDEHIPCA_02579	CDS			hypothetical protein
+HDEHIPCA_02580	CDS			hypothetical protein
+HDEHIPCA_02581	CDS			hypothetical protein
+HDEHIPCA_02582	CDS			hypothetical protein
+HDEHIPCA_02583	CDS			hypothetical protein
+HDEHIPCA_02584	CDS			hypothetical protein
+HDEHIPCA_02585	CDS	clpP_2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+HDEHIPCA_02586	CDS			hypothetical protein
+HDEHIPCA_02587	CDS			hypothetical protein
+HDEHIPCA_02588	CDS			hypothetical protein
+HDEHIPCA_02589	CDS			hypothetical protein
+HDEHIPCA_02590	CDS			hypothetical protein
+HDEHIPCA_02591	CDS			hypothetical protein
+HDEHIPCA_02592	CDS	cas2_2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+HDEHIPCA_02593	CDS			hypothetical protein
+HDEHIPCA_02594	CDS			hypothetical protein
+HDEHIPCA_02595	CDS			hypothetical protein
+HDEHIPCA_02596	CDS			hypothetical protein
+HDEHIPCA_02597	CDS			hypothetical protein
+HDEHIPCA_02598	CDS			hypothetical protein
+HDEHIPCA_02599	CDS			hypothetical protein
+HDEHIPCA_02600	CDS			hypothetical protein
+HDEHIPCA_02601	CDS			hypothetical protein
+HDEHIPCA_02602	CDS			hypothetical protein
+HDEHIPCA_02603	CDS			hypothetical protein
+HDEHIPCA_02604	CDS			hypothetical protein
+HDEHIPCA_02605	CDS			hypothetical protein
+HDEHIPCA_02606	CDS			hypothetical protein
+HDEHIPCA_02607	CDS			hypothetical protein
+HDEHIPCA_02608	CDS			hypothetical protein
+HDEHIPCA_02609	CDS			hypothetical protein
+HDEHIPCA_02610	CDS			hypothetical protein
+HDEHIPCA_02611	CDS			hypothetical protein
+HDEHIPCA_02612	CDS			hypothetical protein
+HDEHIPCA_02613	CDS			hypothetical protein
+HDEHIPCA_02614	CDS			hypothetical protein
+HDEHIPCA_02615	CDS			hypothetical protein
+HDEHIPCA_02616	CDS			hypothetical protein
+HDEHIPCA_02617	CDS			hypothetical protein
+HDEHIPCA_02618	CDS			hypothetical protein
+HDEHIPCA_02619	CDS			hypothetical protein
+HDEHIPCA_02620	CDS			hypothetical protein
+HDEHIPCA_02621	CDS	xerC_4		Tyrosine recombinase XerC
+HDEHIPCA_02622	tRNA			tRNA-Arg(cct)
+HDEHIPCA_02623	CDS			hypothetical protein
+HDEHIPCA_02624	CDS			hypothetical protein
+HDEHIPCA_02625	CDS			hypothetical protein
+HDEHIPCA_02626	CDS			hypothetical protein
+HDEHIPCA_02627	CDS			hypothetical protein
+HDEHIPCA_02628	CDS	chbC		PTS system N,N'-diacetylchitobiose-specific EIIC component
+HDEHIPCA_02629	CDS	licA_2	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+HDEHIPCA_02630	CDS	celA_3	2.7.1.205	PTS system cellobiose-specific EIIB component
+	sig_peptide			putative signal peptide
+HDEHIPCA_02631	CDS	dgaR_4		Transcriptional regulatory protein DagR
+HDEHIPCA_02632	CDS	yfmL	3.6.4.13	putative ATP-dependent RNA helicase YfmL
+HDEHIPCA_02633	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+HDEHIPCA_02634	CDS	sfsA		Sugar fermentation stimulation protein A
+HDEHIPCA_02635	CDS			hypothetical protein
+HDEHIPCA_02636	CDS	dtxR		Diphtheria toxin repressor
+HDEHIPCA_02637	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+HDEHIPCA_02638	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+HDEHIPCA_02639	CDS	divIVA		Cell division protein DivIVA
+HDEHIPCA_02640	CDS			hypothetical protein
+HDEHIPCA_02641	CDS	sepF		Cell division protein SepF
+HDEHIPCA_02642	CDS			hypothetical protein
+HDEHIPCA_02643	CDS	ftsZ		Cell division protein FtsZ
+HDEHIPCA_02644	CDS	ftsA		Cell division protein FtsA
+HDEHIPCA_02645	CDS	divIB		Cell division protein DivIB
+HDEHIPCA_02646	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HDEHIPCA_02647	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+HDEHIPCA_02648	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+HDEHIPCA_02649	CDS	pbpX_2		Penicillin-binding protein 2x
+HDEHIPCA_02650	CDS	ftsL_2		Cell division protein FtsL
+HDEHIPCA_02651	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+HDEHIPCA_02652	CDS	mraZ		Transcriptional regulator MraZ
+HDEHIPCA_02653	CDS			hypothetical protein
+HDEHIPCA_02654	CDS			hypothetical protein
+HDEHIPCA_02655	CDS			hypothetical protein
+HDEHIPCA_02656	CDS	recN		DNA repair protein RecN
+HDEHIPCA_02657	CDS	argR_3		Arginine repressor
+HDEHIPCA_02658	CDS	tlyA		Hemolysin A
+HDEHIPCA_02659	CDS		2.5.1.10	Farnesyl diphosphate synthase
+HDEHIPCA_02660	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+HDEHIPCA_02661	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+HDEHIPCA_02662	CDS	folD		Bifunctional protein FolD protein
+HDEHIPCA_02663	CDS	nusB		N utilization substance protein B 
+HDEHIPCA_02664	CDS			Alkaline shock protein 23
+HDEHIPCA_02665	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+HDEHIPCA_02666	CDS			hypothetical protein
+HDEHIPCA_02667	CDS			hypothetical protein
+HDEHIPCA_02668	CDS	manZ_5		PTS system mannose-specific EIID component
+HDEHIPCA_02669	CDS	sorA_3		PTS system sorbose-specific EIIC component
+HDEHIPCA_02670	CDS	manX_4	2.7.1.191	PTS system mannose-specific EIIAB component
+HDEHIPCA_02671	CDS	manX_5	2.7.1.191	PTS system mannose-specific EIIAB component
+HDEHIPCA_02672	CDS	dgaR_5		Transcriptional regulatory protein DagR
+HDEHIPCA_02673	CDS	rpmA		50S ribosomal protein L27
+HDEHIPCA_02674	CDS			hypothetical protein
+HDEHIPCA_02675	CDS	rplU		50S ribosomal protein L21
+HDEHIPCA_02676	CDS			hypothetical protein
+HDEHIPCA_02677	CDS	dauA		C4-dicarboxylic acid transporter DauA
+HDEHIPCA_02678	CDS			hypothetical protein
+HDEHIPCA_02679	tRNA			tRNA-Arg(tct)
+HDEHIPCA_02680	CDS		2.1.1.-	Putative O-methyltransferase
+HDEHIPCA_02681	CDS			hypothetical protein
+HDEHIPCA_02682	CDS			hypothetical protein
+HDEHIPCA_02683	CDS	lplJ	6.3.1.20	Lipoate-protein ligase LplJ
+HDEHIPCA_02684	CDS	rbn_1	3.1.26.11	Ribonuclease BN
+HDEHIPCA_02685	CDS			hypothetical protein
+HDEHIPCA_02686	CDS	ysdC	3.4.11.-	Putative aminopeptidase YsdC
+HDEHIPCA_02687	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02688	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+HDEHIPCA_02689	CDS	patA_2	2.3.1.-	Peptidoglycan O-acetyltransferase
+HDEHIPCA_02690	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+HDEHIPCA_02691	CDS			hypothetical protein
+HDEHIPCA_02692	CDS	bceB_2		Bacitracin export permease protein BceB
+HDEHIPCA_02693	CDS	bceA_2		Bacitracin export ATP-binding protein BceA
+HDEHIPCA_02694	CDS	nrdD	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+HDEHIPCA_02695	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+HDEHIPCA_02696	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+HDEHIPCA_02697	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+HDEHIPCA_02698	CDS	yabA		Initiation-control protein YabA
+HDEHIPCA_02699	CDS			hypothetical protein
+HDEHIPCA_02700	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+HDEHIPCA_02701	CDS			hypothetical protein
+HDEHIPCA_02702	CDS	tmk	2.7.4.9	Thymidylate kinase
+HDEHIPCA_02703	CDS	recR		Recombination protein RecR
+HDEHIPCA_02704	CDS			Nucleoid-associated protein
+HDEHIPCA_02705	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+HDEHIPCA_02706	CDS			hypothetical protein
+HDEHIPCA_02707	CDS			hypothetical protein
+HDEHIPCA_02708	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02709	CDS	fnr		Anaerobic regulatory protein
+HDEHIPCA_02710	CDS			hypothetical protein
+HDEHIPCA_02711	CDS	bcr		Bicyclomycin resistance protein
+HDEHIPCA_02712	CDS			hypothetical protein
+HDEHIPCA_02713	CDS	glcR_2		HTH-type transcriptional repressor GlcR
+HDEHIPCA_02714	CDS	kbaY	4.1.2.40	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+HDEHIPCA_02715	CDS	fruA_4		PTS system fructose-specific EIIABC component
+HDEHIPCA_02716	CDS	fruA_5		PTS system fructose-specific EIIABC component
+HDEHIPCA_02717	CDS	rpmE2		50S ribosomal protein L31 type B
+HDEHIPCA_02718	CDS	rho	3.6.4.-	Transcription termination factor Rho
+HDEHIPCA_02719	CDS	murA1_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+HDEHIPCA_02720	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+HDEHIPCA_02721	CDS	pyrG	6.3.4.2	CTP synthase
+HDEHIPCA_02722	CDS			hypothetical protein
+HDEHIPCA_02723	CDS	glnA	6.3.1.2	Glutamine synthetase
+HDEHIPCA_02724	CDS	glnR		HTH-type transcriptional regulator GlnR
+HDEHIPCA_02725	CDS			hypothetical protein
+HDEHIPCA_02726	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+HDEHIPCA_02727	CDS	intQ_2		Putative defective protein IntQ
+HDEHIPCA_02728	CDS			hypothetical protein
+HDEHIPCA_02729	CDS			hypothetical protein
+HDEHIPCA_02730	CDS			hypothetical protein
+HDEHIPCA_02731	CDS			hypothetical protein
+HDEHIPCA_02732	CDS	gmuE_4	2.7.1.4	Putative fructokinase
+HDEHIPCA_02733	CDS			hypothetical protein
+HDEHIPCA_02734	CDS			hypothetical protein
+HDEHIPCA_02735	CDS	manZ_6		PTS system mannose-specific EIID component
+HDEHIPCA_02736	CDS	sorC_2		PTS system sorbose-specific EIIC component
+HDEHIPCA_02737	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+HDEHIPCA_02738	CDS			hypothetical protein
+HDEHIPCA_02739	CDS	dgaR_6		Transcriptional regulatory protein DagR
+HDEHIPCA_02740	CDS	potD		Spermidine/putrescine-binding periplasmic protein
+HDEHIPCA_02741	CDS	ydcV		Inner membrane ABC transporter permease protein YdcV
+HDEHIPCA_02742	CDS	potB_2		Spermidine/putrescine transport system permease protein PotB
+HDEHIPCA_02743	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+HDEHIPCA_02744	CDS	puuR_2		HTH-type transcriptional regulator PuuR
+HDEHIPCA_02745	CDS	acuI_2	1.3.1.84	putative acrylyl-CoA reductase AcuI
+HDEHIPCA_02746	CDS	coaBC_3		Coenzyme A biosynthesis bifunctional protein CoaBC
+HDEHIPCA_02747	CDS	coaBC_4		Coenzyme A biosynthesis bifunctional protein CoaBC
+HDEHIPCA_02748	CDS	panT_3		Pantothenic acid transporter PanT
+HDEHIPCA_02749	CDS	yhfK_2	4.-.-.-	putative sugar epimerase YhfK
+HDEHIPCA_02750	CDS		1.3.1.103	2-haloacrylate reductase
+HDEHIPCA_02751	CDS		1.3.5.4	Fumarate reductase flavoprotein subunit
+	sig_peptide			putative signal peptide
+HDEHIPCA_02752	CDS			hypothetical protein
+HDEHIPCA_02753	CDS			hypothetical protein
+HDEHIPCA_02754	CDS			hypothetical protein
+HDEHIPCA_02755	CDS			hypothetical protein
+HDEHIPCA_02756	CDS			hypothetical protein
+HDEHIPCA_02757	CDS			hypothetical protein
+HDEHIPCA_02758	CDS			hypothetical protein
+HDEHIPCA_02759	CDS			hypothetical protein
+HDEHIPCA_02760	CDS			hypothetical protein
+HDEHIPCA_02761	CDS			hypothetical protein
+HDEHIPCA_02762	CDS			hypothetical protein
+HDEHIPCA_02763	CDS			hypothetical protein
+HDEHIPCA_02764	CDS			hypothetical protein
+HDEHIPCA_02765	CDS			hypothetical protein
+HDEHIPCA_02766	CDS			hypothetical protein
+HDEHIPCA_02767	CDS			hypothetical protein
+HDEHIPCA_02768	CDS			hypothetical protein
+HDEHIPCA_02769	CDS			hypothetical protein
+HDEHIPCA_02770	CDS			hypothetical protein
+HDEHIPCA_02771	CDS			hypothetical protein
+HDEHIPCA_02772	CDS			hypothetical protein
+HDEHIPCA_02773	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02774	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02775	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02776	CDS			hypothetical protein
+HDEHIPCA_02777	CDS			hypothetical protein
+HDEHIPCA_02778	CDS			hypothetical protein
+HDEHIPCA_02779	CDS			hypothetical protein
+HDEHIPCA_02780	CDS			hypothetical protein
+HDEHIPCA_02781	CDS			hypothetical protein
+HDEHIPCA_02782	CDS			hypothetical protein
+HDEHIPCA_02783	CDS	ltrA_5		Group II intron-encoded protein LtrA
+HDEHIPCA_02784	CDS			hypothetical protein
+HDEHIPCA_02785	CDS			hypothetical protein
+HDEHIPCA_02786	CDS			hypothetical protein
+HDEHIPCA_02787	CDS			hypothetical protein
+HDEHIPCA_02788	CDS			hypothetical protein
+HDEHIPCA_02789	CDS			hypothetical protein
+HDEHIPCA_02790	CDS			hypothetical protein
+HDEHIPCA_02791	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02792	CDS			hypothetical protein
+HDEHIPCA_02793	CDS			hypothetical protein
+HDEHIPCA_02794	CDS			hypothetical protein
+HDEHIPCA_02795	CDS			hypothetical protein
+HDEHIPCA_02796	CDS			hypothetical protein
+HDEHIPCA_02797	CDS			hypothetical protein
+HDEHIPCA_02798	CDS			hypothetical protein
+HDEHIPCA_02799	CDS			hypothetical protein
+HDEHIPCA_02800	CDS			hypothetical protein
+HDEHIPCA_02801	CDS			hypothetical protein
+HDEHIPCA_02802	CDS			hypothetical protein
+HDEHIPCA_02803	CDS			hypothetical protein
+HDEHIPCA_02804	CDS	topB_3	5.99.1.2	DNA topoisomerase 3
+HDEHIPCA_02805	CDS			hypothetical protein
+HDEHIPCA_02806	CDS			hypothetical protein
+HDEHIPCA_02807	CDS			hypothetical protein
+HDEHIPCA_02808	CDS	ssbA		Single-stranded DNA-binding protein A
+HDEHIPCA_02809	CDS	ssb_2		Single-stranded DNA-binding protein
+HDEHIPCA_02810	CDS			hypothetical protein
+HDEHIPCA_02811	CDS			hypothetical protein
+HDEHIPCA_02812	CDS			hypothetical protein
+HDEHIPCA_02813	CDS			hypothetical protein
+HDEHIPCA_02814	CDS			hypothetical protein
+HDEHIPCA_02815	CDS			hypothetical protein
+HDEHIPCA_02816	CDS			hypothetical protein
+HDEHIPCA_02817	CDS			hypothetical protein
+HDEHIPCA_02818	CDS			hypothetical protein
+HDEHIPCA_02819	CDS			hypothetical protein
+HDEHIPCA_02820	CDS			hypothetical protein
+HDEHIPCA_02821	CDS			hypothetical protein
+HDEHIPCA_02822	CDS	manR_3		Transcriptional regulator ManR
+HDEHIPCA_02823	CDS	gatA_3	2.7.1.200	PTS system galactitol-specific EIIA component
+HDEHIPCA_02824	CDS	gatC_3		PTS system galactitol-specific EIIC component
+HDEHIPCA_02825	CDS			hypothetical protein
+HDEHIPCA_02826	CDS			hypothetical protein
+HDEHIPCA_02827	CDS	rpe_2	5.1.3.1	Ribulose-phosphate 3-epimerase
+HDEHIPCA_02828	CDS	hxlB	5.3.1.27	3-hexulose-6-phosphate isomerase
+HDEHIPCA_02829	CDS			hypothetical protein
+HDEHIPCA_02830	CDS			hypothetical protein
+HDEHIPCA_02831	CDS			hypothetical protein
+HDEHIPCA_02832	CDS	xerD_4		Tyrosine recombinase XerD
+HDEHIPCA_02833	CDS			hypothetical protein
+HDEHIPCA_02834	CDS			hypothetical protein
+HDEHIPCA_02835	CDS			hypothetical protein
+HDEHIPCA_02836	CDS	gmuE_5	2.7.1.4	Putative fructokinase
+HDEHIPCA_02837	CDS			hypothetical protein
+HDEHIPCA_02838	CDS	treP_2		PTS system trehalose-specific EIIBC component
+HDEHIPCA_02839	CDS	scrB_1	3.2.1.26	Sucrose-6-phosphate hydrolase
+HDEHIPCA_02840	CDS	degA_4		HTH-type transcriptional regulator DegA
+HDEHIPCA_02841	CDS			hypothetical protein
+HDEHIPCA_02842	CDS			hypothetical protein
+HDEHIPCA_02843	CDS			hypothetical protein
+HDEHIPCA_02844	CDS			hypothetical protein
+HDEHIPCA_02845	CDS			hypothetical protein
+HDEHIPCA_02846	CDS	bin3_1		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_02847	CDS	rpiR		HTH-type transcriptional regulator RpiR
+HDEHIPCA_02848	CDS	nanE_2	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+HDEHIPCA_02849	CDS	glcB		PTS system glucoside-specific EIICBA component
+HDEHIPCA_02850	CDS			hypothetical protein
+HDEHIPCA_02851	CDS	crr_2	2.7.1.199	PTS system glucose-specific EIIA component
+HDEHIPCA_02852	CDS			hypothetical protein
+HDEHIPCA_02853	CDS			hypothetical protein
+HDEHIPCA_02854	CDS	xerS_2		Tyrosine recombinase XerS
+HDEHIPCA_02855	CDS			hypothetical protein
+HDEHIPCA_02856	CDS	licC_3		Lichenan permease IIC component
+HDEHIPCA_02857	CDS			hypothetical protein
+HDEHIPCA_02858	CDS	lacD	4.1.2.40	Tagatose 1,6-diphosphate aldolase
+HDEHIPCA_02859	CDS	agaS	5.3.1.-	Putative tagatose-6-phosphate ketose/aldose isomerase
+HDEHIPCA_02860	CDS	yvoA_2		HTH-type transcriptional repressor YvoA
+HDEHIPCA_02861	CDS			hypothetical protein
+HDEHIPCA_02862	CDS			hypothetical protein
+HDEHIPCA_02863	CDS			hypothetical protein
+HDEHIPCA_02864	CDS			hypothetical protein
+HDEHIPCA_02865	CDS	treP_3		PTS system trehalose-specific EIIBC component
+HDEHIPCA_02866	CDS	scrB_2	3.2.1.26	Sucrose-6-phosphate hydrolase
+HDEHIPCA_02867	CDS	araC_4		Arabinose operon regulatory protein
+HDEHIPCA_02868	CDS	agaSK_3		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+HDEHIPCA_02869	CDS	crr_3	2.7.1.199	PTS system glucose-specific EIIA component
+HDEHIPCA_02870	CDS			hypothetical protein
+HDEHIPCA_02871	CDS			hypothetical protein
+HDEHIPCA_02872	CDS			hypothetical protein
+HDEHIPCA_02873	CDS			hypothetical protein
+HDEHIPCA_02874	CDS			hypothetical protein
+HDEHIPCA_02875	CDS			hypothetical protein
+HDEHIPCA_02876	CDS			hypothetical protein
+HDEHIPCA_02877	CDS			hypothetical protein
+HDEHIPCA_02878	CDS			hypothetical protein
+HDEHIPCA_02879	CDS			hypothetical protein
+HDEHIPCA_02880	CDS			hypothetical protein
+HDEHIPCA_02881	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+HDEHIPCA_02882	CDS	qseB		Transcriptional regulatory protein QseB
+HDEHIPCA_02883	CDS			hypothetical protein
+HDEHIPCA_02884	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+HDEHIPCA_02885	CDS			hypothetical protein
+HDEHIPCA_02886	CDS	nagJ	3.2.1.169	O-GlcNAcase NagJ
+HDEHIPCA_02887	CDS	ebgA	3.2.1.23	Evolved beta-galactosidase subunit alpha
+HDEHIPCA_02888	CDS			hypothetical protein
+HDEHIPCA_02889	CDS			hypothetical protein
+HDEHIPCA_02890	CDS	lipO_2		Lipoprotein LipO
+	sig_peptide			putative signal peptide
+HDEHIPCA_02891	CDS	araQ_7		L-arabinose transport system permease protein AraQ
+HDEHIPCA_02892	CDS	yteP_3		putative multiple-sugar transport system permease YteP
+HDEHIPCA_02893	CDS	ypdA_2	2.7.13.3	Sensor histidine kinase YpdA
+HDEHIPCA_02894	CDS			putative response regulatory protein
+HDEHIPCA_02895	CDS			hypothetical protein
+HDEHIPCA_02896	CDS	potA_3	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+HDEHIPCA_02897	CDS			hypothetical protein
+HDEHIPCA_02898	CDS			hypothetical protein
+HDEHIPCA_02899	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HDEHIPCA_02900	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02901	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+HDEHIPCA_02902	CDS			hypothetical protein
+HDEHIPCA_02903	CDS			Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+HDEHIPCA_02904	CDS	hpdA	1.97.1.-	4-hydroxyphenylacetate decarboxylase activating enzyme
+HDEHIPCA_02905	CDS			hypothetical protein
+HDEHIPCA_02906	CDS			hypothetical protein
+HDEHIPCA_02907	CDS			hypothetical protein
+HDEHIPCA_02908	CDS			hypothetical protein
+HDEHIPCA_02909	CDS			hypothetical protein
+HDEHIPCA_02910	CDS			hypothetical protein
+HDEHIPCA_02911	CDS			hypothetical protein
+HDEHIPCA_02912	CDS			putative ABC transporter ATP-binding protein
+HDEHIPCA_02913	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+HDEHIPCA_02914	CDS			hypothetical protein
+HDEHIPCA_02915	CDS			hypothetical protein
+HDEHIPCA_02916	CDS	resA		Thiol-disulfide oxidoreductase ResA
+HDEHIPCA_02917	CDS			hypothetical protein
+HDEHIPCA_02918	CDS			hypothetical protein
+HDEHIPCA_02919	CDS			hypothetical protein
+HDEHIPCA_02920	CDS			hypothetical protein
+HDEHIPCA_02921	CDS			hypothetical protein
+HDEHIPCA_02922	CDS			hypothetical protein
+HDEHIPCA_02923	CDS			hypothetical protein
+HDEHIPCA_02924	CDS			hypothetical protein
+HDEHIPCA_02925	CDS	xerD_5		Tyrosine recombinase XerD
+HDEHIPCA_02926	CDS			hypothetical protein
+HDEHIPCA_02927	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+HDEHIPCA_02928	CDS			hypothetical protein
+HDEHIPCA_02929	CDS			hypothetical protein
+HDEHIPCA_02930	CDS			hypothetical protein
+HDEHIPCA_02931	CDS			hypothetical protein
+HDEHIPCA_02932	CDS	hsdS		Type-1 restriction enzyme EcoKI specificity protein
+HDEHIPCA_02933	CDS			hypothetical protein
+HDEHIPCA_02934	CDS	ohrB_2		Organic hydroperoxide resistance protein OhrB
+HDEHIPCA_02935	CDS			hypothetical protein
+HDEHIPCA_02936	CDS			hypothetical protein
+HDEHIPCA_02937	CDS			hypothetical protein
+HDEHIPCA_02938	CDS			hypothetical protein
+HDEHIPCA_02939	CDS			hypothetical protein
+HDEHIPCA_02940	CDS			hypothetical protein
+HDEHIPCA_02941	CDS			hypothetical protein
+HDEHIPCA_02942	CDS			hypothetical protein
+HDEHIPCA_02943	CDS	bglF_4		PTS system beta-glucoside-specific EIIBCA component
+HDEHIPCA_02944	CDS			hypothetical protein
+HDEHIPCA_02945	CDS	licT_4		Transcription antiterminator LicT
+HDEHIPCA_02946	CDS	bglH_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+HDEHIPCA_02947	CDS	bglF_5		PTS system beta-glucoside-specific EIIBCA component
+HDEHIPCA_02948	CDS			hypothetical protein
+HDEHIPCA_02949	CDS	manZ_7		PTS system mannose-specific EIID component
+HDEHIPCA_02950	CDS	sorA_4		PTS system sorbose-specific EIIC component
+HDEHIPCA_02951	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+HDEHIPCA_02952	CDS	levD_1	2.7.1.202	PTS system fructose-specific EIIA component
+HDEHIPCA_02953	CDS	frlB_2	3.5.-.-	Fructosamine deglycase FrlB
+HDEHIPCA_02954	CDS	yurK		putative HTH-type transcriptional regulator YurK
+HDEHIPCA_02955	CDS	yvoA_3		HTH-type transcriptional repressor YvoA
+HDEHIPCA_02956	CDS			hypothetical protein
+HDEHIPCA_02957	CDS			hypothetical protein
+HDEHIPCA_02958	CDS	acpA_2		Capsule synthesis positive regulator AcpA
+HDEHIPCA_02959	CDS	yniC	3.1.3.68	2-deoxyglucose-6-phosphate phosphatase
+HDEHIPCA_02960	CDS	dgaR_7		Transcriptional regulatory protein DagR
+HDEHIPCA_02961	CDS	frlB_3	3.5.-.-	Fructosamine deglycase FrlB
+HDEHIPCA_02962	CDS	manZ_8		PTS system mannose-specific EIID component
+HDEHIPCA_02963	CDS	sorA_5		PTS system sorbose-specific EIIC component
+HDEHIPCA_02964	CDS	manX_6	2.7.1.191	PTS system mannose-specific EIIAB component
+HDEHIPCA_02965	CDS	levD_2	2.7.1.202	PTS system fructose-specific EIIA component
+HDEHIPCA_02966	CDS	rbn_2	3.1.26.11	Ribonuclease BN
+HDEHIPCA_02967	CDS			hypothetical protein
+HDEHIPCA_02968	CDS			hypothetical protein
+HDEHIPCA_02969	CDS			hypothetical protein
+HDEHIPCA_02970	CDS			Insertion sequence IS5376 putative ATP-binding protein
+HDEHIPCA_02971	CDS			hypothetical protein
+HDEHIPCA_02972	CDS			hypothetical protein
+HDEHIPCA_02973	CDS			hypothetical protein
+HDEHIPCA_02974	CDS			hypothetical protein
+HDEHIPCA_02975	CDS			hypothetical protein
+HDEHIPCA_02976	CDS			hypothetical protein
+HDEHIPCA_02977	CDS			hypothetical protein
+HDEHIPCA_02978	CDS			hypothetical protein
+HDEHIPCA_02979	CDS			hypothetical protein
+HDEHIPCA_02980	CDS			hypothetical protein
+HDEHIPCA_02981	CDS			hypothetical protein
+HDEHIPCA_02982	CDS			hypothetical protein
+HDEHIPCA_02983	CDS			hypothetical protein
+HDEHIPCA_02984	CDS	ltrA_6		Group II intron-encoded protein LtrA
+HDEHIPCA_02985	CDS			hypothetical protein
+HDEHIPCA_02986	CDS			hypothetical protein
+HDEHIPCA_02987	CDS			hypothetical protein
+HDEHIPCA_02988	CDS			hypothetical protein
+HDEHIPCA_02989	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_02990	CDS			hypothetical protein
+HDEHIPCA_02991	CDS			hypothetical protein
+HDEHIPCA_02992	CDS			hypothetical protein
+HDEHIPCA_02993	CDS			hypothetical protein
+HDEHIPCA_02994	CDS			hypothetical protein
+HDEHIPCA_02995	CDS	walR_2		Transcriptional regulatory protein WalR
+HDEHIPCA_02996	CDS	walK_3	2.7.13.3	Sensor protein kinase WalK
+HDEHIPCA_02997	CDS	vanH_1	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+HDEHIPCA_02998	CDS	vanA_1	6.1.2.1	Vancomycin/teicoplanin A-type resistance protein VanA
+HDEHIPCA_02999	CDS	vanX_1	3.4.13.22	D-alanyl-D-alanine dipeptidase
+HDEHIPCA_03000	CDS			hypothetical protein
+HDEHIPCA_03001	CDS			hypothetical protein
+HDEHIPCA_03002	CDS			hypothetical protein
+HDEHIPCA_03003	CDS			hypothetical protein
+HDEHIPCA_03004	CDS			hypothetical protein
+HDEHIPCA_03005	CDS			hypothetical protein
+HDEHIPCA_03006	CDS	bin3_2		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_03007	CDS			hypothetical protein
+HDEHIPCA_03008	CDS			hypothetical protein
+HDEHIPCA_03009	CDS			hypothetical protein
+HDEHIPCA_03010	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_03011	CDS			hypothetical protein
+HDEHIPCA_03012	CDS			hypothetical protein
+HDEHIPCA_03013	CDS	bin3_3		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_03014	CDS	ligA_2	6.5.1.2	DNA ligase
+HDEHIPCA_03015	CDS			hypothetical protein
+HDEHIPCA_03016	CDS	bin3_4		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_03017	CDS			hypothetical protein
+HDEHIPCA_03018	CDS			hypothetical protein
+HDEHIPCA_03019	CDS			hypothetical protein
+HDEHIPCA_03020	CDS	repD		Replication initiation protein
+HDEHIPCA_03021	CDS			hypothetical protein
+HDEHIPCA_03022	CDS			hypothetical protein
+HDEHIPCA_03023	CDS			hypothetical protein
+HDEHIPCA_03024	CDS			hypothetical protein
+HDEHIPCA_03025	CDS			hypothetical protein
+HDEHIPCA_03026	CDS			hypothetical protein
+HDEHIPCA_03027	CDS	repN		Replication initiation protein
+HDEHIPCA_03028	CDS			hypothetical protein
+HDEHIPCA_03029	CDS			hypothetical protein
+HDEHIPCA_03030	CDS			hypothetical protein
+HDEHIPCA_03031	CDS	soj_2	3.6.-.-	Sporulation initiation inhibitor protein Soj
+HDEHIPCA_03032	CDS			hypothetical protein
+HDEHIPCA_03033	CDS			hypothetical protein
+HDEHIPCA_03034	CDS			hypothetical protein
+HDEHIPCA_03035	CDS	walR_3		Transcriptional regulatory protein WalR
+HDEHIPCA_03036	CDS	walK_4	2.7.13.3	Sensor protein kinase WalK
+HDEHIPCA_03037	CDS	vanH_2	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+HDEHIPCA_03038	CDS	vanA_2	6.1.2.1	Vancomycin/teicoplanin A-type resistance protein VanA
+HDEHIPCA_03039	CDS	vanX_2	3.4.13.22	D-alanyl-D-alanine dipeptidase
+HDEHIPCA_03040	CDS			hypothetical protein
+HDEHIPCA_03041	CDS			hypothetical protein
+HDEHIPCA_03042	CDS	immR_1		HTH-type transcriptional regulator ImmR
+HDEHIPCA_03043	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_03044	CDS			hypothetical protein
+HDEHIPCA_03045	CDS	yxdL_2		ABC transporter ATP-binding protein YxdL
+HDEHIPCA_03046	CDS			hypothetical protein
+HDEHIPCA_03047	CDS			hypothetical protein
+HDEHIPCA_03048	CDS			hypothetical protein
+HDEHIPCA_03049	CDS			hypothetical protein
+HDEHIPCA_03050	CDS			hypothetical protein
+HDEHIPCA_03051	CDS			hypothetical protein
+HDEHIPCA_03052	CDS			hypothetical protein
+HDEHIPCA_03053	CDS	immR_2		HTH-type transcriptional regulator ImmR
+HDEHIPCA_03054	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_03055	CDS			hypothetical protein
+HDEHIPCA_03056	CDS			hypothetical protein
+HDEHIPCA_03057	CDS	yxdL_3		ABC transporter ATP-binding protein YxdL
+HDEHIPCA_03058	CDS			hypothetical protein
+HDEHIPCA_03059	CDS			hypothetical protein
+HDEHIPCA_03060	CDS			hypothetical protein
+HDEHIPCA_03061	CDS			hypothetical protein
+HDEHIPCA_03062	CDS			hypothetical protein
+HDEHIPCA_03063	CDS			hypothetical protein
+HDEHIPCA_03064	CDS			hypothetical protein
+HDEHIPCA_03065	CDS			hypothetical protein
+HDEHIPCA_03066	CDS	yoeB_1	3.1.-.-	Toxin YoeB
+HDEHIPCA_03067	CDS			hypothetical protein
+HDEHIPCA_03068	CDS			hypothetical protein
+HDEHIPCA_03069	CDS	bin3_5		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_03070	CDS	dinB_3	2.7.7.7	DNA polymerase IV
+HDEHIPCA_03071	CDS			hypothetical protein
+HDEHIPCA_03072	CDS			hypothetical protein
+HDEHIPCA_03073	CDS			hypothetical protein
+HDEHIPCA_03074	CDS	soj_3	3.6.-.-	Sporulation initiation inhibitor protein Soj
+HDEHIPCA_03075	CDS			hypothetical protein
+HDEHIPCA_03076	CDS			hypothetical protein
+HDEHIPCA_03077	CDS			hypothetical protein
+HDEHIPCA_03078	CDS			hypothetical protein
+HDEHIPCA_03079	CDS			hypothetical protein
+HDEHIPCA_03080	CDS			hypothetical protein
+HDEHIPCA_03081	CDS			hypothetical protein
+HDEHIPCA_03082	CDS			hypothetical protein
+HDEHIPCA_03083	CDS	yoeB_2	3.1.-.-	Toxin YoeB
+HDEHIPCA_03084	CDS			hypothetical protein
+HDEHIPCA_03085	CDS			hypothetical protein
+HDEHIPCA_03086	CDS	bin3_6		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_03087	CDS	dinB_4	2.7.7.7	DNA polymerase IV
+HDEHIPCA_03088	CDS			hypothetical protein
+HDEHIPCA_03089	CDS			hypothetical protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_03090	CDS			hypothetical protein
+HDEHIPCA_03091	CDS	tee6		Trypsin-resistant surface T6 protein
+	sig_peptide			putative signal peptide
+HDEHIPCA_03092	CDS			hypothetical protein
+HDEHIPCA_03093	CDS			hypothetical protein
+HDEHIPCA_03094	CDS			hypothetical protein
+HDEHIPCA_03095	CDS			hypothetical protein
+HDEHIPCA_03096	CDS			hypothetical protein
+HDEHIPCA_03097	CDS			hypothetical protein
+HDEHIPCA_03098	CDS			hypothetical protein
+HDEHIPCA_03099	CDS			hypothetical protein
+HDEHIPCA_03100	CDS	soj_4	3.6.-.-	Sporulation initiation inhibitor protein Soj
+HDEHIPCA_03101	CDS			hypothetical protein
+HDEHIPCA_03102	CDS			hypothetical protein
+HDEHIPCA_03103	CDS			hypothetical protein
+HDEHIPCA_03104	CDS	dinB_5	2.7.7.7	DNA polymerase IV
+HDEHIPCA_03105	CDS	bin3_7		Putative transposon Tn552 DNA-invertase bin3
+HDEHIPCA_03106	CDS	pemK	3.1.-.-	Endoribonuclease PemK
+HDEHIPCA_03107	CDS	mazE		Antitoxin MazE
+HDEHIPCA_03108	CDS			hypothetical protein
+HDEHIPCA_03109	CDS			hypothetical protein
+HDEHIPCA_03110	CDS			hypothetical protein
+HDEHIPCA_03111	CDS			hypothetical protein
+HDEHIPCA_03112	CDS			hypothetical protein
+HDEHIPCA_03113	CDS			hypothetical protein
+HDEHIPCA_03114	CDS			hypothetical protein
+HDEHIPCA_03115	CDS			hypothetical protein
+HDEHIPCA_03116	CDS	ssb_3		Single-stranded DNA-binding protein
+HDEHIPCA_03117	CDS			hypothetical protein
+HDEHIPCA_03118	CDS			hypothetical protein
+HDEHIPCA_03119	CDS			hypothetical protein
+HDEHIPCA_03120	CDS	topB_4	5.99.1.2	DNA topoisomerase 3
+HDEHIPCA_03121	CDS			hypothetical protein
+HDEHIPCA_03122	CDS			hypothetical protein
+HDEHIPCA_03123	CDS			hypothetical protein
+HDEHIPCA_03124	CDS			hypothetical protein
+HDEHIPCA_03125	CDS			hypothetical protein
+HDEHIPCA_03126	CDS			hypothetical protein
+HDEHIPCA_03127	CDS			Putative conjugal transfer protein
+HDEHIPCA_03128	CDS			hypothetical protein
+HDEHIPCA_03129	CDS			hypothetical protein
+HDEHIPCA_03130	CDS			hypothetical protein
+HDEHIPCA_03131	CDS			hypothetical protein
+HDEHIPCA_03132	CDS			hypothetical protein
+HDEHIPCA_03133	CDS			hypothetical protein
+HDEHIPCA_03134	CDS			hypothetical protein
+HDEHIPCA_03135	CDS			hypothetical protein
+HDEHIPCA_03136	CDS			hypothetical protein
+HDEHIPCA_03137	CDS	ltrA_7		Group II intron-encoded protein LtrA
+HDEHIPCA_03138	CDS			hypothetical protein
+HDEHIPCA_03139	CDS			hypothetical protein
+HDEHIPCA_03140	CDS			hypothetical protein
+HDEHIPCA_03141	CDS			hypothetical protein
+HDEHIPCA_03142	CDS			hypothetical protein
+HDEHIPCA_03143	CDS			hypothetical protein
+HDEHIPCA_03144	CDS	iap_2	3.4.-.-	putative endopeptidase p60
+HDEHIPCA_03145	CDS	ftsL_3		Cell division protein FtsL
+HDEHIPCA_03146	CDS			hypothetical protein
+HDEHIPCA_03147	CDS			hypothetical protein
+HDEHIPCA_03148	CDS			hypothetical protein
+HDEHIPCA_03149	CDS			hypothetical protein
+HDEHIPCA_03150	CDS			hypothetical protein
+HDEHIPCA_03151	CDS			hypothetical protein
+HDEHIPCA_03152	CDS			hypothetical protein
+HDEHIPCA_03153	CDS			hypothetical protein
+HDEHIPCA_03154	CDS			hypothetical protein
+HDEHIPCA_03155	CDS			hypothetical protein
+HDEHIPCA_03156	CDS			hypothetical protein
+HDEHIPCA_03157	CDS			hypothetical protein
+HDEHIPCA_03158	CDS			hypothetical protein
+HDEHIPCA_03159	CDS			hypothetical protein
+HDEHIPCA_03160	CDS			hypothetical protein
+HDEHIPCA_03161	CDS			hypothetical protein
+HDEHIPCA_03162	CDS			hypothetical protein
