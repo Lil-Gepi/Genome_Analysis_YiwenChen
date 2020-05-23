@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590084311844.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EA11827C",
+    "lastKnownWriteTime" : 1590179636,
+    "last_content_update" : 1590179636252,
+    "path" : "/media/brandon/Windows/Users/brand/MyStudy/UU3st_2020/Genome_Analysis/Project/RNA_seq_Analysis/RNA_seq_Analysis.R",
+    "project_path" : "RNA_seq_Analysis.R",
+    "properties" : {
+        "cursorPosition" : "6,36",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
